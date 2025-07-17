@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///home/frostisnotsafe/Documentos/CosmoStuff/mods/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "CosmoRp (Minecraft 1.20.1)",
+    "description": "CosmoRp Running Minecraft 1.20.1 (Forge v47.4.3)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "151.243.24.182:35565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.3"
+  },
+  "untrackedFiles": []
+}

@@ -2181,9 +2181,9 @@
           "name": "test2.gif",
           "type": "File",
           "artifact": {
-            "size": 47568720,
+            "size": 11012183,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/config/fancymenu/assets/test2.gif",
-            "MD5": "eb8ee078cbdfc7fc00d5159ae45ac370",
+            "MD5": "298afe881664b90534f38905073e0fa5",
             "path": "config/fancymenu/assets/test2.gif"
           }
         },

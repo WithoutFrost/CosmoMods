@@ -1633,6 +1633,16 @@
           }
         },
         {
+          "id": "dev.tonimatas:packetfixer:2.0.0@jar",
+          "name": "Packet Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24682,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar",
+            "MD5": "f1cdfcf43af91d745f3aedb570a15aed"
+          }
+        },
+        {
           "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
           "name": "Patchouli",
           "type": "ForgeMod",

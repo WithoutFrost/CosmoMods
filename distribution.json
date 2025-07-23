@@ -1833,16 +1833,6 @@
           }
         },
         {
-          "id": "fonnymunkey.simplehats:simplehats:1.20.1-0.3.2@jar",
-          "name": "SimpleHats",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1413531,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/simplehats-forge-1.20.1-0.3.2.jar",
-            "MD5": "5617686a811a3c1f6523166b7af7f0a8"
-          }
-        },
-        {
           "id": "top.seraphjack:simplelogin:1.0.1@jar",
           "name": "Simple Login",
           "type": "ForgeMod",

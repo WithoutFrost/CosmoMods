@@ -1,8 +1,0 @@
-{
-  "slot": "wz:ammo/slot/277wrath",
-  "shell": {
-    "model": "wz:shell/277wrath_shell",
-    "texture": "wz:shell/277wrath_shell"
-  },
-  "tracer_color": "#FF8888"
-}

@@ -1,8 +1,0 @@
-{
-	"name": "emxarms.attachment.sight_emx_aw_h.name",
-	"tooltip": "emxarms.attachment.sight_emx_aw_h.tooltip",
-	"display": "emxarms:sight_emx_aw_h_display",
-	"data": "emxarms:sight_emx_aw_h_data",
-	"type": "scope",
-    "sort": 24050
-}

@@ -1,8 +1,0 @@
-{
-  "name": "jak.gun.jak_ettin.name",
-  "display": "jak:jak_ettin_display",
-  "data": "jak:jak_ettin_data",
-  "tooltip": "jak.gun.jak_ettin.desc",
-  "type": "smg",
-  "sort": 1201
-}

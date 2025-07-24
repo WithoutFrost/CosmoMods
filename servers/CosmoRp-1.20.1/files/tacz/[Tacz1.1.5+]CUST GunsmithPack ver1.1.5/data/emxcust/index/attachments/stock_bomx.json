@@ -1,8 +1,0 @@
-{
-  "name": "emxcust.attachment.stock_bomx.name",
-  "tooltip": "emxcust.attachment.stock_bomx.tooltip",
-  "display": "emxcust:stock_bomx_display",
-  "data": "emxcust:stock_bomx_data",
-  "type": "stock",
-  "sort": 24050
-}

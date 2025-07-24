@@ -1,8 +1,0 @@
-{
-  "name": "wsp.attachment.zs4_scope.name",
-  "display": "wsp:zs4_scope_display",
-  "tooltip": "wsp.attachment.zs4_scope.tooltip",
-  "data": "wsp:zs4_scope_data",
-  "type": "scope",
-  "sort": 100
-}

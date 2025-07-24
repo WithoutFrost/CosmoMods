@@ -1,9 +1,0 @@
-{
-  "slot": "ex:attachment/slot/muzzle_m82_silencer",
-  "model": "ex:attachment/muzzle_m82_silencer_geo",
-  "texture": "ex:attachment/uv/muzzle_m82_silencer",
-  "sounds": {
-    "install": "ex:attachments/attachment_install",
-    "uninstall": "ex:attachments/attachment_uninstall"
-  }
-}

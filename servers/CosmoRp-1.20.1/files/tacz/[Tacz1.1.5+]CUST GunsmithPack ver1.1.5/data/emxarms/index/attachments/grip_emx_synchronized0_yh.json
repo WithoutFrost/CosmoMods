@@ -1,8 +1,0 @@
-{
-	"name": "emxarms.attachment.grip_emx_synchronized_yh.name",
-	"tooltip": "emxarms.attachment.grip_emx_ct_yh1.tooltip",
-	"display": "emxarms:grip_emx_synchronized0_yh_display",
-	"data": "emxarms:grip_emx_synchronized_yh_data",
-	"type": "grip",
-    "sort": 24050
-}

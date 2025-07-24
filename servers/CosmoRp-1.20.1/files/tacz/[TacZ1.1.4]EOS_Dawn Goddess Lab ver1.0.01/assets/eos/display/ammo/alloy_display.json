@@ -1,6 +1,0 @@
-{
-  "model": "eos:ammo/alloy",
-  "texture": "eos:ammo/uv/alloy",
-  "slot": "eos:ammo/slot/alloy",
-  "tracer_color": "#be007e"
-}

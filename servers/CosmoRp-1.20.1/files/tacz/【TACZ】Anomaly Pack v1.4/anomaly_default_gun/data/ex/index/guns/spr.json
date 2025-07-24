@@ -1,7 +1,0 @@
-{
-  "name": "ex.gun.spr.name",
-  "display": "ex:spr_display",
-  "data": "ex:spr_data",
-  "tooltip": "ex.gun.spr.desc",
-  "type": "sniper"
-}

@@ -1,8 +1,0 @@
-{
-	"hidden": true,
-  "name": "ex.attachment.scope_intervention.name",
-  "tooltip": "ex.attachment.scope_intervention.desc",
-  "display": "ex:scope_intervention_display",
-  "data": "ex:scope_intervention_data",
-  "type": "scope"
-}

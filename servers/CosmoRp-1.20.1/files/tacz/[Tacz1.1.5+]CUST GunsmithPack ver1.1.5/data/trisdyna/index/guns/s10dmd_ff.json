@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.s10dmd_ff.name",
-    "display": "trisdyna:s10dmd_ff_display",
-    "tooltip": "trisdyna.s10dmd_ff.desc",
-    "data": "trisdyna:s10dmd_ff_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "sniper",
-    "sort": 24050
-}

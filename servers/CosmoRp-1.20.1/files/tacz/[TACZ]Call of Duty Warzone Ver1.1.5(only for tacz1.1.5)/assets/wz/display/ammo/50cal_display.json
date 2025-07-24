@@ -1,8 +1,0 @@
-{
-  "slot": "wz:ammo/slot/50cal",
-  "shell": {
-    "model": "wz:shell/50cal_shell",
-    "texture": "wz:shell/50cal_shell"
-  },
-  "tracer_color": "#FF8888"
-}

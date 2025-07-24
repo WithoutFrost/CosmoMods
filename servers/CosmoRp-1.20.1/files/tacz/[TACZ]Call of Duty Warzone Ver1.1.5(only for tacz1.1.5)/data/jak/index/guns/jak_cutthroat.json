@@ -1,8 +1,0 @@
-{
-  "name": "jak.gun.jak_cutthroat.name",
-  "display": "jak:jak_cutthroat_display",
-  "data": "jak:jak_cutthroat_data",
-  "tooltip": "jak.gun.jak_cutthroat.desc",
-  "type": "rifle",
-  "sort": 1201
-}

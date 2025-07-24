@@ -1,8 +1,0 @@
-{
-  "name": "emxarms.attachment.bayonet_emx_skyhunter_yh.name",
-  "tooltip": "emxarms.attachment.grip_emx_ct_yh1.tooltip",
-  "display": "emxarms:bayonet_emx_skyhunter_yh_display",
-  "data": "emxarms:bayonet_emx_skyhunter_yh_data",
-  "type": "muzzle",
-    "sort": 24050
-}

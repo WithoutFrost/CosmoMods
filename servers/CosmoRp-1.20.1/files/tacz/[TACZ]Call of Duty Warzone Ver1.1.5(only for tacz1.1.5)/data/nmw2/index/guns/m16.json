@@ -1,8 +1,0 @@
-{
-  "name": "nmw2.gun.m16.name",
-  "display": "nmw2:m16_display",
-  "data": "nmw2:m16_data",
-  "tooltip": "nmw2.gun.m16.desc",
-  "type": "rifle",
-  "sort": 1190
-}

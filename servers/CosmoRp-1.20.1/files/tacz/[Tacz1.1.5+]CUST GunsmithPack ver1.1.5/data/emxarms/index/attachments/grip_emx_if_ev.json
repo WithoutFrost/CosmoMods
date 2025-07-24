@@ -1,8 +1,0 @@
-{
-  "name": "emxarms.attachment.grip_emx_if_ev.name",
-  "tooltip": "emxarms.attachment.grip_emx_if_ev.tooltip",
-  "display": "emxarms:grip_emx_if_ev_display",
-  "data": "emxarms:grip_emx_if_ev_data",
-  "type": "grip",
-    "sort": 24050
-}

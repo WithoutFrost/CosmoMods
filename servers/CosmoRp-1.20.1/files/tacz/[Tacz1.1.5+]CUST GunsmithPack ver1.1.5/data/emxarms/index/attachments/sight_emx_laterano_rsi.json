@@ -1,8 +1,0 @@
-{
-	"name": "emxarms.attachment.sight_emx_laterano_rsi.name",
-	"tooltip": "emxarms.attachment.grip_emx_ct_rsi1.tooltip",
-	"display": "emxarms:sight_emx_laterano_rsi_display",
-	"data": "emxarms:sight_emx_laterano_yh_data",
-	"type": "scope",
-    "sort": 24050
-}

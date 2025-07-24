@@ -1,8 +1,0 @@
-{
-  "name": "emxarms.gun.emx_pulse_al.name",
-  "display": "emxarms:emx_pulse_al_display",
-    "tooltip": "emxarms.gun.emx_pulse_al.desc",
-  "data": "emxarms:emx_pulse_al_data",
-  "type": "pistol",
-    "sort": 24050
-}

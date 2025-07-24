@@ -1,7 +1,0 @@
-{
-  "name": "starfish.attachment.bigmag.name",
-  "tooltip": "starfish.tooltip.bigmag",
-  "display": "starfish:bigmag_display",
-  "data": "starfish:bigmag_data",
-  "type": "extended_mag"
-}

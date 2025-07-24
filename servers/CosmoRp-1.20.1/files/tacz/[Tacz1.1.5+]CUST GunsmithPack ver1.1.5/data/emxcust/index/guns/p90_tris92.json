@@ -1,9 +1,0 @@
-{
-    "name": "emxcust.p90_tris92",
-    "display": "emxcust:p90_tris92_display",
-    "data": "emxcust:p90_tris92_data",
-    "tooltip": "emxcust.tooltip.p90_tris92",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "smg",
-    "sort": 24050
-}

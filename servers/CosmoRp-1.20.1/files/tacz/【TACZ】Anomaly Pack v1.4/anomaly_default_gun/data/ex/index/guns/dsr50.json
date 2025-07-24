@@ -1,7 +1,0 @@
-{
-  "name": "ex.gun.dsr50.name",
-  "display": "ex:dsr50_display",
-  "data": "ex:dsr50_data",
-  "tooltip": "ex.gun.dsr50.desc",
-  "type": "sniper"
-}

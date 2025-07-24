@@ -1,7 +1,0 @@
-{
-  "name": "ccrp.attachment.flash.name",
-  "tooltip": "ccrp.attachment.flash.desc",
-  "display": "ccrp:flash_display",
-  "data": "ccrp:flash_data",
-  "type": "stock"
-}

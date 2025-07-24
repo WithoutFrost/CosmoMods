@@ -1,9 +1,0 @@
-{
-    "name": "yeet.gun.brick.name",
-    "display": "yeet:brick_display",
-    "data": "yeet:brick_data",
-    "tooltip": "yeet.gun.brick.desc",
-    "type": "rpg",
-    "item_type": "modern_kinetic",
-    "sort": 7007
-}

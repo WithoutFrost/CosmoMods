@@ -1,9 +1,0 @@
-{
-    "name": "yeet.gun.m48axe.name",
-    "display": "yeet:m48axe_display",
-    "data": "yeet:m48axe_data",
-    "tooltip": "yeet.gun.m48axe.desc",
-    "type": "rpg",
-    "item_type": "modern_kinetic",
-    "sort": 7006
-}

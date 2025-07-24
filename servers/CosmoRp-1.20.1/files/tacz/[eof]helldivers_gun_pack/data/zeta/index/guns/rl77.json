@@ -1,9 +1,0 @@
-{
-    "name": "zeta.gun.rl77.name",
-    "display": "zeta:rl77_display",
-    "data": "zeta:rl77_data",
-    "type": "rpg",
-    "item_type": "modern_kinetic",
-    "sort": 1,
-    "tooltip":"zeta.gun.rl77.desc"
-}

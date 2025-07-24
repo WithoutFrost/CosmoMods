@@ -1,7 +1,0 @@
-{
-  "name": "ex.gun.traitor.name",
-  "display": "ex:traitor_display",
-  "data": "ex:traitor_data",
-  "tooltip": "ex.gun.traitor.desc",
-  "type": "mg"
-}

@@ -1,8 +1,0 @@
-{
-	"hidden": true,
-  "name": "ex.attachment.scope_gehenna.name",
-  "tooltip": "ex.attachment.scope_gehenna.desc",
-  "display": "ex:scope_gehenna_display",
-  "data": "ex:scope_gehenna_data",
-  "type": "scope"
-}

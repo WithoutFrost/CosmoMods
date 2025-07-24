@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.rc_ar.name",
-    "display": "trisdyna:rc_ar_display",
-    "tooltip": "trisdyna.gun.rc_ar.desc",
-    "data": "trisdyna:rc_ar_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "rpg",
-    "sort": 24050
-}

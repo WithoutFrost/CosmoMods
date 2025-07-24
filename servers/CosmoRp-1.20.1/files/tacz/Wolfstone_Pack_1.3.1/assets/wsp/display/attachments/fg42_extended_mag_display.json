@@ -1,7 +1,0 @@
-{
-  "slot": "wsp:attachment/slot/fg42_extended_mag",
-  "sounds": {
-    "install": "tacz:attachments/extended_mag_install",
-    "uninstall": "tacz:attachments/extended_mag_uninstall"
-  }
-}

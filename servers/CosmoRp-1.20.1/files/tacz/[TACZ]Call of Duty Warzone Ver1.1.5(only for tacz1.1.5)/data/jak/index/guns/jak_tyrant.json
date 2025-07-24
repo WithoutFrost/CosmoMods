@@ -1,8 +1,0 @@
-{
-  "name": "jak.gun.jak_tyrant.name",
-  "display": "jak:jak_tyrant_display",
-  "data": "jak:jak_tyrant_data",
-  "tooltip": "jak.gun.jak_tyrant.desc",
-  "type": "sniper",
-  "sort": 1201
-}

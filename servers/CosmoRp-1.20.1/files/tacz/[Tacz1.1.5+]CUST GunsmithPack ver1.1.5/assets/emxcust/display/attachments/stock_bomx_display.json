@@ -1,7 +1,0 @@
-{
-  "slot": "emxcust:attachment/slot/stock_bomx",
-  "sounds": {
-    "install": "emxcust:trisguns/wisadel_insall",
-    "uninstall": "tacz:attachments/bayonet_uninstall"
-  }
-}

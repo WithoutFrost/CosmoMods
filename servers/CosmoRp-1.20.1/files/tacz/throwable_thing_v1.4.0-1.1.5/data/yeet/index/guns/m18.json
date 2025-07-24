@@ -1,9 +1,0 @@
-{
-    "name": "yeet.gun.m18.name",
-    "display": "yeet:m18_display",
-    "data": "yeet:m18_data",
-    "tooltip": "yeet.gun.m18.desc",
-    "type": "rpg",
-    "item_type": "modern_kinetic",
-    "sort": 7005
-}

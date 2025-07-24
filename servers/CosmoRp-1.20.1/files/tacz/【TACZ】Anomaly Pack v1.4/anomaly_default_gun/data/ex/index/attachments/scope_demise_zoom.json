@@ -1,7 +1,0 @@
-{
-  "name": "ex.attachment.scope_demise_zoom.name",
-  "display": "ex:scope_demise_zoom_display",
-  "data": "ex:scope_demise_zoom_data",
-  "tooltip": "ex.attachment.scope_demise_zoom.desc",
-  "type": "scope"
-}

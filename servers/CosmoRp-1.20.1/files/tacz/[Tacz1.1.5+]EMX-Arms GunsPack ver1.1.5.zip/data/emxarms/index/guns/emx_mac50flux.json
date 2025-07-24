@@ -1,8 +1,0 @@
-{
-  "name": "emxarms.test.name",
-  "display": "emxarms:emx_mac50flux_display",
-    "tooltip": "emxarms.test.desc",
-  "data": "emxarms:emx_mac50flux_data",
-  "type": "smg",
-  "sort": 24090
-}

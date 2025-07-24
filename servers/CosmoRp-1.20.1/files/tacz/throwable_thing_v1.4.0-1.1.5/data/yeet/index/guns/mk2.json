@@ -1,9 +1,0 @@
-{
-    "name": "yeet.gun.mk2.name",
-    "display": "yeet:mk2_display",
-    "data": "yeet:mk2_data",
-    "tooltip": "yeet.gun.mk2.desc",
-    "type": "rpg",
-    "item_type": "modern_kinetic",
-    "sort": 7004
-}

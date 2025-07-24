@@ -1,8 +1,0 @@
-{
-  "name": "emxarms.test.name",
-  "display": "emxarms:emx_nikana_display",
-    "tooltip": "emxarms.test.desc",
-  "data": "emxarms:emx_nikana_data",
-  "type": "pistol",
-  "sort": 24090
-}

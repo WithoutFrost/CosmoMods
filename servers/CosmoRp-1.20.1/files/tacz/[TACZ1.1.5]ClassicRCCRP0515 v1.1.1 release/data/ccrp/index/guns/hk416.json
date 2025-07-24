@@ -1,8 +1,0 @@
-{
-  "name": "ccrp.gun.hk416.name",
-  "display": "ccrp:hk416_display",
-  "data": "ccrp:hk416_data",
-  "type": "rifle",
-  "tooltip": "ccrp.gun.hk416.desc",
-  "sort": 10
-}

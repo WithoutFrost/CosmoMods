@@ -1,7 +1,0 @@
-{
-  "name": "ex.attachment.grip_dsr50_laser.name",
-  "tooltip": "ex.attachment.grip_dsr50_laser.desc",
-  "display": "ex:grip_dsr50_laser_display",
-  "data": "ex:grip_dsr50_laser_data",
-  "type": "grip"
-}

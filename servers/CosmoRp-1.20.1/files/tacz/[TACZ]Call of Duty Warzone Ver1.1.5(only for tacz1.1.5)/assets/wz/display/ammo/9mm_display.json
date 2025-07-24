@@ -1,8 +1,0 @@
-{
-  "slot": "wz:ammo/slot/9mm",
-  "shell": {
-    "model": "wz:shell/9mm_shell",
-    "texture": "wz:shell/9mm_shell"
-  },
-  "tracer_color": "#FF8888"
-}

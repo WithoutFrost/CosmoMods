@@ -1,9 +1,0 @@
-{
-  "slot": "ex:attachment/slot/muzzle_silencer_marauder",
-  "model": "ex:attachment/muzzle_silencer_marauder_geo",
-  "texture": "ex:attachment/uv/muzzle_silencer_marauder",
-  "sounds": {
-    "install": "ex:attachments/attachment_install",
-    "uninstall": "ex:attachments/attachment_uninstall"
-  }
-}

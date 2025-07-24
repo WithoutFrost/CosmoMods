@@ -1,8 +1,0 @@
-{
-  "name": "jak.gun.jak_atlas.name",
-  "display": "jak:jak_atlas_display",
-  "data": "jak:jak_atlas_data",
-  "tooltip": "jak.gun.jak_atlas.desc",
-  "type": "rifle",
-  "sort": 1201
-}

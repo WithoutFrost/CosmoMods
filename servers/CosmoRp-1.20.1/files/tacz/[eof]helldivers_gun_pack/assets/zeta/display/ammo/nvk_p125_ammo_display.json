@@ -1,8 +1,0 @@
-{
-    "model": "zeta:ammo/nvk_p125_ammo_geo",
-    "texture": "zeta:ammo/uv/nvk_p125_ammo",
-    "slot": "zeta:ammo/slot/nvk_p125_ammo",
-    "tracer_color": "#01f1ff"
-    }
-
-  

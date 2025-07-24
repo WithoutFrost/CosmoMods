@@ -1,7 +1,0 @@
-{
-  "name": "ex.gun.intervention.name",
-  "display": "ex:intervention_display",
-  "data": "ex:intervention_data",
-  "tooltip": "ex.gun.intervention.desc",
-  "type": "sniper"
-}

@@ -1,7 +1,0 @@
-{
-  "name": "ex.gun.doom.name",
-  "display": "ex:doom_display",
-  "data": "ex:doom_data",
-  "tooltip": "ex.gun.doom.desc",
-  "type": "shotgun"
-}

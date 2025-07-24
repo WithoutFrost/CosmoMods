@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.fl3e_sd.name",
-    "display": "trisdyna:fl3e_sd_display",
-    "tooltip": "trisdyna.fl3e_sd.desc",
-    "data": "trisdyna:fl3e_sd_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "pistol",
-    "sort": 24050
-}

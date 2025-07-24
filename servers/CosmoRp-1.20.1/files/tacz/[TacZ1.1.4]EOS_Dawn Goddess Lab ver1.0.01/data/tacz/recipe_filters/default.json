@@ -1,8 +1,0 @@
-{
-  "whitelist": [
-  "eos:gun/wa2000"
-  ],
-  "blacklist": [
-    "^eos:.*$"
-  ]
-}

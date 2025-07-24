@@ -1,7 +1,0 @@
-{
-  "name": "ex.attachment.muzzle_monolithic_silencer.name",
-  "tooltip": "ex.attachment.muzzle_monolithic_silencer.desc",
-  "display": "ex:muzzle_monolithic_silencer_display",
-  "data": "ex:muzzle_monolithic_silencer_data",
-  "type": "muzzle"
-}

@@ -1,8 +1,0 @@
-{
-  "name": "bo6.gun.hdr.name",
-  "display": "bo6:hdr_display",
-  "data": "bo6:hdr_data",
-  "tooltip": "bo6.gun.hdr.desc",
-  "type": "sniper",
-  "sort": 1210
-}

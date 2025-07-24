@@ -1,8 +1,0 @@
-{
-  "slot": "wz:ammo/slot/300blk",
-  "shell": {
-    "model": "wz:shell/300blk_shell",
-    "texture": "wz:shell/300blk_shell"
-  },
-  "tracer_color": "#FF8888"
-}

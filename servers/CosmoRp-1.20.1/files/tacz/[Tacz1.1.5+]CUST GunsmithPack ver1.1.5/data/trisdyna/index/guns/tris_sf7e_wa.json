@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.tris_sf7e_wa.name",
-    "display": "trisdyna:tris_sf7e_wa_display",
-    "tooltip": "trisdyna.gun.tris_sf7e_wa.desc",
-    "data": "trisdyna:tris_sf7e_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "sniper",
-    "sort": 24050
-}

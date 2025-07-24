@@ -1,7 +1,0 @@
-{
-  "name": "ex.attachment.muzzle_silencer_marauder.name",
-  "display": "ex:muzzle_silencer_marauder_display",
-  "data": "ex:muzzle_silencer_marauder_data",
-  "tooltip": "ex.attachment.muzzle_silencer_marauder.desc",
-  "type": "muzzle"
-}

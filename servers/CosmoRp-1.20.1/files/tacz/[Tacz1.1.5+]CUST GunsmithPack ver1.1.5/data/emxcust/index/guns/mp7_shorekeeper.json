@@ -1,8 +1,0 @@
-{
-  "name": "emxcust.gun.mp7_shorekeeper.name",
-  "display": "emxcust:mp7_shorekeeper_display",
-  "data": "emxcust:mp7_shorekeeper_data",
-  "tooltip": "emxcust.gun.mp7_shorekeeper.desc",
-  "type": "smg",
-  "sort": 24050
-}

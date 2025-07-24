@@ -1,8 +1,0 @@
-{
-  "slot": "wz:ammo/slot/762x39mm",
-  "shell": {
-    "model": "wz:shell/762x39mm_shell",
-    "texture": "wz:shell/762x39mm_shell"
-  },
-  "tracer_color": "#FF8888"
-}

@@ -1,0 +1,7 @@
+{
+  "slot": "emxcust:attachment/slot/lc_985",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

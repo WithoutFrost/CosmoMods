@@ -1,0 +1,8 @@
+{
+    "name": "emxarms.gun.emx_rivet_gw.name",
+    "display": "emxarms:emx_rivet_gw_display",
+    "tooltip": "emxarms.gun.emx_rivet_gw.desc",
+    "data": "emxarms:emx_rivet_gw_data",
+    "type": "rifle",
+    "sort": 24050
+}

@@ -1,0 +1,17 @@
+[
+  "tacz:sight_sro_dot",
+  "tacz:rmr_dot",
+  "#tacz:scope",
+  "#emxarms:l_mag",
+  "#emxarms:scope",
+  "#emxarms:grip",
+  "#emxarms:extended_mag",
+  "#tacz:ar_laser",
+  "#emxmors:scope",
+  "#trisdyna:muzzle",
+  "emxarms:sight_emx_demo2",
+  "emxarms:sight_emx_integer",
+  "#emxarms:stock",
+  "emxarms:grip_emx_double",
+  "#emxarms:muzzle"
+]

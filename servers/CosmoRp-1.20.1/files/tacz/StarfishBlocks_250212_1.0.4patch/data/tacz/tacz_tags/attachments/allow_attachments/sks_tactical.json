@@ -1,0 +1,10 @@
+[
+  "#tacz:scope",
+  "#tacz:muzzle",
+  "#tacz:extended_mag",
+  "#tacz:stock",
+  "tacz:oem_stock_tactical",
+  "tacz:oem_stock_heavy",
+  "#tacz:grip",
+  "starfish:g28compensator"
+]

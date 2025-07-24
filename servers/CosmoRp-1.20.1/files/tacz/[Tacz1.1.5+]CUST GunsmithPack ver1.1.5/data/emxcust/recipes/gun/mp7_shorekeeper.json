@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "emxcust:emx_cus_tool"
+        }
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:hk_mp5a5"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:light_blue_dye"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "emxcust:mp7_shorekeeper"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

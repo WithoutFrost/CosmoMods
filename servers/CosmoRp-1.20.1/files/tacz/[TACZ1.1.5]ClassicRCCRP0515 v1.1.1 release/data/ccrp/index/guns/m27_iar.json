@@ -1,0 +1,8 @@
+{
+  "name": "ccrp.gun.m27_iar.name",
+  "display": "ccrp:m27_iar_display",
+  "data": "ccrp:m27_iar_data",
+  "type": "mg",
+  "tooltip": "ccrp.gun.m27_iar.desc",
+  "sort": 10
+}

@@ -1,0 +1,47 @@
+{
+  "model": "bo6:gun/xm4_geo",
+  "texture": "bo6:gun/uv/xm4",
+  "hud": "bo6:gun/hud/xm4",
+  "slot": "bo6:gun/slot/xm4",
+  "animation": "bo6:xm4",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.55
+  },
+  "ammo": {
+    "tracer_color": "#e3c372"
+  },
+  "iron_zoom": 1.25,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "bo6:xm4/xm4_shoot",
+    "shoot_3p": "bo6:xm4/xm4_shoot_3p",
+    "silence": "bo6:xm4/xm4_silence",
+    "silence_3p": "bo6:xm4/xm4_silence_3p",
+    "reload_empty": "tacz:m16a1/m16a1_reload_empty",
+    "reload_tactical": "tacz:m16a1/m16a1_reload_tactical",
+    "inspect": "tacz:m16a1/m16a1_inspect",
+    "inspect_empty": "tacz:m16a1/m16a1_inspect_empty",
+    "draw": "tacz:m16a1/m16a1_draw",
+    "put_away": "tacz:m16a1/m16a1_put_away"
+  }
+}

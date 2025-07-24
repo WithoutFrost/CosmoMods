@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:glass_panes"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_nugget"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "minecraft:light_blue_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "starfish:sight_itrans"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

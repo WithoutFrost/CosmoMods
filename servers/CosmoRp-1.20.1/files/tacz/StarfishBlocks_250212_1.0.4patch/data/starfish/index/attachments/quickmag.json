@@ -1,0 +1,7 @@
+{
+  "name": "starfish.attachment.quickmag.name",
+  "tooltip": "starfish.tooltip.quickmag",
+  "display": "starfish:quickmag_display",
+  "data": "starfish:quickmag_data",
+  "type": "extended_mag"
+}

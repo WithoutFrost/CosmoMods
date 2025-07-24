@@ -1,0 +1,7 @@
+{
+    "name": "ex.gun.demise.name",
+    "display": "ex:demise_display",
+    "data": "ex:demise_data",
+    "tooltip": "ex.gun.demise.desc",
+    "type": "sniper"
+}

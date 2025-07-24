@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/gray"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:flint"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "yeet:ammo_m18",
+    "count": 3
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

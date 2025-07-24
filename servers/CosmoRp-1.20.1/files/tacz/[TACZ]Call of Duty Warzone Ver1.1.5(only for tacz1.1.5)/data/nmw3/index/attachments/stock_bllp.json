@@ -1,0 +1,7 @@
+{
+  "name": "nmw3.attachment.stock_bllp.name",
+  "display": "nmw3:stock_bllp_display",
+  "data": "nmw3:stock_bllp_data",
+  "type": "stock",
+  "sort": "1200"
+}

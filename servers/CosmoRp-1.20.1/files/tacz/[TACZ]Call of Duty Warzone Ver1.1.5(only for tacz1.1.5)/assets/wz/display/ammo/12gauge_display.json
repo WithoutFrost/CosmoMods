@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/12gauge",
+  "shell": {
+    "model": "wz:shell/12gauge_shell",
+    "texture": "wz:shell/12gauge_shell"
+  },
+  "tracer_color": "#FF8888"
+}

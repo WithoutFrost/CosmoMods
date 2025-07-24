@@ -1,0 +1,14 @@
+{
+  "slot": "ex:attachment/slot/default_scope",
+  "model": "ex:attachment/scope_gehenna_geo",
+  "texture": "ex:attachment/uv/scope_gehenna",
+  "zoom": [
+    8.0
+  ],
+  "scope": true,
+  "fov": 20.0,
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

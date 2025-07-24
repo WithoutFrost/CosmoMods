@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "emxcust:emx_cus_tool"
+        }
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "emxarms:emx_expel32se"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:blue_dye"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_block"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "emxarms:emx_expel32se_ba"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

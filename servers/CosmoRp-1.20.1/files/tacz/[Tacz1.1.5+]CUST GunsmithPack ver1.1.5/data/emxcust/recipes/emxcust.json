@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:workbench_b",
+    "nbt": {
+      "BlockId": "emxcust:emxcust"
+    }
+  },
+  "pattern": [
+    "DLD",
+    "IRI",
+    "D D"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:gold_block"
+    },
+    "R": {
+      "item": "minecraft:gray_wool"
+    },
+    "I": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "item": "minecraft:polished_deepslate"
+	}
+  }
+}

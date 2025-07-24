@@ -1,0 +1,8 @@
+{
+  "name": "emxcust.gun.mk20_emx90.name",
+  "display": "emxcust:mk20_emx90_display",
+  "data": "emxcust:mk20_emx90_data",
+  "tooltip": "emxcust.gun.mk20_emx90.desc",
+  "type": "sniper",
+  "sort": 24050
+}

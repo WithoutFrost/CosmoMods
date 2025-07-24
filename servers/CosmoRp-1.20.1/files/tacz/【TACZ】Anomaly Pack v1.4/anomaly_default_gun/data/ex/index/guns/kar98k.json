@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.kar98k.name",
+  "display": "ex:kar98k_display",
+  "data": "ex:kar98k_data",
+  "tooltip": "ex.gun.kar98k.desc",
+  "type": "sniper"
+}

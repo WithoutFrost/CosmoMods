@@ -1,0 +1,8 @@
+{
+  "name": "nmw2.gun.fss.name",
+  "display": "nmw2:fss_display",
+  "data": "nmw2:fss_data",
+  "tooltip": "nmw2.gun.fss.desc",
+  "type": "smg",
+  "sort": 1190
+}

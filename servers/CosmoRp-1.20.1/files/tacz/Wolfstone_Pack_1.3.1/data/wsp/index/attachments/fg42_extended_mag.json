@@ -1,0 +1,8 @@
+{
+  "name": "wsp.attachment.fg42_extended_mag.name",
+  "tooltip": "wsp.attachment.fg42_extended_mag.tooltip",
+  "display": "wsp:fg42_extended_mag_display",
+  "data": "wsp:fg42_extended_mag_data",
+  "type": "extended_mag",
+  "sort": 1
+}

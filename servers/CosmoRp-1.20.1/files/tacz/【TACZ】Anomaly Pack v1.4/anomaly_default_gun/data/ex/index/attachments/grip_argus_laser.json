@@ -1,0 +1,7 @@
+{
+  "name": "ex.attachment.grip_argus_laser.name",
+  "tooltip": "ex.attachment.grip_argus_laser.desc",
+  "display": "ex:grip_argus_laser_display",
+  "data": "ex:grip_argus_laser_data",
+  "type": "grip"
+}

@@ -1,0 +1,26 @@
+{
+  "nmw3.gun.bal27.desc": "无托式实验武器\n能以强大的火力撕碎目标\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.amr9.desc": "全自动微型冲锋枪\n是偏好中近射程作战的特工的首选\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.longbow.desc": "一款经过大量改装的轻型狙击步枪\n专为精准射击和重复射击而设计\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.basb.desc": "威力和可控性都很出色\n具有优秀的总体性能和可靠性\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.mtz556.desc": "近战突击步枪\n拥有超高射速，在中近射程作战中表现出色\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.haymaker.desc": "这款弹匣供弹的战斗霰弹枪在近距离作战时效果显著\n可在房间内扫射，弹无虚发\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.holger556.desc": "具有绝佳的有效射程和可靠性\n适合大多数战场环境\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.holger26.desc": "高模块化的轻机枪\n适用于大多数作战场景\n§c§l枪械出自 使命召唤：现代战争2023",
+  "nmw3.gun.dm56.desc": "设计精良，威力巨大\n这把精确射手步枪具有同类武器中最佳的射速和优秀的可控性\n§c§l枪械出自 使命召唤：现代战争2023",
+  
+  "nmw3.attachment.stock_bllp.name": "§c布鲁恩LAUR4轻型精确枪托",
+
+  "nmw3.gun.basb_bvl.name": "§cBAS-B§c§l『布鲁恩毒液长枪管』",  
+  "nmw3.gun.basb_bvl.desc": "重型长枪管，适合从远处消灭目标\n能提升威力、有效射程、射击精度和后座可控性\n§c§l枪械出自 使命召唤：现代战争2023",
+
+  "nmw3.gun.bal27.name": "§cBal-27 突击步枪",
+  "nmw3.gun.amr9.name": "§cAMR9 微型冲锋枪",
+  "nmw3.gun.longbow.name": "§c长弓 狙击步枪",
+  "nmw3.gun.basb.name": "§cBAS-B 战斗步枪",
+  "nmw3.gun.mtz556.name": "§cMTZ-556 突击步枪",
+  "nmw3.gun.haymaker.name": "§c海马克 霰弹枪",
+  "nmw3.gun.holger556.name": "§c霍尔格556 突击步枪",
+  "nmw3.gun.holger26.name": "§c霍尔格26 轻机枪",
+  "nmw3.gun.dm56.name": "§cDM56 精确射手步枪"
+}

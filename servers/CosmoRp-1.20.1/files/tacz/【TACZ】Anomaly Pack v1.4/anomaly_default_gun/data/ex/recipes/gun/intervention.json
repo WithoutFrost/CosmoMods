@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 192
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 128
+    },
+    {
+      "item":{
+    "item": "minecraft:gunpowder"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/red"
+      },
+      "count": 32
+    },
+    {
+      "item":{
+    "item": "minecraft:black_dye"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "ex:intervention"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

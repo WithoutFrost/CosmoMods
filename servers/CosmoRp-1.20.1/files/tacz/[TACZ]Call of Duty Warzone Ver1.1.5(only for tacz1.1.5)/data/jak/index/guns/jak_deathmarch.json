@@ -1,0 +1,8 @@
+{
+  "name": "jak.gun.jak_deathmarch.name",
+  "display": "jak:jak_deathmarch_display",
+  "data": "jak:jak_deathmarch_data",
+  "tooltip": "jak.gun.jak_deathmarch.desc",
+  "type": "rifle",
+  "sort": 1201
+}

@@ -1,0 +1,97 @@
+{
+  "ammo": "tacz:50bmg",
+  "ammo_amount": 10,
+  "bolt": "closed_bolt",
+  "rpm": 450,
+  "bullet": {
+    "life": 1.1,
+    "bullet_amount": 1,
+    "damage": 75,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.75,
+      "head_shot_multiplier": 2.5,
+      "damage_adjust": [
+        {"distance": 75, "damage": 75},
+        {"distance": 150, "damage": 65},
+        {"distance": "infinite", "damage": 50}
+      ]
+    },
+    "speed": 400,
+    "gravity": 0.15,
+    "knockback": 0,
+    "friction": 0.03,
+    "ignite": false,
+    "pierce": 5
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 3.5,
+      "tactical": 2.0
+    },
+    "cooldown": {
+      "empty": 3.9,
+      "tactical": 2.8
+    }
+  },
+  "draw_time": 0.75,
+  "put_away_time": 0.8,
+  "aim_time": 0.23,
+  "sprint_time": 0.2,
+  "weight": 10.7,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.4,
+    "reload": -0.2
+  },
+  "crawl_recoil_multiplier": 0.33,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [5.5, 5.5]},
+      {"time": 0.07, "value": [4.5, 4.5]},
+      {"time": 0.16, "value": [5.25, 5.25]},
+      {"time": 0.24, "value": [4, 4]},
+      {"time": 0.6, "value": [-0.5, -0.5]},
+      {"time": 0.71, "value": [0.25, 0.25]},
+      {"time": 0.83, "value": [0, 0]},
+      {"time": 0.88, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-1.25, -1.25]},
+      {"time": 0.08, "value": [1.15, 1.15]},
+      {"time": 0.17, "value": [-0.5, -0.5]},
+      {"time": 0.28, "value": [0.25, 0.25]},
+      {"time": 0.5, "value": [0, 0]},
+      {"time": 0.8, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 6,
+    "move": 8,
+    "sneak": 3,
+    "lie": 0.05,
+    "aim": 0.01
+  },
+  "melee": {
+    "distance": 0,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 0,
+      "range_angle": 0,
+      "damage": 0,
+      "knockback": 0,
+      "prep": 0
+    }
+  },
+  "builtin_attachments": {
+    "scope": "ex:scope_bfg50a"
+  },
+  "allow_attachment_types": [
+    "scope"
+  ]
+}

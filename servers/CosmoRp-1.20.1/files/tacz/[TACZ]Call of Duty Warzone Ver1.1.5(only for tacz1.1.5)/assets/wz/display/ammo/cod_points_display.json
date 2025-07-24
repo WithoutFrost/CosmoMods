@@ -1,0 +1,5 @@
+{
+  "model": "wz:ammo/cod_points",
+  "texture": "wz:ammo/uv/cod_points",
+  "slot": "wz:ammo/slot/cod_points"
+}

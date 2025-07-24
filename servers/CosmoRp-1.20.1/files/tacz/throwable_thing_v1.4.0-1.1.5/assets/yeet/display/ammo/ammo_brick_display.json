@@ -1,0 +1,9 @@
+{
+  "model": "yeet:ammo/ammo_brick_geo",
+  "texture": "yeet:ammo/uv/ammo_brick",
+  "slot": "yeet:ammo/slot/ammo_brick",
+  "entity": {
+    "model": "yeet:ammo_entity/entity_brick_geo",
+    "texture": "yeet:ammo_entity/entity_brick"
+  }
+}

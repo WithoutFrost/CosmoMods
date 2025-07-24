@@ -1,0 +1,7 @@
+{
+  "name": "ccrp.gun.glock20gen5mos.name",
+  "display": "ccrp:glock20gen5mos_display",
+  "data": "ccrp:glock20gen5mos_data",
+  "tooltip": "ccrp.gun.glock20gen5mos.desc",
+  "type": "pistol"
+}

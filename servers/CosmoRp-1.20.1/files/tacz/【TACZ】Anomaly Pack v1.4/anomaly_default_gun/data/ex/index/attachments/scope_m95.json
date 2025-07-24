@@ -1,0 +1,7 @@
+{
+	"hidden": true,
+  "name": "ex.attachment.scope_m95.name",
+  "display": "ex:scope_m95_display",
+  "data": "ex:scope_m95_data",
+  "type": "scope"
+}

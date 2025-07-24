@@ -1,0 +1,19 @@
+{
+  "ads": {
+    "addend": 0.0,
+    "percent": 0.0,
+    "multiplier": 1.0
+  },
+  "inaccuracy": {
+    "addend": 0.0,
+    "percent": 0.0,
+    "multiplier": 1.0
+   },
+   "effective_range": {
+     "multiplier": 1.50
+   },
+  "silence": {
+    "use_silence_sound": true,
+    "distance_addend": -50
+  }
+}

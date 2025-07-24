@@ -1,0 +1,66 @@
+{
+  "model": "ex:gun/spas12_geo",
+  "texture": "ex:gun/uv/spas12",
+  "hud": "ex:gun/hud/spas12",
+  "slot": "ex:gun/slot/spas12",
+  "animation": "ex:spas12",
+  "state_machine": "ex:spas12_state_machine",
+  "state_machine_param": {
+    "bolt_shell_ejecting_time": 0.17,
+    "intro_shell_ejecting_time": 0.4
+  },
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/stygian",
+    "scale": 2
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+    "initial_velocity": [5, 0.5, 1],
+    "random_velocity": [1, 0.5, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -960, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "draw": "ex:spas12/spas12_draw",
+    "put_away": "ex:spas12/spas12_drop",
+    "shoot": "ex:spas12/spas12_shoot",
+    "shoot_3p": "ex:spas12/spas12_shoot",
+    "silence": "ex:spas12/spas12_silence",
+    "silence_3p": "ex:spas12/spas12_silence",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:spas12/spas12_kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/556nato",
+  "shell": {
+    "model": "wz:shell/556nato_shell",
+    "texture": "wz:shell/556nato_shell"
+  },
+  "tracer_color": "#FF8888"
+}

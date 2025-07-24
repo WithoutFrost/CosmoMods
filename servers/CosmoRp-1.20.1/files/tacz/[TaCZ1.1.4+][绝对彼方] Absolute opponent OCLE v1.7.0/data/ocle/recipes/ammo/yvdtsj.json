@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:soul_sand"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "ocle:yvdtsj",
+    "count": 10
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

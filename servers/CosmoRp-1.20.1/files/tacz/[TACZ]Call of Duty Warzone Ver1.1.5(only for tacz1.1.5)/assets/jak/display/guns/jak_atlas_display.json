@@ -1,0 +1,49 @@
+{
+  "model": "jak:gun/jak_atlas_geo",
+  "texture": "jak:gun/uv/jak_atlas",
+  "lod": {
+    "model": "jak:gun/lod/jak_atlas",
+    "texture": "jak:gun/lod/jak_atlas"
+  },
+  "hud": "jak:gun/hud/jak_atlas",
+  "slot": "jak:gun/slot/jak_atlas",
+  "animation": "nmw3:amr9",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "nmw3:amr9/atlas_shoot",
+    "shoot_3p": "nmw3:amr9/amr9_shoot_3p",
+    "silence": "nmw3:amr9/atlas_silence",
+    "silence_3p": "nmw3:amr9/amr9_silence_3p",
+    "draw": "nmw3:amr9/amr9_raise",
+    "put_away": "nmw3:amr9/amr9_drop",
+    "reload_empty": "tacz:m4a1/m4a1_reload_empty",
+    "reload_tactical": "tacz:m4a1/m4a1_reload_tactical",
+    "inspect": "tacz:m4a1/m4a1_inspect",
+    "inspect_empty": "tacz:m4a1/m4a1_inspect_empty",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  }
+}

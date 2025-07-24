@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:brick"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "yeet:ammo_brick",
+    "count": 6
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

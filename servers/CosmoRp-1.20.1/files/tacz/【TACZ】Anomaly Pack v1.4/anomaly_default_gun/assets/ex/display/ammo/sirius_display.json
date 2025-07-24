@@ -1,0 +1,15 @@
+{
+  "tracer_color": "#593d83",
+  "slot": "ex:ammo/slot/sirius",
+  "particle": {
+    "name": "dragon_breath",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.005,
+    "life_time": 100,
+    "count": 10
+  }
+}

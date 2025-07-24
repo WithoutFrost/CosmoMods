@@ -1,0 +1,7 @@
+{
+  "name": "ex.attachment.muzzle_725_suppressor.name",
+  "display": "ex:muzzle_725_suppressor_display",
+  "data": "ex:muzzle_725_suppressor_data",
+  "tooltip": "ex.attachment.muzzle_725_suppressor.desc",
+  "type": "muzzle"
+}

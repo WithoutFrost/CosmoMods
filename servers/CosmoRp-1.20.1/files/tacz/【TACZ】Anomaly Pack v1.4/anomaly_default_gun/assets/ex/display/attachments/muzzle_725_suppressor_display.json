@@ -1,0 +1,9 @@
+{
+  "slot": "ex:attachment/slot/725_suppressor",
+  "model": "ex:attachment/muzzle_725_suppressor_geo",
+  "texture": "ex:attachment/uv/muzzle_725_suppressor",
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

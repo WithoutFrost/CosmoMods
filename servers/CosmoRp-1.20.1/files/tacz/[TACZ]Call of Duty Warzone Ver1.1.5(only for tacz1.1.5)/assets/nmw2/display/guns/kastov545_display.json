@@ -1,0 +1,48 @@
+{
+  "model": "nmw2:gun/kastov545_geo",
+  "texture": "nmw2:gun/uv/kastov545",
+  "lod": {
+    "model": "nmw2:gun/lod/kastov545",
+    "texture": "nmw2:gun/lod/kastov545"
+  },
+  "hud": "nmw2:gun/hud/kastov545",
+  "slot": "nmw2:gun/slot/kastov545",
+  "animation": "nmw2:kastov",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "iron_zoom": 1.25,
+  "zoom_model_fov": 45,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "ammo": {
+    "tracer_color": "#e3c372"
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "nmw2:kastov545/kastov545_shoot",
+    "shoot_3p": "nmw2:kastov545/kastov545_shoot_3p",
+    "silence": "nmw2:kastov545/kastov545_silence",
+    "silence_3p": "nmw2:kastov545/kastov545_silence_3p",
+    "draw": "tacz:ak47/ak47_draw",
+    "put_away": "tacz:ak47/ak47_put_away"
+  }
+}

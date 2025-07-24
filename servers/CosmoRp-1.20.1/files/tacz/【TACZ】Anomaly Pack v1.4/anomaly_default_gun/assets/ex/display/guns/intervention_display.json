@@ -1,0 +1,50 @@
+{
+  "model": "ex:gun/intervention_geo",
+  "texture": "ex:gun/uv/intervention",
+  "hud": "ex:gun/hud/intervention",
+  "slot": "ex:gun/slot/intervention",
+  "animation": "ex:intervention",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/common_muzzle_red",
+    "scale": 2
+  },
+  "sounds": {
+    "draw": "ex:mw/mw_draw",
+    "shoot": "ex:intervention/intervention_shoot",
+    "shoot_3p": "ex:intervention/intervention_shoot_3p",
+    "silence": "ex:mw/mw_silenced",
+    "silence_3p": "ex:mw/mw_silenced",
+    "head_hit": "ex:intervention/intervention_kill",
+    "flesh_hit": "ex:intervention/intervention_kill",
+    "kill": "ex:intervention/intervention_kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 1,
+      "high_frequency": 1,
+      "time": 200
+    }
+  }
+}

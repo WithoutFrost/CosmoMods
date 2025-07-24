@@ -1,0 +1,12 @@
+{
+  "whitelist": [
+  "^wz:.*$",
+  "^nmw2:.*$",
+  "^nmw3:.*$",
+  "^jak:.*$",
+  "^bo6:.*$"
+  ],
+  "blacklist": [
+    "tacz:test"
+  ]
+}

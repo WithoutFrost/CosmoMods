@@ -1,0 +1,55 @@
+{
+  "model": "wsp:gun/sten9_geo",
+  "texture": "wsp:gun/uv/sten9",
+  "lod": {
+    "model": "wsp:gun/lod/sten9",
+    "texture": "wsp:gun/lod/sten9"
+  },
+  "hud": "wsp:gun/hud/sten9",
+  "slot": "wsp:gun/slot/sten9",
+  "animation": "wsp:sten9",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wsp:flash/common_muzzle_flash",
+    "scale": 0.1
+  },
+  "iron_zoom": 1.23,
+  "zoom_model_fov": 47,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "wsp:smgs/sten9/sten9_fire",
+    "shoot_3p": "wsp:smgs/sten9/sten9_fire_3p",
+    "reload_empty": "wsp:smgs/sten9/sten9_empty_reload",
+    "reload_tactical": "wsp:smgs/sten9/sten9_normal_reload",
+    "inspect": "wsp:smgs/sten9/sten9_inspect",
+    "inspect_empty": "wsp:smgs/sten9/sten9_inspect_empty",
+    "draw": "wsp:smgs/sten9/sten9_draw",
+    "put_away": "wsp:smgs/sten9/sten9_put_away"
+  },
+  "offhand_show": {
+    "pos": [0, 19, 3],
+    "rotate": [0, 0, -45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [0, 0, 45],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

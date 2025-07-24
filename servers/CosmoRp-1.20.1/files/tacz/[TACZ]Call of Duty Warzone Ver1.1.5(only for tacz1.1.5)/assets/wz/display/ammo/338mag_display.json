@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/338mag",
+  "shell": {
+    "model": "wz:shell/338mag_shell",
+    "texture": "wz:shell/338mag_shell"
+  },
+  "tracer_color": "#FF8888"
+}

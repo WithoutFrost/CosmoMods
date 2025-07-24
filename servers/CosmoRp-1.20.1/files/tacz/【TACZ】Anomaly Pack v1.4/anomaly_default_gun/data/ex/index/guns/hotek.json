@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.hotek.name",
+  "display": "ex:hotek_display",
+  "data": "ex:hotek_data",
+  "tooltip": "ex.gun.hotek.desc",
+  "type": "pistol"
+}

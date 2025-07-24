@@ -1,0 +1,9 @@
+{
+  "slot": "ex:attachment/slot/muzzle_monolithic_silencer",
+  "model": "ex:attachment/muzzle_monolithic_silencer_geo",
+  "texture": "ex:attachment/uv/muzzle_monolithic_silencer",
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

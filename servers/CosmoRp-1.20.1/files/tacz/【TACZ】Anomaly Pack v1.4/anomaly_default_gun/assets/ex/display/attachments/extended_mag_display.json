@@ -1,0 +1,7 @@
+{
+  "slot": "ex:attachment/slot/extended_mag",
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

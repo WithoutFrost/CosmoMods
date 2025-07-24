@@ -1,0 +1,8 @@
+{
+    "name": "zeta.gun.arc12.name",
+    "display": "zeta:arc12_display",
+    "data": "zeta:arc12_data",
+    "type": "shotgun",
+    "item_type": "modern_kinetic",
+    "tooltip":"zeta.gun.arc12.desc"
+}

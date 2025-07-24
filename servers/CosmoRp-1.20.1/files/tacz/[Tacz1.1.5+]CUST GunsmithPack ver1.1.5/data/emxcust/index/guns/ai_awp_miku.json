@@ -1,0 +1,8 @@
+{
+  "name": "emxcust.gun.ai_awp_miku.name",
+  "display": "emxcust:ai_awp_miku_display",
+  "data": "emxcust:ai_awp_miku_data",
+  "tooltip": "emxcust.gun.ai_awp_miku.desc",
+  "type": "sniper",
+  "sort": 24050
+}

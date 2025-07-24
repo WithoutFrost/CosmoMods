@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "emxcust:emx_cus_tool"
+        }
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "emxarms:emx_draftsman"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:red_dye"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "emxarms:emx_draftsman_ev1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

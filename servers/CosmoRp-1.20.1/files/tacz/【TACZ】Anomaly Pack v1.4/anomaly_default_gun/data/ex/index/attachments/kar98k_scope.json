@@ -1,0 +1,7 @@
+{
+  "name": "ex.attachment.kar98k_scope.name",
+  "display": "ex:kar98k_scope_display",
+  "data": "ex:kar98k_scope_data",
+  "tooltip": "ex.attachment.kar98k_scope.desc",
+  "type": "scope"
+}

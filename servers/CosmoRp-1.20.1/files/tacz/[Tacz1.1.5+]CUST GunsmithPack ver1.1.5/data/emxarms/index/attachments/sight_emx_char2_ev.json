@@ -1,0 +1,8 @@
+{
+	"name": "emxarms.attachment.sight_emx_char2_ev.name",
+	"tooltip": "emxarms.attachment.grip_emx_if_ev.tooltip",
+	"display": "emxarms:sight_emx_char2_ev_display",
+	"data": "emxarms:sight_emx_char2_ev_data",
+	"type": "scope",
+    "sort": 24050
+}

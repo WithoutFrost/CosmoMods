@@ -1,0 +1,19 @@
+{
+  "slot": "jak:attachment/slot/sight_jak_gl",
+  "model": "jak:attachment/sight_jak_gl",
+  "texture": "jak:attachment/uv/sight_jak_gl",
+  "lod": {
+    "model": "jak:attachment/lod/sight_jak_gl_lod",
+    "texture": "jak:attachment/lod/sight_jak_gl_lod"
+  },
+  "zoom": [
+    1.25
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 60,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_d",
+    "uninstall": "tacz:attachments/scope_general_d"
+  }
+}

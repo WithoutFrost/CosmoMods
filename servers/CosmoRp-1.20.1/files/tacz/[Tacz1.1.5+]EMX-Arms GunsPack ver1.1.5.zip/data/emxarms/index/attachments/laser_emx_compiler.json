@@ -1,0 +1,7 @@
+{
+  "name": "emxarms.attachment.laser_emx_compiler.name",
+  "tooltip": "emxarms.attachment.grip_emx_compiler.tooltip",
+  "display": "emxarms:laser_emx_compiler_display",
+  "data": "emxarms:laser_emx_compiler_data",
+  "type": "laser"
+}

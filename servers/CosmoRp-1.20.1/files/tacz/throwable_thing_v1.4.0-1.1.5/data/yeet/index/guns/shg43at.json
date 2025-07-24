@@ -1,0 +1,9 @@
+{
+    "name": "yeet.gun.shg43at.name",
+    "display": "yeet:shg43at_display",
+    "data": "yeet:shg43at_data",
+    "tooltip": "yeet.gun.shg43at.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 7003
+}

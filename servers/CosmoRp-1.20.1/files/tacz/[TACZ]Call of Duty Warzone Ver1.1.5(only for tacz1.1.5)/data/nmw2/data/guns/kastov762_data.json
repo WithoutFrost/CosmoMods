@@ -1,0 +1,99 @@
+{
+  "ammo": "wz:762x39mm",
+  "rpm": 600,
+  "bullet": {
+    "life": 0.8,
+    "bullet_amount": 1,
+    "damage": 9,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.35,
+      "head_shot_multiplier": 1.15,
+      "damage_adjust": [
+        {"distance": 40, "damage": 9},
+        {"distance": 55, "damage": 6.25},
+        {"distance": "infinite", "damage": 6.25}
+      ]
+    },
+    "speed": 360,
+    "gravity": 0.15,
+    "knockback": 0,
+    "friction": 0.02,
+    "ignite": false,
+    "pierce": 1
+  },
+  "ammo_amount": 30,
+  "extended_mag_ammo_amount": [
+    20,
+    40,
+    40
+  ],
+  "bolt": "open_bolt",
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 1.70,
+      "tactical": 1.23
+    },
+    "cooldown": {
+      "empty": 2.7667,
+      "tactical": 2.0333
+    }
+  },
+  "draw_time": 0.85,
+  "put_away_time": 0.4667,
+  "sprint_time": 0.21,
+  "aim_time": 0.26,
+  "weight": 2,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": 0.0,
+    "reload": 0
+  },
+  "crawl_recoil_multiplier": 0.75,
+  "fire_mode": [
+    "auto",
+    "semi"
+  ],
+  "allow_attachment_types": [
+    "scope",
+    "muzzle",
+    "stock",
+    "grip",
+    "laser",
+    "extended_mag"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.15, 0.15]},
+      {"time": 0.12, "value": [0.15, 0.15]},
+      {"time": 0.3, "value": [-0.2, -0.2]},
+      {"time": 0.45, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.65, 0.5]},
+      {"time": 0.12, "value": [-0.65, 0.5]},
+      {"time": 0.3, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 3.5,
+    "move": 4.5,
+    "sneak": 2.5,
+    "lie": 2,
+    "aim": 0.175
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.6,
+    "default": {
+      "animation_type": "melee_push",
+      "distance": 1,
+      "range_angle": 40,
+      "cooldown": 0.2,
+      "damage": 1,
+      "knockback": 0.4,
+      "prep": 0.1
+    }
+  }
+}

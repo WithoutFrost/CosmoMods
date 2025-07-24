@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.mp5.name",
+  "display": "ex:mp5_display",
+  "data": "ex:mp5_data",
+  "tooltip": "ex.gun.mp5.desc",
+  "type": "smg"
+}

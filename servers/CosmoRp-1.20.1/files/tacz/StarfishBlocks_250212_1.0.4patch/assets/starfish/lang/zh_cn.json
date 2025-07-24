@@ -1,0 +1,40 @@
+{
+    "pack.starfish.name": "Starfish & Blocks 扩展包",
+    "pack.starfish.desc": "Starfish & Blocks 扩展包，简称 S&B，提供了配件与武器（主要还是配件）",
+
+    "starfish.attachment.1mwlaser.name": "1mW 瞄准辅助激光",
+    "starfish.attachment.owclaser.name": "OWC 战术激光",
+    "starfish.attachment.ykmlaser.name": "YKM 腰射激光",
+    "starfish.attachment.lasergrip.name": "“Type 19”镭射一体握把",
+    "starfish.attachment.nydar47.name": "奈达 47 型",
+    "starfish.attachment.quickmag.name": "小口径弹药",
+    "starfish.attachment.boxsilencer.name": "掠夺者盒式抑制器",
+    "starfish.attachment.grausight.name": "格雷红点瞄准镜",
+    "starfish.attachment.g28compensator.name": "G28 枪口制退器",
+    "starfish.attachment.sight_itans.name": "“无限超越”红点瞄准镜",
+    "starfish.attachment.bigmag.name": "大口径弹药",
+    "starfish.attachment.recoilboost.name": "后座力强化器",
+
+    "starfish.guns.ak1014": "AK-1014 全自动霰弹枪",
+    "starfish.guns.scar20": "SCAR-20 狙击步枪",
+    "starfish.guns.m416toy": "电动连发 M416 水晶专用儿童男孩手自一体玩具 M4A1 突击步仿真玩具枪",
+    "starfish.guns.agrpara": "AUG Para 冲锋枪",
+
+    "starfish.tooltip.1mwlaser": "...",
+    "starfish.tooltip.boxsilencer": "...",
+    "starfish.tooltip.grausight": "...",
+    "starfish.tooltip.g28compensator": "...",
+    "starfish.tooltip.lasergrip19": "...",
+    "starfish.tooltip.owclaser": "...",
+    "starfish.tooltip.nydar47": "...",
+    "starfish.tooltip.quickmag": "...",
+    "starfish.tooltip.itrans": "...",
+    "starfish.tooltip.ykmlaser": "...",
+    "starfish.tooltip.bigmag": "...",
+    "starfish.tooltip.recoilboost": "...",
+    
+    "starfish.tooltip.ak1014": "放心用它吧，AK-1014 会保护你的",
+    "starfish.tooltip.scar20": "你先起的连狙！",
+    "starfish.tooltip.m416toy": "玩具非常好，孩子很喜欢\nCN 大区特供武器",
+    "starfish.tooltip.agrpara": "更便携、轻量、机动化\n……还有令人抓狂的射程"
+}

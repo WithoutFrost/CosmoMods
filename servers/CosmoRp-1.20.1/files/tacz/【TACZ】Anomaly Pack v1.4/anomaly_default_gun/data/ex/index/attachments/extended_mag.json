@@ -1,0 +1,7 @@
+{
+  "name": "ex.attachment.extended_mag.name",
+  "display": "ex:extended_mag_display",
+  "data": "ex:extended_mag_data",
+  "tooltip": "ex.attachment.extended_mag.desc",
+  "type": "extended_mag"
+}

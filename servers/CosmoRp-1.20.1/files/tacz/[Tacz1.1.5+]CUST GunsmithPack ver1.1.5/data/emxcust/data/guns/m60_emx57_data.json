@@ -1,0 +1,94 @@
+{
+  "weight": 20.0,
+  "hurt_bob_tweak_multiplier": 0.15,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.75,
+    "reload": -0.35
+  },
+  "ammo": "tacz:308",
+  "ammo_amount": 100,
+  "extended_mag_ammo_amount": [
+    150,
+    175,
+    200
+  ],
+  "bolt": "open_bolt",
+  "rpm": 550,
+  "bullet": {
+    "life": 0.5,
+    "bullet_amount": 1,
+    "damage": 13.7,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.5,
+      "head_shot_multiplier": 1.5,
+      "damage_adjust": [
+        {"distance": 60, "damage": 13.7},
+        {"distance": 120, "damage": 10.5},
+        {"distance": "infinite", "damage": 9.0}
+      ]
+    },
+    "speed": 400,
+    "gravity": 0.15,
+    "knockback": 0,
+    "friction": 0.015,
+    "ignite": false,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 6.4,
+      "tactical": 4.7
+    },
+    "cooldown": {
+      "empty": 7.57,
+      "tactical": 5.9
+    }
+  },
+  "draw_time": 1,
+  "put_away_time": 0.67,
+  "aim_time": 0.3,
+  "sprint_time": 0.25,
+  "fire_mode": [
+    "auto"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.4, 0.4]},
+      {"time": 0.3, "value": [0.4, 0.4]},
+      {"time": 0.5, "value": [-0.15, -0.15]},
+      {"time": 0.65, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.3, 0.2]},
+      {"time": 0.3, "value": [-0.3, 0.2]},
+      {"time": 0.5, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 0.35,
+    "move": 1.75,
+    "sneak": 0.3,
+    "lie": 0.3,
+    "aim": 0.05
+  },
+  // 近战相关
+  "melee": {
+    // 枪械距离参数，用来延升近战攻击范围
+    // 会与刺刀等配件的距离做加和
+    "distance": 1,
+    // 使用时的冷却时间
+    "cooldown": 0.8
+  },
+  "allow_attachment_types": [
+    "scope",
+    "muzzle",
+	"laser",
+	"grip",
+    "extended_mag"
+  ],
+  "exclusive_attachments": {
+  }
+}

@@ -1,0 +1,43 @@
+{
+  // 默认的模型，在包目录下的 models 文件夹中寻找，不可为空
+  "model": "wz:block/buy_station_geo",
+  // 默认材质，不可为空
+  "texture": "wz:block/uv/buy_station",
+  "transforms": {
+		"thirdperson_righthand": {
+			"translation": [4, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-4, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 0, -180],
+			"translation": [-3, -1, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 0, 180],
+			"translation": [3, -1, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [3.5, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [15, -145, 0],
+			"translation": [-2.75, -3.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"translation": [3.5, 0, -1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"translation": [3.5, -0.5, -3],
+			"scale": [0.4, 0.4, 0.4]
+		}
+  }
+}

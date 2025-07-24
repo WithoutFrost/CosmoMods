@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/22wmr",
+  "shell": {
+    "model": "wz:shell/22wmr_shell",
+    "texture": "wz:shell/22wmr_shell"
+  },
+  "tracer_color": "#FF8888"
+}

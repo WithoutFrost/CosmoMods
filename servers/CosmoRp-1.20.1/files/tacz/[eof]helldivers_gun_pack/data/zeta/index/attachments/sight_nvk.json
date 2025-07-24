@@ -1,0 +1,6 @@
+{
+    "name": "zeta.attachment.sight_nvk",
+    "display": "zeta:sight_nvk_display",
+    "data": "zeta:sight_nvk_data",
+    "type": "scope"
+  }

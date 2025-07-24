@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:flint_and_steel"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "yeet:m33a1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

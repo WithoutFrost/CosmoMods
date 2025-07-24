@@ -1,0 +1,8 @@
+{
+  "name": "nmw2.gun.iso_hemlock_300_sil.name",
+  "display": "nmw2:iso_hemlock_300_sil_display",
+  "data": "nmw2:iso_hemlock_300_sil_data",
+  "tooltip": "nmw2.gun.iso_hemlock_300_sil.desc",
+  "type": "rifle",
+  "sort": 1190
+}

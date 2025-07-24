@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:workbench_a",
+    "nbt": {
+      "BlockId": "emxarms:sky_workbench"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "BIR",
+    "BBB"
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:glass"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "B": {
+      "item": "minecraft:polished_andesite"
+    },
+    "C": {
+      "item": "minecraft:polished_deepslate"
+    }
+  }
+}

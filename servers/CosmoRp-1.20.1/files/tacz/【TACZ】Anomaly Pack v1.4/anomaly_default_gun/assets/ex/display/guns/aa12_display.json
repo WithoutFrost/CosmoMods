@@ -1,0 +1,67 @@
+{
+  "model": "ex:gun/aa12_geo",
+  "texture": "ex:gun/uv/aa12",
+  "hud": "ex:gun/hud/aa12",
+  "slot": "ex:gun/slot/aa12",
+  "animation": "ex:aa12",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "ammo": {
+    "tracer_color": "#1b1b1b",
+    "particle": {
+      "name": "flame",
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      "speed": 0.0,
+      "life_time": 20,
+      "count": 5
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/soul",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "draw": "ex:mw/mw_draw",
+    "shoot": "ex:aa12/aa12_shoot",
+    "shoot_3p": "ex:aa12/aa12_shoot_3p",
+    "silence": "ex:aa12/aa12_silenced",
+    "silence_3p": "ex:aa12/aa12_silenced_3p",
+    "inspect": "tacz:aa12/aa12_inspect",
+    "inspect_empty": "tacz:aa12/aa12_inspect_empty",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:aa12/aa12_kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

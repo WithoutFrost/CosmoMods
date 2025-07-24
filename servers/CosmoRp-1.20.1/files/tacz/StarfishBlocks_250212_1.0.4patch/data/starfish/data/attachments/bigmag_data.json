@@ -1,0 +1,35 @@
+{
+    // 配件重量，单位 kg。影响持枪者的移速
+    "weight": 0.4,
+    // 对瞄准时间的影响，加数，单位为秒，可为负数
+    "ads_addend": 0.03,
+    // 扩容弹夹（匣）等级
+    "extended_mag_level": 3,
+    // 对枪械后坐力的影响。
+    // 射速配置
+    "rpm": {
+      "multiplier": 0.9
+  },
+  // 瞄准精度配置，最终数值越小越精准（新方法，推荐使用）
+  "aim_inaccuracy": {
+    "multiplier": 0.85
+  },
+  "damage": {
+    "multiplier": 1.5
+  },
+  // 护甲穿透配置
+  "armor_ignore":{
+    "multiplier": 1.75
+  },
+  // 子弹速度配置
+  "ammo_speed": {
+    "multiplier": 1.15
+  },
+  "effective_range": {
+    "multiplier": 1.35
+  },
+  // 爆头配置
+  "head_shot":{
+    "multiplier": 2.0
+  }
+}

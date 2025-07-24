@@ -1,0 +1,18 @@
+[
+	"#ex:scope",
+	"#ex:muzzle",
+	"#tacz:muzzle",
+	"#ex:tac_laser",
+	"#emxarms:scope",
+    "#emxmors:scope",
+	"#emxarms:muzzle",
+	"#ex:extended_mag",
+	"#ex:scope_intervention",
+	"#gucci_attachments:scope",
+    "emxmors:muzzle_emx_bsilencer",
+    "emxmors:muzzle_emx_asilencer",
+    "emxmors:muzzle_emx_synchronized",
+    "emxmors:muzzle_emx_exoverclock",
+	"emxarms:muzzle_emx_encapsulation",
+	"emxarms:muzzle_emx_encapsulationse"
+]

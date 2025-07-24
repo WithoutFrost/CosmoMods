@@ -1,0 +1,21 @@
+{
+  "jak.attachment.sight_jak_bullseye.name": "§fJAK靶心瞄具",
+  "jak.attachment.sight_jak_gl.name": "§fJAK无框瞄具",
+  "jak.attachment.sight_msp12.name": "§c克洛南英特斯MSP-12",
+
+  "jak.gun.jak_deathmarch.desc": "该定制模块用高压电池取代了标准弹药\n用光子散射枪管取代了枪管\n§f§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_atlas.desc": "将AMR9改装为卡宾枪\n射击模式会变为极其精准且致命的5发点射模式\n§f§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_ettin.desc": "用两根枪管同时射击\n§f§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_tyrant.desc": "这个口径改装组件替换机匣和弹匣\n改装成发射BLK弹药的大威力亚音速武器\n§c§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_requiem_762.desc": "步枪反冲平衡系统\n用于彻底去除后坐力\n§f§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_requiem_545.desc": "步枪反冲平衡系统\n用于彻底去除后坐力\n§f§l改件出自 JAK Arms Industries",
+  "jak.gun.jak_cutthroat.desc": "这个改装组件能将M4改装为极其致命的强力武器\n改装后射速和膛速都会降低，后坐力也会明显增大，更适合老练的射手使用\n§f§l改件出自 JAK Arms Industries",
+  
+  "jak.gun.jak_deathmarch.name": "§cBal-27 §f§lJAK行刑者",
+  "jak.gun.jak_atlas.name": "§cAMR9 §f§lJAK巨神改件",
+  "jak.gun.jak_ettin.name": "§cAMR9 §f§lJAK双头巨人双管改件",
+  "jak.gun.jak_tyrant.name": "§c长弓 §f§lJAK暴君762组件§c§l『战术蛮人消音枪管』",
+  "jak.gun.jak_requiem_762.name": "§a卡斯托夫762 §f§lJAK安魂曲",
+  "jak.gun.jak_requiem_545.name": "§a卡斯托夫545 §f§lJAK安魂曲",
+  "jak.gun.jak_cutthroat.name": "§aM4 §f§lJAK预言者改装组件"
+}

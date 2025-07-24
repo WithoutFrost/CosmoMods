@@ -1,0 +1,7 @@
+{
+  "hidden": true,
+  "name": "bo6.attachment.grip_vertical_foregrip_bug.name",
+  "display": "bo6:grip_vertical_foregrip_bug_display",
+  "data": "bo6:grip_vertical_foregrip_bug_data",
+  "type": "grip"
+}

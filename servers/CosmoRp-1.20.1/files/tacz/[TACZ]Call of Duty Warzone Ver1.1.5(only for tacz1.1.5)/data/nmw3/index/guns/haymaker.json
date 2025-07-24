@@ -1,0 +1,8 @@
+{
+  "name": "nmw3.gun.haymaker.name",
+  "display": "nmw3:haymaker_display",
+  "data": "nmw3:haymaker_data",
+  "tooltip": "nmw3.gun.haymaker.desc",
+  "type": "shotgun",
+  "sort": 1200
+}

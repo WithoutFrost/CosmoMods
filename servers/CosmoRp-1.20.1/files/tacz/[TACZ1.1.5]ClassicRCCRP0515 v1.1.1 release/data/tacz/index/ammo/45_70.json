@@ -1,0 +1,6 @@
+{
+  "name": "tacz.ammo.45_70govt.name",
+  "display": "tacz:45_70govt_display",
+  // 堆叠数量
+  "stack_size": 60
+}

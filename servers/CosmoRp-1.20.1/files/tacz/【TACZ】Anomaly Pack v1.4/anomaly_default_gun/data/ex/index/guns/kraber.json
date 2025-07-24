@@ -1,0 +1,7 @@
+{
+    "name": "ex.gun.kraber.name",
+    "display": "ex:kraber_display",
+    "data": "ex:kraber_data",
+    "tooltip": "ex.gun.kraber.desc",
+    "type": "sniper"
+}

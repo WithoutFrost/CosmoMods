@@ -1,0 +1,11 @@
+{
+  "slot": "bo6:attachment/slot/grip_vertical_foregrip_bug",
+  // 配件的默认模型，不可为空
+  "model": "bo6:attachment/grip_vertical_foregrip_bug_geo",
+  // 配件默认模型使用的材质，不可为空
+  "texture": "bo6:attachment/uv/grip_vertical_foregrip_bug",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

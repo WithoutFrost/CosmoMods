@@ -1,0 +1,9 @@
+{
+  "weight": 0,
+  "ads": {
+    "addend": -0.035
+  },
+  "inaccuracy": {
+    "multiplier": 0.3
+  }
+}

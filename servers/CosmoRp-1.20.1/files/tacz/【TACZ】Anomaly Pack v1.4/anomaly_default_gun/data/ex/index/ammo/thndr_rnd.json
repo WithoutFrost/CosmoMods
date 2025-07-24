@@ -1,0 +1,7 @@
+{
+  "name": "ex.ammo.thndr_rnd.name",
+  "tooltip": "ex.ammo.thndr_rnd.desc",
+  "display": "ex:thndr_rnd_display",
+  "stack_size": 64
+}
+    

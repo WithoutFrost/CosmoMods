@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.argent.name",
+  "display": "ex:argent_display",
+  "data": "ex:argent_data",
+  "tooltip": "ex.gun.argent.desc",
+  "type": "sniper"
+}

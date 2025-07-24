@@ -1,0 +1,8 @@
+{
+  "name": "nmw3.gun.basb.name",
+  "display": "nmw3:basb_display",
+  "data": "nmw3:basb_data",
+  "tooltip": "nmw3.gun.basb.desc",
+  "type": "rifle",
+  "sort": 1200
+}

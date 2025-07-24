@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/hvpc",
+  "shell": {
+    "model": "wz:shell/hvpc_shell",
+    "texture": "wz:shell/hvpc_shell"
+  },
+  "tracer_color": "#FF8888"
+}

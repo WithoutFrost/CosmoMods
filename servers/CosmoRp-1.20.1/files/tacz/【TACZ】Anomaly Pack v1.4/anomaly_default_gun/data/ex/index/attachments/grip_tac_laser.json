@@ -1,0 +1,7 @@
+{
+  "name": "ex.attachment.grip_tac_laser.name",
+  "tooltip": "ex.attachment.grip_tac_laser.desc",
+  "display": "ex:grip_tac_laser_display",
+  "data": "ex:grip_tac_laser_data",
+  "type": "grip"
+}

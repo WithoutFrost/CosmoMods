@@ -1,0 +1,7 @@
+{
+  "name": "ex.ammo.10mm.name",
+  "tooltip": "ex.ammo.10mm.desc",
+  "display": "ex:10mm_display",
+  "stack_size": 64
+}
+    

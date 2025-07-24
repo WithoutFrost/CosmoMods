@@ -1,0 +1,15 @@
+{
+  "slot": "ex:attachment/slot/scope_zoom",
+  "model": "ex:attachment/scope_zoom_geo",
+  "texture": "ex:attachment/uv/scope_zoom",
+  "zoom": [
+    8.0,
+    20.0
+  ],
+  "scope": true,
+  "fov": 20.0,
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

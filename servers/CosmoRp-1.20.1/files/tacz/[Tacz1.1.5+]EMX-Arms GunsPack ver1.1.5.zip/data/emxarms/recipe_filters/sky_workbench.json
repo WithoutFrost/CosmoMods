@@ -1,0 +1,59 @@
+{
+  // 白名单，只有在白名单中的配方才会被显示，如果白名单为空，默认为全集
+  // 可以使用正则表达式，正则表达式请以^开头，$结尾
+  // 常用例子：匹配命名空间xxx下的所有配方：^xxx:.*$
+  "whitelist": [
+    "emxarms:gun/emx_mac50",
+	"emxarms:gun/emx_mac100",
+	"emxarms:gun/emx_mk88",
+	"emxarms:gun/emx_mk951l",
+	"emxarms:gun/emx_mk951r",
+	"emxarms:gun/emx_mk951lmg",
+	"emxarms:ammo/emx_rem",
+	"emxarms:ammo/339x57",
+	"emxarms:ammo/339x57fmj",
+	"emxarms:ammo/339x57x",
+	"emxarms:ammo/402x31",
+	"emxarms:ammo/402x31fmj",
+	"emxarms:ammo/402x31rip",
+	"emxarms:ammo/410x57ap",
+	"emxarms:ammo/1045x103",
+	"emxarms:ammo/1045x103belt",
+	"emxarms:ammo/x16sg",
+	"emxarms:ammo/x16he",
+	"emxarms:ammo/emx_tediore",
+	"emxarms:attachments/grip_emx_if",
+	"emxarms:attachments/grip_emx_maxvalue",
+	"emxarms:attachments/grip_emx_protected",
+	"emxarms:attachments/grip_emx_static",
+	"emxarms:attachments/grip_emx_extendsex",
+	"emxarms:attachments/sight_emx_anonymous",
+	"emxarms:attachments/sight_emx_return",
+	"emxarms:attachments/grip_emx_wireframe",
+	"emxarms:attachments/grip_emx_wireframedb",
+	"emxarms:attachments/grip_emx_wireframeex",
+	"emxarms:attachments/ammo_h2_if",
+	"emxarms:attachments/ammo_h3r",
+	"emxarms:attachments/ammo_l2_hp",
+	"emxarms:attachments/ammo_l2_if",
+	"emxarms:attachments/ammo_l3r",
+	"emxarms:attachments/ammo_sgap",
+	"emxarms:attachments/ammo_sgdb",
+	"emxarms:attachments/ammo_sgeb",
+	"emxarms:attachments/ammo_sgfs",
+	"emxarms:attachments/ammo_sghe",
+	"emxarms:attachments/ammo_sh2_if",
+	"emxarms:attachments/ammo_sh3r",
+	"emxarms:attachments/ammo_sreb",
+	"emxarms:attachments/ammo_srhe",
+	"emxarms:attachments/ammo_srif",
+	"emxarms:attachments/bayonet_emx_doom",
+	"emxarms:attachments/emx_sfmag_3if",
+	"emxarms:attachments/muzzle_sf7b_super6",
+	"emxarms:attachments/muzzle_sf7b_uac9000"
+  ],
+  // 黑名单，在白名单中的配方中，如果在黑名单中，则不会被显示
+  "blacklist": [
+    "tacz:test"
+  ]
+}

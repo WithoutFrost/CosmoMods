@@ -1,0 +1,7 @@
+{
+  "name": "ccrp.gun.mp5k.name",
+  "display": "ccrp:mp5k_display",
+  "data": "ccrp:mp5k_data",
+  "tooltip": "ccrp.gun.mp5k.desc",
+  "type": "smg"
+}

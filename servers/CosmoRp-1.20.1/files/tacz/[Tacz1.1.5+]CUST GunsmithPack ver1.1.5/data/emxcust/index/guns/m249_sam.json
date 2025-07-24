@@ -1,0 +1,8 @@
+{
+  "name": "emxcust.gun.m249_sam.name",
+  "display": "emxcust:m249_sam_display",
+  "data": "emxcust:m249_sam_data",
+  "tooltip": "emxcust.gun.m249_sam.desc",
+  "type": "mg",
+  "sort": 24050
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ccrp.gun.vector9.name",
+  "display": "ccrp:vector9_display",
+  "data": "ccrp:vector9_data",
+  "tooltip": "ccrp.gun.vector9.desc",
+  "type": "smg"
+}

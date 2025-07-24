@@ -1,0 +1,8 @@
+{
+    "name": "zeta.attachment.gr8_he",
+    "display": "zeta:gr8_he_display",
+    "data": "zeta:gr8_he_data",
+    "tooltip": "zeta.attachment.gr8_he.desc",
+    "type": "extended_mag"
+  
+  }

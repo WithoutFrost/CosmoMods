@@ -1,0 +1,46 @@
+{
+  "model": "nmw3:gun/holger26_geo",
+  "lod": {
+    "model": "nmw3:gun/lod/holger26",
+    "texture": "nmw3:gun/lod/holger26"
+  },
+  "texture": "nmw3:gun/uv/holger26",
+  "hud": "nmw3:gun/hud/holger26",
+  "slot": "nmw3:gun/slot/holger26",
+  "animation": "nmw3:holger26",
+  "state_machine": "wz:universal_state_machine",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "nmw3:holger26/holger26_shoot",
+    "shoot_3p": "nmw3:holger556/holger556_shoot_3p",
+    "silence": "nmw3:holger26/holger26_silence",
+    "silence_3p": "nmw3:holger556/holger556_silence_3p",
+    "draw": "tacz:m4a1/m4a1_draw",
+    "put_away": "tacz:m4a1/m4a1_put_away",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  }
+}

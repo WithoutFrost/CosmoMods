@@ -1,0 +1,8 @@
+{
+  "name": "emxcust.attachment.lc_555.name",
+  "tooltip": "emxcust.attachment.lc_555.tooltip",
+  "display": "emxcust:lc_555_display",
+  "data": "emxcust:lc_555_data",
+  "type": "extended_mag",
+  "sort": 24050
+}

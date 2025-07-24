@@ -1,0 +1,8 @@
+{
+	"hidden": true,
+  "name": "ex.attachment.scope_rebirth.name",
+  "tooltip": "ex.attachment.scope_rebirth.desc",
+  "display": "ex:scope_rebirth_display",
+  "data": "ex:scope_rebirth_data",
+  "type": "scope"
+}

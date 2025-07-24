@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.m95.name",
+  "display": "ex:m95_display",
+  "data": "ex:m95_data",
+  "tooltip": "ex.gun.m95.desc",
+  "type": "sniper"
+}

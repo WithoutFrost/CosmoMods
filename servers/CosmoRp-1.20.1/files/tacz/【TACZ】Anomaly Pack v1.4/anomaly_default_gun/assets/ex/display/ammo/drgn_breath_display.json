@@ -1,0 +1,27 @@
+{
+  "slot": "ex:ammo/slot/drgn_breath",
+  "shell": {
+    "model": "ex:shell/drgn_breath_shell",
+    "texture": "ex:shell/drgn_breath_shell"
+  },
+  "tracer_color": "#990000",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.4,
+        0.4,
+        0.4
+      ],
+      "ground": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "fixed": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

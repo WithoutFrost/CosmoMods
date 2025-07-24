@@ -1,0 +1,8 @@
+{
+  "name": "bo6.gun.xm4_bug.name",
+  "display": "bo6:xm4_bug_display",
+  "data": "bo6:xm4_bug_data",
+  "tooltip": "bo6.gun.xm4_bug.desc",
+  "type": "rifle",
+  "sort": 1211
+}

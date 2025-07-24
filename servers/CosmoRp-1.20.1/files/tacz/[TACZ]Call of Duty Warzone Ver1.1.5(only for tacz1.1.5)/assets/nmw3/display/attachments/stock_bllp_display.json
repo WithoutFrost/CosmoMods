@@ -1,0 +1,10 @@
+{
+  "slot": "nmw3:attachment/slot/stock_bllp",
+  "model": "nmw3:attachment/stock_bllp_geo",
+  "texture": "nmw3:attachment/uv/stock_bllp",
+  "adapter": "ar_stock_adapter",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

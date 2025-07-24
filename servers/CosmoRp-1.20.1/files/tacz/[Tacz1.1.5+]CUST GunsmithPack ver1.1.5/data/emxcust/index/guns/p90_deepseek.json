@@ -1,0 +1,9 @@
+{
+    "name": "emxcust.p90_deepseek",
+    "display": "emxcust:p90_deepseek_display",
+    "data": "emxcust:p90_deepseek_data",
+    "tooltip": "emxcust.tooltip.p90_deepseek",
+	//mg，sniper，rifle，pistol，smg，rpg
+    "type": "smg",
+    "sort": 24050
+}

@@ -1,0 +1,19 @@
+{
+  "slot": "jak:attachment/slot/sight_jak_bullseye",
+  "model": "jak:attachment/sight_jak_bullseye",
+  "texture": "jak:attachment/uv/sight_jak_bullseye",
+  "lod": {
+    "model": "jak:attachment/lod/sight_jak_bullseye_lod",
+    "texture": "jak:attachment/lod/sight_jak_bullseye_lod"
+  },
+  "zoom": [
+    1.25
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 60,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_d",
+    "uninstall": "tacz:attachments/scope_general_d"
+  }
+}

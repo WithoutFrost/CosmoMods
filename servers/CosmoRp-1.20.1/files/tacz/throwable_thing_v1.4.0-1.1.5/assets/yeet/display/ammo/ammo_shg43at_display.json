@@ -1,0 +1,9 @@
+{
+  "model": "yeet:ammo/ammo_shg43at_geo",
+  "texture": "yeet:ammo/uv/ammo_shg43at",
+  "slot": "yeet:ammo/slot/ammo_shg43at",
+  "entity": {
+    "model": "yeet:ammo_entity/entity_shg43at_geo",
+    "texture": "yeet:ammo_entity/entity_shg43at"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.wraith.name",
+  "display": "ex:wraith_display",
+  "data": "ex:wraith_data",
+  "tooltip": "ex.gun.wraith.desc",
+  "type": "smg"
+}

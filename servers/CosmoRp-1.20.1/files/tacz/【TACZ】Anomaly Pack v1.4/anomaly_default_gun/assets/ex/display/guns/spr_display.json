@@ -1,0 +1,46 @@
+{
+  "model": "ex:gun/spr_geo",
+  "texture": "ex:gun/uv/spr",
+  "hud": "ex:gun/hud/spr",
+  "slot": "ex:gun/slot/spr",
+  "animation": "ex:spr",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/common_muzzle_red",
+    "scale": 2
+  },
+  "iron_zoom": 1.6,
+  "zoom_model_fov": 60,
+  "sounds": {
+    "draw": "ex:spr/spr_draw",
+    "put_away": "ex:spr/spr_put_away",
+    "shoot": "ex:spr/spr_shoot",
+    "shoot_3p": "ex:spr/spr_shoot",
+    "silence": "ex:spr/spr_silenced",
+    "silence_3p": "ex:spr/spr_silenced",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [-2, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 26, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

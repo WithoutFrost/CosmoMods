@@ -1,0 +1,8 @@
+{
+	"hidden": true,
+  "name": "ex.attachment.scope_dsr50.name",
+  "tooltip": "ex.attachment.scope_dsr50.desc",
+  "display": "ex:scope_dsr50_display",
+  "data": "ex:scope_dsr50_data",
+  "type": "scope"
+}

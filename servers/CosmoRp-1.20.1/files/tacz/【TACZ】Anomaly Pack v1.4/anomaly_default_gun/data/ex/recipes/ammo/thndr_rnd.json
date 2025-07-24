@@ -1,0 +1,29 @@
+{
+  "materials": [
+
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "ex:thndr_rnd",
+    "count": 64
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

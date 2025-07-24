@@ -1,0 +1,8 @@
+{
+  "slot": "wz:ammo/slot/45auto",
+  "shell": {
+    "model": "wz:shell/45auto_shell",
+    "texture": "wz:shell/45auto_shell"
+  },
+  "tracer_color": "#FF8888"
+}

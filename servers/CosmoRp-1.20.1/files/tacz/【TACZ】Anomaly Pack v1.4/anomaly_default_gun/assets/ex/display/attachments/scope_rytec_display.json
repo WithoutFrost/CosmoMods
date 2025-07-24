@@ -1,0 +1,15 @@
+{
+  "slot": "ex:attachment/slot/default_scope",
+  "model": "ex:attachment/scope_rytec_geo",
+  "texture": "ex:attachment/uv/scope_rytec",
+  "zoom": [
+    12.0
+  ],
+  "scope": true,
+  "sight": false,
+  "fov": 20.0,
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

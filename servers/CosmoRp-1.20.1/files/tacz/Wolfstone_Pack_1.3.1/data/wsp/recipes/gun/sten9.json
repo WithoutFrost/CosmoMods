@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:bucket"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "minecraft:fishes"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:potato"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 25
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "wsp:sten9"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

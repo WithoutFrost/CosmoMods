@@ -1,0 +1,42 @@
+{
+  "model": "nmw3:gun/basb_bvl_geo",
+  "texture": "nmw3:gun/uv/basb_bvl",
+  "lod": {
+    "model": "nmw3:gun/lod/basb_bvl",
+    "texture": "nmw3:gun/lod/basb_bvl"
+  },
+  "hud": "nmw3:gun/hud/basb_bvl",
+  "slot": "nmw3:gun/slot/basb_bvl",
+  "animation": "nmw3:basb",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 1.125
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "nmw3:basb/basb_shoot",
+    "shoot_3p": "nmw3:basb/basb_shoot_3p",
+    "silence": "nmw3:basb/basb_silence",
+    "silence_3p": "nmw3:basb/basb_silence_3p"
+  }
+}

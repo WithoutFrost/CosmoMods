@@ -1,0 +1,8 @@
+{
+  "name": "emxcust.gun.m60_emx57.name",
+  "display": "emxcust:m60_emx57_display",
+  "data": "emxcust:m60_emx57_data",
+  "tooltip": "emxcust.gun.m60_emx57.desc",
+  "type": "mg",
+  "sort": 24050
+}

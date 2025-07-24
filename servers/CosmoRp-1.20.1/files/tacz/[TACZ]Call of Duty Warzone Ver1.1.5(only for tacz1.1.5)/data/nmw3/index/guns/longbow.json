@@ -1,0 +1,8 @@
+{
+  "name": "nmw3.gun.longbow.name",
+  "display": "nmw3:longbow_display",
+  "data": "nmw3:longbow_data",
+  "tooltip": "nmw3.gun.longbow.desc",
+  "type": "sniper",
+  "sort": 1200
+}

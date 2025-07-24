@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 192
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 128
+    },
+    {
+      "item":{
+    "item": "minecraft:gunpowder"
+      },
+      "count": 64
+    },
+    {
+      "item":{
+    "item": "minecraft:black_dye"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "ex:kar98k"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

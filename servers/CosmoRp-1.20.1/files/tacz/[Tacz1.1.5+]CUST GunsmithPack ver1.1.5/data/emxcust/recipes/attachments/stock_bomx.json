@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:tnt"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 128
+    },
+    {
+      "item": {
+        "item": "minecraft:end_crystal"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 240
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "emxcust:stock_bomx"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

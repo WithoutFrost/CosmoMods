@@ -1,0 +1,7 @@
+{
+  "name": "wsp.gun.sten9.name",
+  "display": "wsp:sten9_display",
+  "data": "wsp:sten9_data",
+  "type": "smg",
+  "tooltip": "wsp.gun.sten9.desc"
+}

@@ -1,0 +1,65 @@
+{
+  "model": "ex:gun/demise_geo",
+  "texture": "ex:gun/uv/demise",
+  "hud": "ex:gun/hud/demise",
+  "slot": "ex:gun/slot/demise",
+  "animation": "ex:demise",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/demise",
+    "scale": 4
+  },
+  "ammo": {
+    "particle": {
+      "name": "scrape",
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      "speed": 0.0,
+      "life_time": 50,
+      "count": 30
+    }
+  },
+  "sounds": {
+      "draw": "ex:demise/demise_draw",
+      "put_away": "ex:demise/demise_put_away",
+      "shoot": "ex:demise/demise_shoot",
+      "shoot_3p": "ex:demise/demise_shoot",
+      "silence": "ex:demise/demise_silenced",
+      "silence_3p": "ex:demise/demise_silenced",
+      "head_hit": "tacz:head_hit",
+      "flesh_hit": "tacz:flesh_hit",
+      "kill": "ex:kill",
+      "melee_push": "ex:inspect/ping",
+      "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 1,
+      "high_frequency": 1,
+      "time": 200
+    }
+  }
+}

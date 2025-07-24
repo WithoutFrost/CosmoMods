@@ -1,0 +1,43 @@
+{
+  "model": "bo6:gun/tanto22_geo",
+  "texture": "bo6:gun/uv/tanto22",
+  "hud": "bo6:gun/hud/tanto22",
+  "lod": {
+    "model": "bo6:gun/lod/tanto22",
+    "texture": "bo6:gun/lod/tanto22"
+  },
+  "slot": "bo6:gun/slot/tanto22",
+  "animation": "bo6:tanto22",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.6
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "bo6:tanto22/tanto22_shoot",
+    "shoot_3p": "bo6:tanto22/tanto22_shoot_3p",
+    "silence": "bo6:tanto22/tanto22_silence",
+    "silence_3p": "bo6:tanto22/tanto22_silence_3p",
+    "draw": "bo6:tanto22/tanto22_draw",
+    "put_away": "bo6:tanto22/tanto22_put_away"
+  }
+}

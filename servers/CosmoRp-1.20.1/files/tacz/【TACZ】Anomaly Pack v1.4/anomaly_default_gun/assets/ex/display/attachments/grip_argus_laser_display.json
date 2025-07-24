@@ -1,0 +1,9 @@
+{
+  "slot": "ex:attachment/slot/grip_dsr50_laser",
+  "model": "ex:attachment/grip_argus_laser_geo",
+  "texture": "ex:attachment/uv/grip_dsr50_laser",
+  "sounds": {
+    "install": "ex:attachments/attachment_install",
+    "uninstall": "ex:attachments/attachment_uninstall"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "ex:drgn_rnd_x",
+    "count": 64
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

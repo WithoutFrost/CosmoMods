@@ -1,0 +1,19 @@
+{
+  "tracer_color": "#990000",
+  "slot": "ex:ammo/slot/drgn_rnd",
+  "shell": {
+    "model": "ex:shell/10mm_shell",
+    "texture": "ex:shell/10mm_shell"
+  },
+  "particle": {
+    "name": "crimson_spore",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.005,
+    "life_time": 100,
+    "count": 10
+  }
+}

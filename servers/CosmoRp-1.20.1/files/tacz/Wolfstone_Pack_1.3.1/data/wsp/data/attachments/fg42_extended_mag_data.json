@@ -1,0 +1,11 @@
+
+{
+"weight": 0.2,
+"ads": {
+// Addend (the sum of multiple attachments' values, serving as the first multiplier)
+
+"addend": 0.01
+},
+// Extended magazine level
+"extended_mag_level": 1
+}

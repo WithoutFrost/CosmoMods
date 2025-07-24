@@ -1,0 +1,7 @@
+{
+  "name": "ex.gun.corrupted.name",
+  "display": "ex:corrupted_display",
+  "data": "ex:corrupted_data",
+  "tooltip": "ex.gun.corrupted.desc",
+  "type": "rifle"
+}

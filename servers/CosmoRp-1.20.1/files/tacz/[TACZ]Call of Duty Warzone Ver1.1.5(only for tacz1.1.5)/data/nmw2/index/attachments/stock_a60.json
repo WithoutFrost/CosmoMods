@@ -1,0 +1,7 @@
+{
+  "name": "nmw2.attachment.stock_a60.name",
+  "display": "nmw2:stock_a60_display",
+  "data": "nmw2:stock_a60_data",
+  "type": "stock",
+  "sort": "1190"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "emxarms.attachment.sight_emx_return_eos.name",
+	"tooltip": "emxarms.attachment.sight_emx_return_eos.tooltip",
+	"display": "emxarms:sight_emx_return_eos_display",
+	"data": "emxarms:sight_emx_return_eos_data",
+	"type": "scope",
+    "sort": 24050
+}

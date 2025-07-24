@@ -1,0 +1,8 @@
+{
+  "name": "ccrp.gun.hk416a8.name",
+  "display": "ccrp:hk416a8_display",
+  "data": "ccrp:hk416a8_data",
+  "type": "rifle",
+  "tooltip": "ccrp.gun.hk416a8.desc",
+  "sort": 10
+}

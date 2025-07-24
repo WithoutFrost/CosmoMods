@@ -1,0 +1,58 @@
+{
+  "model": "ex:gun/kar98k_geo",
+  "texture": "ex:gun/uv/kar98k",
+  "hud": "ex:gun/hud/kar98k",
+  "slot": "ex:gun/slot/kar98k",
+  "animation": "ex:kar98k",
+  "state_machine": "ex:kar98k_state_machine",
+  "state_machine_param": {
+    "bolt_shell_ejecting_time": 0.17,
+    "intro_shell_ejecting_time": 0.4
+  },
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/crimson_soul",
+    "scale": 1.5
+  },
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 70,
+  "sounds": {
+    "draw": "ex:kar98k/kar98k_draw",
+    "put_away": "ex:kar98k/kar98k_put_away",
+    "shoot": "ex:kar98k/kar98k_shoot",
+    "shoot_3p": "ex:kar98k/kar98k_shoot_3p",
+    "silence": "ex:kar98k/kar98k_silenced",
+    "silence_3p": "ex:kar98k/kar98k_silenced_3p",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 1,
+      "high_frequency": 1,
+      "time": 200
+    }
+  }
+}

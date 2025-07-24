@@ -1,0 +1,7 @@
+{
+	"hidden": true,
+  "name": "tacz.attachment.scope_acog_ta31.name",
+  "display": "ex:scope_acog_ta31_display",
+  "data": "ex:scope_acog_ta31_data",
+  "type": "scope"
+}

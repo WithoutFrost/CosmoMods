@@ -1,0 +1,7 @@
+{
+	"hidden": true,
+  "name": "ex.attachment.scope_demise.name",
+  "display": "ex:scope_demise_display",
+  "data": "ex:scope_demise_data",
+  "type": "scope"
+}

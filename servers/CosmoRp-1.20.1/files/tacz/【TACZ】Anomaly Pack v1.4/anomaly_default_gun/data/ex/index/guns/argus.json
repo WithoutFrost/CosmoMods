@@ -1,0 +1,7 @@
+{
+    "name": "ex.gun.argus.name",
+    "display": "ex:argus_display",
+    "data": "ex:argus_data",
+    "tooltip": "ex.gun.argus.desc",
+    "type": "shotgun"
+}

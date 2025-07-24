@@ -1,0 +1,53 @@
+{
+  "model": "ex:gun/mp7_geo",
+  "texture": "ex:gun/uv/mp7",
+  "hud": "ex:gun/hud/mp7",
+  "slot": "ex:gun/slot/mp7",
+  "animation": "ex:mp7",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/electric_muzzle_flash",
+    "scale": 1.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "ex:mp7/mp7_shoot",
+    "shoot_3p": "ex:mp7/mp7_shoot",
+    "silence": "ex:mp7/mp7_silence",
+    "silence_3p": "ex:mp7/mp7_silence",
+    "draw": "ex:mp7/mp7_draw",
+    "put_away": "ex:mp7/mp7_put_away",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

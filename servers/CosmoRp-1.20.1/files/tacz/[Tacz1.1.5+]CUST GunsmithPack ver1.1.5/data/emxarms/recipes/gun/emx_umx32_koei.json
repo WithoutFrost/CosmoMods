@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "emxcust:emx_cus_tool"
+        }
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "emxarms:emx_umx32"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:red_dye"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "emxarms:emx_umx32_koei"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

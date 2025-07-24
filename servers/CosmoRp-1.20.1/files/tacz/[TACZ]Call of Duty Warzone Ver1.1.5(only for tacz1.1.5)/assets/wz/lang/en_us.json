@@ -1,0 +1,44 @@
+{
+  "pack.wz.name": "§a使命召唤：战争地带 附属枪械包",
+  "pack.wz.desc": "§f§l重铸动视荣光，吾辈义不容辞！",
+  
+  "wz.type.scope.name": "瞄具",
+  "wz.type.muzzle.name": "膛口装置",
+  "wz.type.grip.name": "枪管下挂",
+  "wz.type.extended_mag.name": "弹匣",
+  "wz.type.stock.name": "枪托",
+  "wz.type.laser.name": "激光指示器",
+  "wz.type.ammo.name": "弹药&物资",
+
+  "wz.type.rifle.name": "突击步枪&战斗步枪",
+  "wz.type.smg.name": "微型冲锋枪",
+  "wz.type.shotgun.name": "霰弹枪",
+  "wz.type.mg.name": "轻机枪",
+  "wz.type.sniper.name": "精确射手步枪&狙击步枪",
+  "wz.type.pistol.name": "手枪",
+  "wz.type.rpg.name": "发射器&特殊&近战",
+
+  "wz.block.buy_station": "§a§l补给站",
+
+  "wz.buy_station.desc": "玩家可以在补给站花费现金来购买弹药、武器、配件等物品。\n§a§l出自 使命召唤：战争地带",
+
+  "wz.ammo.cod_points.name": "§e§lCP点数",
+
+  "wz.ammo.9mm.name": "§6§l9毫米",
+  "wz.ammo.12gauge.name": "§6§l12号铅径",
+  "wz.ammo.45auto.name": "§6§l点45手枪",
+  "wz.ammo.46x30mm.name": "§6§l4.6毫米",
+  "wz.ammo.50cal.name": "§6§l点50机枪弹",
+  "wz.ammo.57x28mm.name": "§6§l57x28毫米",
+  "wz.ammo.68wrath.name": "§6§l6.8毫米狂怒",
+  "wz.ammo.277wrath.name": "§6§l点277狂怒",
+  "wz.ammo.300blk.name": "§6§l点300BLK",
+  "wz.ammo.338mag.name": "§6§l点338马格南",
+  "wz.ammo.545x39mm.name": "§6§l5.45毫米",
+  "wz.ammo.556nato.name": "§6§l5.56毫米",
+  "wz.ammo.762blk.name": "§6§l7.62BLK",
+  "wz.ammo.762x39mm.name": "§6§l7.62x39毫米",
+  "wz.ammo.hvpc.name": "§6§l高压电池",
+  "wz.ammo.127x108mm.name": "§6§l12.7x108毫米",
+  "wz.ammo.22wmr.name": "§6§l点22温彻斯特马格南"
+}

@@ -1,0 +1,63 @@
+{
+  "model": "ex:gun/rebirth_geo",
+  "texture": "ex:gun/uv/rebirth",
+  "hud": "ex:gun/hud/rebirth",
+  "slot": "ex:gun/slot/rebirth",
+  "animation": "ex:rebirth",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "ammo": {
+    "tracer_color": "#fadbe0",
+    "particle": {
+      "name": "cherry_leaves",
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      "speed": 0.0,
+      "life_time": 50,
+      "count": 30
+    }
+  },
+  "sounds": {
+    "shoot": "ex:rebirth/rebirth_shoot",
+    "shoot_3p": "ex:rebirth/rebirth_shoot",
+    "silence": "ex:rebirth/rebirth_silenced",
+    "silence_3p": "ex:rebirth/rebirth_silenced",
+    "draw": "tacz:ai_awp/awp_draw",
+    "put_away": "tacz:ai_awp/awp_put_away",
+    "bolt": "tacz:ai_awp/awp_bolt",
+    "reload_empty": "tacz:ai_awp/awp_reload_empty",
+    "reload_tactical": "tacz:ai_awp/awp_reload_tactical",
+    "inspect": "tacz:ai_awp/awp_inspect",
+    "inspect_empty": "tacz:ai_awp/awp_inspect_empty",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:rebirth/rebirth_kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [-2, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 26, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

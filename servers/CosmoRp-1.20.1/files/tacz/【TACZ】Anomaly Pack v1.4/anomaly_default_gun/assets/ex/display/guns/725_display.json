@@ -1,0 +1,59 @@
+{
+  "model": "ex:gun/725_geo",
+  "texture": "ex:gun/uv/725",
+  "hud": "ex:gun/hud/725",
+  "slot": "ex:gun/slot/725",
+  "animation": "ex:725",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "ex:flash/common_muzzle_red",
+    "scale": 0.75
+  },
+  "ammo": {
+    "tracer_color": "#990000",
+    "particle": {
+      "name": "crimson_spore",
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      "speed": 0.0,
+      "life_time": 50,
+      "count": 10
+    }
+  },
+  "sounds": {
+    "draw": "ex:725/725_draw",
+    "put_away": "ex:725/725_drop",
+    "shoot": "ex:725/725_shoot",
+    "shoot_3p": "ex:725/725_shoot",
+    "silence": "ex:725/725_silenced",
+    "silence_3p": "ex:725/725_silenced",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "ex:kill",
+    "melee_push": "ex:inspect/ping",
+    "melee_stock": "ex:inspect/ping"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

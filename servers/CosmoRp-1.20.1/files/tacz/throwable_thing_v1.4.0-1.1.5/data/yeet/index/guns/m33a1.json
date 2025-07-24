@@ -1,0 +1,9 @@
+{
+    "name": "yeet.gun.m33a1.name",
+    "display": "yeet:m33a1_display",
+    "data": "yeet:m33a1_data",
+    "tooltip": "yeet.gun.m33a1.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 7003
+}

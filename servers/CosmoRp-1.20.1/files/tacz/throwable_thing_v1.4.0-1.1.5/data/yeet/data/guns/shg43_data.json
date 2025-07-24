@@ -1,0 +1,97 @@
+{
+  "ammo": "yeet:ammo_shg43",
+  "script": "yeet:impact_grenade_logic",
+  "ammo_amount": 4,
+  "extended_mag_ammo_amount": [
+    4,
+    4,
+    4
+  ],
+  "bolt": "open_bolt",
+  "rpm": 35,
+  "bullet": {
+    "life": 30,
+    "bullet_amount": 1,
+    "damage": 3,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 1,
+      "damage_adjust": [
+        {"distance": 5, "damage": 3},
+        {"distance": "infinite", "damage": 2.5}
+      ]
+    },
+    "speed": 34,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.1,
+    "ignite": false,
+    "pierce": 0,
+    "explosion": {
+      "explode": true,
+      "damage": 41,
+      "radius": 5,
+      "knockback": true,
+      "destroy_block": false,
+      "delay": 30
+    }
+  },
+  "reload": {
+    "type": "inventory",
+    "feed": {
+      "empty": 1.5,
+      "tactical": 2.5
+    },
+    "cooldown": {
+      "empty": 2.5,
+      "tactical": 4
+    }
+  },
+  "draw_time": 0.6,
+  "put_away_time": 0.38,
+  "aim_time": 1.0,
+  "sprint_time": 0.2,
+  "weight": 3.0, 
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.2
+  },
+  "crawl_recoil_multiplier": 1,
+  "fire_mode": [
+    "semi",
+    "burst"
+  ],
+  "fire_mode_adjust": {
+    "burst": {
+      "speed": -20,
+      "friction": -0.04
+    }
+  },
+  "burst_data": {
+    "continuous_shoot": false,
+    "count": 1,
+    "bpm": 35,
+    "min_interval": 1.71
+  },
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.6, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.6, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 8,
+    "move": 8,
+    "sneak": 8,
+    "lie": 8,
+    "aim": 0.025
+  },
+  "allow_attachment_types": [
+  ]
+}

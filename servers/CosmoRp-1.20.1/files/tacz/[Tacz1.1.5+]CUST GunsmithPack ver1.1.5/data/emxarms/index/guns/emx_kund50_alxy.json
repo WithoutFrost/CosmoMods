@@ -1,0 +1,8 @@
+{
+  "name": "emxarms.gun.emx_kund50_alxy.name",
+  "display": "emxarms:emx_kund50_alxy_display",
+    "tooltip": "emxarms.gun.emx_kund50_alxy.desc",
+  "data": "emxarms:emx_kund50_alxy_data",
+  "type": "pistol",
+  "sort": 24050
+}

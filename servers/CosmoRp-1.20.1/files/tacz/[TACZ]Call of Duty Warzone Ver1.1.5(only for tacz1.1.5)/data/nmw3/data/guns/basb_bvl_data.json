@@ -1,0 +1,106 @@
+{
+  "ammo": "wz:277wrath",
+  "ammo_amount": 20,
+  "extended_mag_ammo_amount": [
+    25,
+    30,
+    40
+  ],
+  "bolt": "closed_bolt",
+  "rpm": 600,
+  "bullet": {
+    "life": 0.8,
+    "bullet_amount": 1,
+    "damage": 9,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.45,
+      "head_shot_multiplier": 1.15,
+      "damage_adjust": [
+        {"distance": 5, "damage": 9},
+        {"distance": 50, "damage": 7.5},
+        {"distance": "infinite", "damage": 6.25}
+      ]
+    },
+    "speed": 435,
+    "gravity": 0.15,
+    "knockback": 0,
+    "friction": 0.0125,
+    "ignite": false,
+    "pierce": 2,
+    "explosion": {
+      "explode": false,
+      "damage": 25,
+      "radius": 0.75,
+      "knockback": true,
+      "delay": 1
+    }
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 2.25,
+      "tactical": 1.5
+    },
+    "cooldown": {
+      "empty": 4,
+      "tactical": 2.5833
+    }
+  },
+  "draw_time": 0.43,
+  "put_away_time": 0.43,
+  "aim_time": 0.28,
+  "sprint_time": 0.252,
+  "weight": 4.6,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.1
+  },
+  "crawl_recoil_multiplier": 0.5,
+  "fire_mode": [
+    "auto",
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.9, 0.9]},
+      {"time": 0.2, "value": [0.9, 0.9]},
+      {"time": 0.45, "value": [-0.1, -0.1]},
+      {"time": 0.6, "value": [0, 0]},
+      {"time": 0.7, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.2, 0.05]},
+      {"time": 0.35, "value": [-0.2, 0.05]},
+      {"time": 0.5, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 5.5,
+    "move": 6,
+    "sneak": 5.25,
+    "lie": 4,
+    "aim": 0.075
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.6,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 1,
+      "range_angle": 30,
+      "damage": 2,
+      "knockback": 0.6,
+      "prep": 0.1
+    }
+  },
+  "allow_attachment_types": [
+    "scope",
+    "stock",
+    "grip",
+    "laser",
+    "muzzle",
+    "extended_mag"
+  ]
+}

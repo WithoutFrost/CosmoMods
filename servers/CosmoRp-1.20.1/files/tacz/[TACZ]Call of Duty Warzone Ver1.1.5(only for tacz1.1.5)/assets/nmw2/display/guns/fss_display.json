@@ -1,0 +1,48 @@
+{
+  "model": "nmw2:gun/fss_geo",
+  "texture": "nmw2:gun/uv/fss",
+  "lod": {
+    "model": "nmw2:gun/lod/fss",
+    "texture": "nmw2:gun/lod/fss"
+  },
+  "hud": "nmw2:gun/hud/fss",
+  "slot": "nmw2:gun/slot/fss",
+  "animation": "nmw2:fss",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "wz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "iron_zoom": 1.1,
+  "zoom_model_fov": 45,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "ammo": {
+    "tracer_color": "#e3c372"
+  },
+  "sounds": {
+    "head_hit": "wz:head_hit",
+    "flesh_hit": "wz:flesh_hit",
+    "kill": "wz:kill",
+
+    "shoot": "nmw2:fss/fss_shoot",
+    "shoot_3p": "nmw2:fss/fss_shoot_3p",
+    "silence": "nmw2:fss/fss_silence",
+    "silence_3p": "nmw2:fss/fss_silence_3p",
+    "draw": "nmw2:fss/fss_raise",
+    "put_away": "nmw2:fss/fss_drop"
+  }
+}

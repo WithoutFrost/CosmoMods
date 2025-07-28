@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "com.almostreliable.unified:almostunified:1.20.1-0.10.0@jar",
+          "name": "AlmostUnified",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216941,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.10.0.jar",
+            "MD5": "b3d17c8ba378ae60bcb95e2eb9265304"
+          }
+        },
+        {
           "id": "generated.forgemod:mr_annihilation_recreated:1-r1.1.1_mc1.20.1@jar",
           "name": "Annihilation Recreated",
           "type": "ForgeMod",

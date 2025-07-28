@@ -1623,6 +1623,16 @@
           }
         },
         {
+          "id": "it.hurts.octostudios:octolib:0.5.0.1@jar",
+          "name": "OctoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 424035,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",

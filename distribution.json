@@ -603,16 +603,6 @@
           }
         },
         {
-          "id": "com.cravencraft:bloodybits:1.3.2-1.20.1@jar",
-          "name": "CravenCraft's Bloody Bits",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 132636,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/bloodybits-1.3.2-1.20.1.jar",
-            "MD5": "329794fc6f85fe82757e5b50e0ea2274"
-          }
-        },
-        {
           "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -1610,6 +1600,16 @@
             "size": 154065,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/NoSeeNoTick-2.0.0-1.20.1.jar",
             "MD5": "bbf375f1dd4d1cd9bbd387c575bbd56b"
+          }
+        },
+        {
+          "id": "it.hurts.octostudios:nerb:0.4.1@jar",
+          "name": "Not Enough Recipe Book",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21667,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Not%20Enough%20Recipe%20Book-FORGE-0.4.1+1.20.1.jar",
+            "MD5": "fa8240906f36683f66de537b34587643"
           }
         },
         {

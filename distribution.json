@@ -543,6 +543,16 @@
           }
         },
         {
+          "id": "daripher.autoleveling:autoleveling:1.19b@jar",
+          "name": "Auto Leveling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73258,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/AutoLeveling-1.20-1.19b.jar",
+            "MD5": "111b26c9b9bf8142d1347cd881626647"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:3.0.9@jar",
           "name": "AzureLib",
           "type": "ForgeMod",

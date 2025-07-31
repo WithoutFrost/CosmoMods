@@ -983,6 +983,16 @@
           }
         },
         {
+          "id": "com.samsthenerd:duckyperiphs:1.20.1-1.3.1@jar",
+          "name": "Ducky Peripherals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540838,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/duckyperiphs-1.20.1-1.3.1-forge.jar",
+            "MD5": "0ddca1e436373d7992e37ea8b7cb2402"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.7@jar",
           "name": "MmmMmmMmmmmm",
           "type": "ForgeMod",
@@ -1603,6 +1613,16 @@
           }
         },
         {
+          "id": "com.hakimen:peripherals:1.13.0@jar",
+          "name": "More Peripherals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344987,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/MorePeripherals_1.20.1-1.13.0.jar",
+            "MD5": "e37b9ca13e65141c42c4962bdb27fdc8"
+          }
+        },
+        {
           "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
           "name": "Mouse Tweaks",
           "type": "ForgeMod",
@@ -1720,6 +1740,16 @@
             "size": 671605,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "95bdd5558d34044f54aab0ce292e679b"
+          }
+        },
+        {
+          "id": "site.siredvin:peripheralworks:1.5.1@jar",
+          "name": "UnlimitedPeripheralWorks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15240248,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/peripheralworks-forge-1.20.1-1.5.1.jar",
+            "MD5": "7bfb29d1eac4744938a63b9141bdfe0f"
           }
         },
         {
@@ -2033,6 +2063,16 @@
           }
         },
         {
+          "id": "com.mikitellurium:telluriumforge:1.4.0@jar",
+          "name": "TelluriumForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61385,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/telluriumforge-1.4.0-1.20.1-forge.jar",
+            "MD5": "4b56d076802b64fbb39fc5adde28c8cd"
+          }
+        },
+        {
           "id": "terrablender.core:terrablender:3.0.1.10@jar",
           "name": "TerraBlender",
           "type": "ForgeMod",
@@ -2080,6 +2120,26 @@
             "size": 117791,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
             "MD5": "e1df6b412a4c22894967ba42beb347be"
+          }
+        },
+        {
+          "id": "com.mikitellurium:turtlechargingstation:1.7.0@jar",
+          "name": "Turtle Charging Station",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131713,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/turtlechargingstation-1.7.0-1.20.1-forge.jar",
+            "MD5": "df036b03b1b391a94fff03792d46ce5c"
+          }
+        },
+        {
+          "id": "site.siredvin:turtlematic:1.4.1@jar",
+          "name": "Turtlematic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14936530,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/turtlematic-forge-1.20.1-1.4.1.jar",
+            "MD5": "cc5202c9bcf9dbb76294df81dec7123a"
           }
         },
         {

@@ -1263,6 +1263,16 @@
           }
         },
         {
+          "id": "org.mesdag:geckojs:2001forge-1.5.0@jar",
+          "name": "GeckoJS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 154037,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/GeckoJS-2001forge-1.5.0.jar",
+            "MD5": "477762797d6e4e66d766b5630985c8e7"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.7.2@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
@@ -1430,6 +1440,16 @@
             "size": 30787,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs_curios_forge_1.20.1-1.0.3.jar",
             "MD5": "2c9850ea1acf5d7d04eb4d8b350bb9fd"
+          }
+        },
+        {
+          "id": "net.zhaiji.kubejscurios:kubejs_curios:1.0.4@jar",
+          "name": "KubeJSCurios",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42322,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs_curios_forge_1.20.1-1.0.4.jar",
+            "MD5": "682321afb7a890679293c13cc80cbdc6"
           }
         },
         {

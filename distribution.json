@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19471,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          }
+        },
+        {
           "id": "ttv.migami:aurorasarsenal:1.0.0@jar",
           "name": "Aurora's Arsenal",
           "type": "ForgeMod",
@@ -673,13 +683,13 @@
           }
         },
         {
-          "id": "chovysapocalypsemod:chovys_apocalypse_mod:1.8@jar",
+          "id": "chovysapocalypsemod:chovys_apocalypse_mod:1.9@jar",
           "name": "Chovy's Apocalypse Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 613675,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/chovys_apocalypse_mod-1.8.jar",
-            "MD5": "1a5444c012c309d54dc5f6dddec91ce1"
+            "size": 706357,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/chovys_apocalypse_mod-1.9.jar",
+            "MD5": "c0d98fd6c1d780d353b3856fbef5f793"
           }
         },
         {
@@ -720,6 +730,16 @@
             "size": 20299,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.14@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873714,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/connectedglass-1.1.14-forge-mc1.20.1.jar",
+            "MD5": "7b7a482c48dc0e76120f0bd91af1e01a"
           }
         },
         {
@@ -860,6 +880,16 @@
             "size": 18764522,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          }
+        },
+        {
+          "id": "net.mcreator.createconfectionery:create_confectionery:1.1.0@jar",
+          "name": "Create Confectionery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2123089,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+            "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
           }
         },
         {
@@ -1043,6 +1073,16 @@
           }
         },
         {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
+          }
+        },
+        {
           "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
@@ -1200,6 +1240,16 @@
             "size": 248592,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
             "MD5": "98efb58ba7cecfb39034544eced0389f"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.2.10@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 542652,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fusion-1.2.10-forge-mc1.20.1.jar",
+            "MD5": "7eb95405bda76fb35c0e7eb533c9555a"
           }
         },
         {
@@ -2033,13 +2083,33 @@
           }
         },
         {
-          "id": "net.mcreator.survivalinstinct:survival_instinct:1.0.0@jar",
+          "id": "com.bonker.stardewfishing:stardew_fishing:3.2@jar",
+          "name": "Stardew Fishing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 858581,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/stardew_fishing-3.2-1.20.1.jar",
+            "MD5": "ce96327e50b9d221eab4735c400d47b0"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515362,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
+          "id": "net.mcreator.survivalinstinct:survival_instinct:1.0.1@jar",
           "name": "Survival Instinct",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1382347,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/survival_instinct-1.0.0-forge-1.20.1.jar",
-            "MD5": "867c938b6fe1d94be425300fb15b6abe"
+            "size": 1691940,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/survival_instinct-1.0.1-forge-1.20.1.jar",
+            "MD5": "54a68ad552f1f5b03dc9b2a6f1b3840d"
           }
         },
         {
@@ -2083,13 +2153,13 @@
           }
         },
         {
-          "id": "net.mcreator.theravenous:the_ravenous:1.0.0@jar",
+          "id": "net.theravenous:the_ravenous:1.0.0@jar",
           "name": "The Ravenous",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1417013,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/the_ravenous-1.0.3-forge-1.20.1%20(1).jar",
-            "MD5": "dd9f3514ac8462ef470aa67272bd1943"
+            "size": 4094036,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/the_ravenous-2.0.2-forge-1.20.1.jar",
+            "MD5": "428c6d7f4ca27c543e4493871381b31f"
           }
         },
         {
@@ -2270,6 +2340,26 @@
             "size": 23411995,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/yuushya-1.20.1-forge-2.2.3.jar",
             "MD5": "ecb9b749009a34326f3bdbb9b0f64045"
+          }
+        },
+        {
+          "id": "me.dantaeusb:zetter:0.21.5@jar",
+          "name": "Zetter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1333236,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zetter-1.20.1-0.21.5.jar",
+            "MD5": "b4dd9f0cd8d5ea9a071edca18b00641d"
+          }
+        },
+        {
+          "id": "net.vami:zoe:2.0.8@jar",
+          "name": "Zoe Isn't Cyberpunk",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2316623,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zoe-2.0.8-forge-1.20.1.jar",
+            "MD5": "0e9983c7484c6efb8bd7872c1856a6e3"
           }
         },
         {

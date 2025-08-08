@@ -1,0 +1,141 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        -6.75,
+        0.5
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        3.1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        -6.75,
+        0.5
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        3.1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        10,
+        -90,
+        0
+      ],
+      "translation": [
+        -0.5,
+        -7.25,
+        -1.75
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        10,
+        90,
+        0
+      ],
+      "translation": [
+        -0.5,
+        -7.25,
+        -1.75
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1.4
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "translation": [
+        0,
+        1.5,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        -8.5,
+        -8,
+        0
+      ],
+      "scale": [
+        1.4,
+        1.4,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "translation": [
+        12,
+        -24.25,
+        5.5
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        50
+      ],
+      "translation": [
+        -0.5,
+        -30.5,
+        -41.75
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cosmosstuff:item/laminae_fames"
+  }
+}

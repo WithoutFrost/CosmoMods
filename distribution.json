@@ -2363,6 +2363,259 @@
           }
         },
         {
+          "id": "README.txt",
+          "name": "README.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1203,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/README.txt",
+            "MD5": "9b7dd698e2035090afd6f76f2d493cc6",
+            "path": "kubejs/README.txt"
+          }
+        },
+        {
+          "id": "custodialis_quasaris_tenuis.geo.json",
+          "name": "custodialis_quasaris_tenuis.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 2578,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/custodialis_quasaris_tenuis.geo.json",
+            "MD5": "243ce9503615f1318fcad3bfdb4a8e80",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/custodialis_quasaris_tenuis.geo.json"
+          }
+        },
+        {
+          "id": "fames.geo.json",
+          "name": "fames.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 69564,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/fames.geo.json",
+            "MD5": "04d531b7a3ca3ada315e3225469f0161",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/fames.geo.json"
+          }
+        },
+        {
+          "id": "lamina_quasaris_tenuis.geo.json",
+          "name": "lamina_quasaris_tenuis.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 10689,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/lamina_quasaris_tenuis.geo.json",
+            "MD5": "9e9b4a9f3e0b9b59758856187295b50b",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/lamina_quasaris_tenuis.geo.json"
+          }
+        },
+        {
+          "id": "laminae_fames.geo.json",
+          "name": "laminae_fames.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 107836,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/laminae_fames.geo.json",
+            "MD5": "7b07960d0d51ef5f99c3fd8a6a89e894",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/laminae_fames.geo.json"
+          }
+        },
+        {
+          "id": "moonlight.geo.json",
+          "name": "moonlight.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 10904,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/moonlight.geo.json",
+            "MD5": "78bff887adf124b5e2d0517947f30775",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/moonlight.geo.json"
+          }
+        },
+        {
+          "id": "sigillata_quasaris_tenuis.geo.json",
+          "name": "sigillata_quasaris_tenuis.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 5640,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/sigillata_quasaris_tenuis.geo.json",
+            "MD5": "776532ae54e211cbcd25b79ecdbe6460",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/sigillata_quasaris_tenuis.geo.json"
+          }
+        },
+        {
+          "id": "custodialis_quasaris_tenuis.json",
+          "name": "custodialis_quasaris_tenuis.json",
+          "type": "File",
+          "artifact": {
+            "size": 1964,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json",
+            "MD5": "2a5904001743982690c50dfd3933e137",
+            "path": "kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json"
+          }
+        },
+        {
+          "id": "fames.json",
+          "name": "fames.json",
+          "type": "File",
+          "artifact": {
+            "size": 1920,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/fames.json",
+            "MD5": "3a7867d994839187be7eff921d748b66",
+            "path": "kubejs/assets/cosmosstuff/models/item/fames.json"
+          }
+        },
+        {
+          "id": "lamina_quasaris_tenuis.json",
+          "name": "lamina_quasaris_tenuis.json",
+          "type": "File",
+          "artifact": {
+            "size": 1975,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/lamina_quasaris_tenuis.json",
+            "MD5": "4f60871f2105b29bb5359cc2a31b9731",
+            "path": "kubejs/assets/cosmosstuff/models/item/lamina_quasaris_tenuis.json"
+          }
+        },
+        {
+          "id": "laminae_fames.json",
+          "name": "laminae_fames.json",
+          "type": "File",
+          "artifact": {
+            "size": 1920,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/laminae_fames.json",
+            "MD5": "3a7867d994839187be7eff921d748b66",
+            "path": "kubejs/assets/cosmosstuff/models/item/laminae_fames.json"
+          }
+        },
+        {
+          "id": "sigillata_quasaris_tenuis.json",
+          "name": "sigillata_quasaris_tenuis.json",
+          "type": "File",
+          "artifact": {
+            "size": 1956,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/sigillata_quasaris_tenuis.json",
+            "MD5": "e6662ac802e8de2a04533ee8f055ddd3",
+            "path": "kubejs/assets/cosmosstuff/models/item/sigillata_quasaris_tenuis.json"
+          }
+        },
+        {
+          "id": "lamina_quasaris_tenuis.png",
+          "name": "lamina_quasaris_tenuis.png",
+          "type": "File",
+          "artifact": {
+            "size": 1737,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/lamina_quasaris_tenuis.png",
+            "MD5": "03931cdea398c3042a3bae6263413c41",
+            "path": "kubejs/assets/cosmosstuff/textures/os/item/lamina_quasaris_tenuis.png"
+          }
+        },
+        {
+          "id": "quasaris_tenuis.png",
+          "name": "quasaris_tenuis.png",
+          "type": "File",
+          "artifact": {
+            "size": 1009,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png",
+            "MD5": "c4c4b1c688ba48e1ccdfe40d2990ae94",
+            "path": "kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png"
+          }
+        },
+        {
+          "id": "lamina_quasaris_tenuis.png",
+          "name": "lamina_quasaris_tenuis.png",
+          "type": "File",
+          "artifact": {
+            "size": 1737,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/lamina_quasaris_tenuis.png",
+            "MD5": "03931cdea398c3042a3bae6263413c41",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/lamina_quasaris_tenuis.png"
+          }
+        },
+        {
+          "id": "laminae_fames.png",
+          "name": "laminae_fames.png",
+          "type": "File",
+          "artifact": {
+            "size": 2453,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/laminae_fames.png",
+            "MD5": "283704adf1ea2d7eb1e0cca7767d5acf",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/laminae_fames.png"
+          }
+        },
+        {
+          "id": "quasaris_tenuis.png",
+          "name": "quasaris_tenuis.png",
+          "type": "File",
+          "artifact": {
+            "size": 1009,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/quasaris_tenuis.png",
+            "MD5": "c4c4b1c688ba48e1ccdfe40d2990ae94",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/quasaris_tenuis.png"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/client_scripts/example.js",
+            "MD5": "979c62225b318d6d57499921bc47b62d",
+            "path": "kubejs/client_scripts/example.js"
+          }
+        },
+        {
+          "id": "client.properties",
+          "name": "client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 359,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/client.properties",
+            "MD5": "eafbad6dc9cf4e0e3ad27bbd3e95e362",
+            "path": "kubejs/config/client.properties"
+          }
+        },
+        {
+          "id": "common.properties",
+          "name": "common.properties",
+          "type": "File",
+          "artifact": {
+            "size": 329,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/common.properties",
+            "MD5": "8a043679c611b715de407c7f30d89998",
+            "path": "kubejs/config/common.properties"
+          }
+        },
+        {
+          "id": "index.html",
+          "name": "index.html",
+          "type": "File",
+          "artifact": {
+            "size": 13388005,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/documentation/index.html",
+            "MD5": "a600fe68df31edf7d113face33197f84",
+            "path": "kubejs/documentation/index.html"
+          }
+        },
+        {
+          "id": "os_events.js",
+          "name": "os_events.js",
+          "type": "File",
+          "artifact": {
+            "size": 5081,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/os_events.js",
+            "MD5": "87807d56c167501ae534bcdafdee2a0c",
+            "path": "kubejs/server_scripts/os_events.js"
+          }
+        },
+        {
+          "id": "os.js",
+          "name": "os.js",
+          "type": "File",
+          "artifact": {
+            "size": 2255,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
+            "MD5": "e095c44906dc4a8d8c59c3ca0b1d38e3",
+            "path": "kubejs/startup_scripts/os.js"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",

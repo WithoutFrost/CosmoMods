@@ -2263,13 +2263,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.25@jar",
+          "id": "org.watermedia.loaders:watermedia:2.1.28@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 37854313,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/watermedia-2.1.25.jar",
-            "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
+            "size": 37854061,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/watermedia-2.1.28.jar",
+            "MD5": "302ebe6c26891bdfe996a86cf45a910f"
           }
         },
         {

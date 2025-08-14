@@ -2098,8 +2098,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 204480,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.13.jar",
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sound-physics-remastered-forge-1.20.1-1.4.13.jar",
             "MD5": "60f4782d630d473a4bc6547369c286db"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2398,9 +2401,9 @@
           "name": "custodialis_quasaris_tenuis.geo.json",
           "type": "File",
           "artifact": {
-            "size": 2578,
+            "size": 17343,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/custodialis_quasaris_tenuis.geo.json",
-            "MD5": "243ce9503615f1318fcad3bfdb4a8e80",
+            "MD5": "a75787f7a790512da8f47cea0c5dd06b",
             "path": "kubejs/assets/cosmosstuff/geo/os/weapons/custodialis_quasaris_tenuis.geo.json"
           }
         },
@@ -2453,9 +2456,9 @@
           "name": "sigillata_quasaris_tenuis.geo.json",
           "type": "File",
           "artifact": {
-            "size": 5640,
+            "size": 26492,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/sigillata_quasaris_tenuis.geo.json",
-            "MD5": "776532ae54e211cbcd25b79ecdbe6460",
+            "MD5": "2fdb8ae27b8c4631b062186efe2bb3e9",
             "path": "kubejs/assets/cosmosstuff/geo/os/weapons/sigillata_quasaris_tenuis.geo.json"
           }
         },
@@ -2466,7 +2469,7 @@
           "artifact": {
             "size": 1964,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json",
-            "MD5": "2a5904001743982690c50dfd3933e137",
+            "MD5": "2598da360dd222b30479806ecf50ff6e",
             "path": "kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json"
           }
         },
@@ -2508,9 +2511,9 @@
           "name": "sigillata_quasaris_tenuis.json",
           "type": "File",
           "artifact": {
-            "size": 1956,
+            "size": 1964,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/sigillata_quasaris_tenuis.json",
-            "MD5": "e6662ac802e8de2a04533ee8f055ddd3",
+            "MD5": "84aa14b6792b23ea6e9d383fa1e26ce6",
             "path": "kubejs/assets/cosmosstuff/models/item/sigillata_quasaris_tenuis.json"
           }
         },
@@ -2530,9 +2533,9 @@
           "name": "quasaris_tenuis.png",
           "type": "File",
           "artifact": {
-            "size": 1009,
+            "size": 1670,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png",
-            "MD5": "c4c4b1c688ba48e1ccdfe40d2990ae94",
+            "MD5": "e3d47da20195b8dc2aa7fd111cef27eb",
             "path": "kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png"
           }
         },
@@ -2563,9 +2566,9 @@
           "name": "quasaris_tenuis.png",
           "type": "File",
           "artifact": {
-            "size": 1009,
+            "size": 1670,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/quasaris_tenuis.png",
-            "MD5": "c4c4b1c688ba48e1ccdfe40d2990ae94",
+            "MD5": "e3d47da20195b8dc2aa7fd111cef27eb",
             "path": "kubejs/assets/cosmosstuff/textures/os/weapons/quasaris_tenuis.png"
           }
         },

@@ -1,134 +1,145 @@
 {
   "credit": "Made with Blockbench",
   "parent": "builtin/entity",
-  "texture_size": [
-    32,
-    32
-  ],
   "display": {
     "thirdperson_righthand": {
       "rotation": [
-        -180,
         0,
-        0
+        90,
+        -180
       ],
       "translation": [
-        0,
-        6.5,
-        1.5
+        0.25,
+        14.5,
+        0.5
       ],
       "scale": [
-        0.8,
-        0.8,
-        0.8
+        3,
+        3,
+        3
       ]
     },
     "thirdperson_lefthand": {
       "rotation": [
+        0,
+        90,
+        -180
+      ],
+      "translation": [
+        0.25,
+        14.5,
+        0.5
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -10,
+        91,
+        -180
+      ],
+      "translation": [
+        0,
+        8.75,
+        1.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -10,
+        91,
+        -180
+      ],
+      "translation": [
+        0,
+        8.75,
+        1.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "ground": {
+      "rotation": [
         -180,
         0,
         0
       ],
       "translation": [
         0,
-        6.5,
-        1.5
+        15.75,
+        0
       ],
       "scale": [
-        0.8,
-        0.8,
-        0.8
-      ]
-    },
-    "firstperson_righthand": {
-      "rotation": [
-        143.30000000000018,
-        7.769999999999982,
-        3.099999999999909
-      ],
-      "translation": [
-        4,
-        7.5,
-        -5.25
-      ]
-    },
-    "firstperson_lefthand": {
-      "rotation": [
-        143.30000000000018,
-        7.769999999999982,
-        3.099999999999909
-      ],
-      "translation": [
-        4,
-        7.5,
-        -5.25
-      ]
-    },
-    "ground": {
-      "rotation": [
-        -0.4699999999997999,
-        -3.3600000000001273,
-        88.0300000000002
-      ],
-      "translation": [
-        13,
-        -0.25,
-        0.75
-      ],
-      "scale": [
-        0.8,
-        0.8,
-        0.8
+        3,
+        3,
+        3
       ]
     },
     "gui": {
       "rotation": [
-        90,
-        45,
-        90
+        -180,
+        0,
+        45
       ],
       "translation": [
-        6,
-        6.25,
+        8.5,
+        8.5,
         0
       ],
       "scale": [
-        0.5,
-        0.58789,
-        0.58789
+        1.5,
+        1.5,
+        1.5
       ]
     },
     "head": {
       "rotation": [
-        90,
-        53,
-        90
+        -180,
+        0,
+        45
       ],
       "translation": [
-        7.75,
-        -5.5,
-        4
+        21.75,
+        5,
+        4.75
+      ],
+      "scale": [
+        3.5,
+        3.5,
+        3.5
       ]
     },
     "fixed": {
       "rotation": [
-        90,
+        0,
         0,
         -90
       ],
       "translation": [
-        -28.25,
-        0,
-        -1
+        -27,
+        -3.75,
+        -0.5
       ],
       "scale": [
-        2,
-        2,
-        2
+        4,
+        4,
+        4
       ]
     }
   },
   "textures": {
-    "particle": "cosmosstuff:item/quasaris_tenuis"
+    "particle": "cosmosstuff:item/murasama_sheath"
   }
 }

@@ -2485,6 +2485,28 @@
           }
         },
         {
+          "id": "kaminoomamori.json",
+          "name": "kaminoomamori.json",
+          "type": "File",
+          "artifact": {
+            "size": 1975,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/kaminoomamori.json",
+            "MD5": "4f60871f2105b29bb5359cc2a31b9731",
+            "path": "kubejs/assets/cosmosstuff/models/item/kaminoomamori.json"
+          }
+        },
+        {
+          "id": "kaminoomamori_seal.json",
+          "name": "kaminoomamori_seal.json",
+          "type": "File",
+          "artifact": {
+            "size": 1964,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/kaminoomamori_seal.json",
+            "MD5": "84aa14b6792b23ea6e9d383fa1e26ce6",
+            "path": "kubejs/assets/cosmosstuff/models/item/kaminoomamori_seal.json"
+          }
+        },
+        {
           "id": "lamina_quasaris_tenuis.json",
           "name": "lamina_quasaris_tenuis.json",
           "type": "File",
@@ -2504,6 +2526,17 @@
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/laminae_fames.json",
             "MD5": "3a7867d994839187be7eff921d748b66",
             "path": "kubejs/assets/cosmosstuff/models/item/laminae_fames.json"
+          }
+        },
+        {
+          "id": "s_kaminoomamori.json",
+          "name": "s_kaminoomamori.json",
+          "type": "File",
+          "artifact": {
+            "size": 1964,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/s_kaminoomamori.json",
+            "MD5": "2598da360dd222b30479806ecf50ff6e",
+            "path": "kubejs/assets/cosmosstuff/models/item/s_kaminoomamori.json"
           }
         },
         {
@@ -2632,9 +2665,9 @@
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 2255,
+            "size": 2238,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "e095c44906dc4a8d8c59c3ca0b1d38e3",
+            "MD5": "7da3bade1976292a4a37291b8a833e38",
             "path": "kubejs/startup_scripts/os.js"
           }
         },

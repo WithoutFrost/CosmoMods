@@ -1,0 +1,145 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        90,
+        -180
+      ],
+      "translation": [
+        0.25,
+        14.5,
+        0.5
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -180
+      ],
+      "translation": [
+        0.25,
+        14.5,
+        0.5
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -10,
+        91,
+        -180
+      ],
+      "translation": [
+        0,
+        8.75,
+        1.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -10,
+        91,
+        -180
+      ],
+      "translation": [
+        0,
+        8.75,
+        1.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "ground": {
+      "rotation": [
+        -180,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        15.75,
+        0
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -180,
+        0,
+        45
+      ],
+      "translation": [
+        8.5,
+        8.5,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "head": {
+      "rotation": [
+        -180,
+        0,
+        45
+      ],
+      "translation": [
+        21.75,
+        5,
+        4.75
+      ],
+      "scale": [
+        3.5,
+        3.5,
+        3.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        -90
+      ],
+      "translation": [
+        -27,
+        -3.75,
+        -0.5
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cosmosstuff:item/quasaris_tenuis"
+  }
+}

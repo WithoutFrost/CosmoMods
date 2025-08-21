@@ -893,26 +893,6 @@
           }
         },
         {
-          "id": "com.nukateam:cgs:1.1.3@jar",
-          "name": "Create: Gunsmithing",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1096990,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-gunsmithing-1.20.1-1.1.3.jar",
-            "MD5": "b9ddad21c1ad0627434ee1eb5ac7283e"
-          }
-        },
-        {
-          "id": "dev.kvnmtz.createmobspawners:create_mob_spawners:3.0.0@jar",
-          "name": "Create: Mob Spawners",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 248658,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-mob-spawners-1.20.1-3.0.0.jar",
-            "MD5": "c37d83380b46027aa332f9d7bdf25f42"
-          }
-        },
-        {
           "id": "com.mrh0:createaddition:1.20.1-1.3.1@jar",
           "name": "Create Crafts & Additions",
           "type": "ForgeMod",
@@ -1000,16 +980,6 @@
             "size": 8855491,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/doomsday_decoration-1.1.2-forge-1.20.1.jar",
             "MD5": "e8c01d251e4f5395993d89d29a22a119"
-          }
-        },
-        {
-          "id": "com.dragn0007:dragnvehicles:1.20.1-1.3@jar",
-          "name": "DragN's Valiant Vehicles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1301860,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/DragN_Vehicles-1.20.1-1.3.1.jar",
-            "MD5": "5e5a18436fbe0f044e76dd1f43a6cd4b"
           }
         },
         {
@@ -1223,16 +1193,6 @@
           }
         },
         {
-          "id": "dev.ftb.mods:ftbquests:2001.4.13@jar",
-          "name": "FTB Quests",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1215007,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ftb-quests-forge-2001.4.13.jar",
-            "MD5": "182d3bc7450d50ba9b71e5a08e903d9e"
-          }
-        },
-        {
           "id": "dev.ftb.mods:ftbteams:2001.3.1@jar",
           "name": "FTB Teams",
           "type": "ForgeMod",
@@ -1250,16 +1210,6 @@
             "size": 542652,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fusion-1.2.10-forge-mc1.20.1.jar",
             "MD5": "7eb95405bda76fb35c0e7eb533c9555a"
-          }
-        },
-        {
-          "id": "dev.shadowsoffire:gateways:4.2.6@jar",
-          "name": "Gateways To Eternity",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 632950,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/GatewaysToEternity-1.20.1-4.2.6.jar",
-            "MD5": "73194b88f68995ab0ab203f879b8e645"
           }
         },
         {
@@ -1293,13 +1243,13 @@
           }
         },
         {
-          "id": "en.predator.horrorelementmod:horror_element_mod:1.6.1@jar",
+          "id": "en.predator.horrorelementmod:horror_element_mod:1.6.2@jar",
           "name": "Horror Element Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 20939786,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/horror_element_mod-1.6.1-forge-1.20.1.jar",
-            "MD5": "0e8e6c5a3aba88aa7722106aeed5983a"
+            "size": 21158234,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/horror_element_mod-1.6.2-forge-1.20.1.jar",
+            "MD5": "cf274a6cf5735639241360ef87cac7ca"
           }
         },
         {
@@ -1403,13 +1353,13 @@
           }
         },
         {
-          "id": "ttv.migami:jeg:0.12.0@jar",
+          "id": "ttv.migami:jeg:0.13.2@jar",
           "name": "Just Enough Guns",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9430814,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/JustEnoughGuns-0.12.0-1.20.1.jar",
-            "MD5": "62411e30b0d072c33827b4c246268061"
+            "size": 9877729,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/JustEnoughGuns-0.13.2-1.20.1.jar",
+            "MD5": "41346e02ee9162cc0ec7df69fa575fa1"
           }
         },
         {
@@ -1573,13 +1523,13 @@
           }
         },
         {
-          "id": "net.satisfy:vinery:1.4.39@jar",
+          "id": "net.satisfy:vinery:1.4.40@jar",
           "name": "[Let's Do] Vinery",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3174482,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.39.jar",
-            "MD5": "271056de18c5f5efb5580075b4679341"
+            "size": 2035083,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.40.jar",
+            "MD5": "b260fc4ea29e6092d973b202c591f0d1"
           }
         },
         {
@@ -1623,13 +1573,13 @@
           }
         },
         {
-          "id": "ttv.migami:mteg:1.1.1@jar",
+          "id": "ttv.migami:mteg:1.1.2@jar",
           "name": "Mo' Than Enough Guns",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2015093,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/M'TEG-1.1.1-1.20.1.jar",
-            "MD5": "f10460472a245b8c800a355623d2e05d"
+            "size": 2010086,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/M'TEG-1.1.2-1.20.1.jar",
+            "MD5": "1da49885316d16805ec9eb3e5c8881c4"
           }
         },
         {
@@ -1703,6 +1653,16 @@
           }
         },
         {
+          "id": "se.mickelus:mutil:6.2.0@jar",
+          "name": "Mutil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100060,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/mutil-1.20.1-6.2.0.jar",
+            "MD5": "7fe61d6a7730b1b3afa4cd2d5060c237"
+          }
+        },
+        {
           "id": "com.sargerasarm:noseenotick:2.0.0-build.9999@jar",
           "name": "No See, No tick",
           "type": "ForgeMod",
@@ -1720,16 +1680,6 @@
             "size": 21667,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Not%20Enough%20Recipe%20Book-FORGE-0.4.1+1.20.1.jar",
             "MD5": "fa8240906f36683f66de537b34587643"
-          }
-        },
-        {
-          "id": "com.nukateam:ntgl:1.20.1-1.10.1@jar",
-          "name": "NukaTeam's Gun Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3444506,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ntgl-1.20.1-1.10.1.jar",
-            "MD5": "697ac0eb537b04b06a5ccfecfb934b98"
           }
         },
         {
@@ -1983,16 +1933,6 @@
           }
         },
         {
-          "id": "com.dairymoose.sd:serializer_debug:1.0.1@jar",
-          "name": "Serializer Debug",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 400461,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/serializer_debug-1.0.1.jar",
-            "MD5": "19de481a1d63cce26fec3e147b093821"
-          }
-        },
-        {
           "id": "top.seraphjack:simplelogin:1.0.1@jar",
           "name": "Simple Login",
           "type": "ForgeMod",
@@ -2053,13 +1993,13 @@
           }
         },
         {
-          "id": "net.mcreator.sonsofsins:sons_of_sins:2.1.8@jar",
+          "id": "net.mcreator.sonsofsins:sons_of_sins:2.1.9@jar",
           "name": "Sons of Sins",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9742326,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sons-of-sins-1.20.1-2.1.8.jar",
-            "MD5": "4c02ed31bb4cccdc8e358dfe8f41b62b"
+            "size": 10100488,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sons-of-sins-1.20.1-2.1.9.jar",
+            "MD5": "8bf7c3b2ad910fe0ffb89422f9d4ac14"
           }
         },
         {
@@ -2173,6 +2113,36 @@
             "size": 107532,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
             "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+          }
+        },
+        {
+          "id": "se.mickelus:tetra:6.10.1@jar",
+          "name": "Tetra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3979520,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tetra-1.20.1-6.10.1.jar",
+            "MD5": "870490745fd5c52d68f1d83e4b1fce77"
+          }
+        },
+        {
+          "id": "com.syric:tetranomicon:1.6.1-1.20.1@jar",
+          "name": "Tetranomicon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737563,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tetranomicon-1.6.1-1.20.1.jar",
+            "MD5": "6ddc97ad6464d2a149db4446d4cc357d"
+          }
+        },
+        {
+          "id": "smartin.tetraticcombat:tetratic_combat_expanded:2.8.2@jar",
+          "name": "Tetratic Combat Expanded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27264,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tetratic-combat-expanded-1.20-2.8.2.jar",
+            "MD5": "d52d77095594702ffeb5123628a38fbe"
           }
         },
         {
@@ -2296,13 +2266,13 @@
           }
         },
         {
-          "id": "net.blay09.mods:waystones:14.1.13@jar",
+          "id": "net.blay09.mods:waystones:14.1.17@jar",
           "name": "Waystones",
           "type": "ForgeMod",
           "artifact": {
-            "size": 487241,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.13.jar",
-            "MD5": "85a878879039056bd88d88d9d5ab967c"
+            "size": 518286,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.17.jar",
+            "MD5": "c0991381d238b6e1ba9526132b8a9a7c"
           }
         },
         {
@@ -2376,13 +2346,13 @@
           }
         },
         {
-          "id": "net.vami:zoe:2.0.8@jar",
+          "id": "net.vami:zoe:2.1.0@jar",
           "name": "Zoe Isn't Cyberpunk",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2316623,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zoe-2.0.8-forge-1.20.1.jar",
-            "MD5": "0e9983c7484c6efb8bd7872c1856a6e3"
+            "size": 3251156,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zoe-2.1.0-forge-1.20.1.jar",
+            "MD5": "cab3283a62026776f6fdd2a9ea2625b8"
           }
         },
         {

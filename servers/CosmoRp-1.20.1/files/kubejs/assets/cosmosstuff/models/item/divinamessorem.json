@@ -1,0 +1,140 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        -0.25,
+        -23.25,
+        1.25
+      ],
+      "scale": [
+        3.65,
+        3.65,
+        2.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        -0.25,
+        -23.25,
+        1.25
+      ],
+      "scale": [
+        3.65,
+        3.65,
+        2.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -4,
+        -90,
+        -8
+      ],
+      "translation": [
+        2.5,
+        -10.5,
+        -0.25
+      ],
+      "scale": [
+        2.25,
+        2.25,
+        2.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        9,
+        90,
+        -8
+      ],
+      "translation": [
+        2.5,
+        -10,
+        -0.25
+      ],
+      "scale": [
+        2.25,
+        2.25,
+        2.25
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -11.75,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -46
+      ],
+      "translation": [
+        -9.75,
+        -10.25,
+        0
+      ],
+      "scale": [
+        1.75,
+        1.75,
+        1.75
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        0,
+        -132
+      ],
+      "translation": [
+        -23.75,
+        4.25,
+        3.5
+      ],
+      "scale": [
+        4,
+        4,
+        2.68
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -180,
+        0,
+        138
+      ],
+      "translation": [
+        19.25,
+        -22,
+        -0.25
+      ],
+      "scale": [
+        4,
+        4,
+        3
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cosmosstuff:item/divine_reaper"
+  }
+}

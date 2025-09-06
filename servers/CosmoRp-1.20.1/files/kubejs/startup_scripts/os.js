@@ -9,6 +9,7 @@ StartupEvents.registry('item', event => {
         .unstackable()
         .tier('diamond')
         .attackDamageBaseline(10.0)
+        .speedBaseline(0.5)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/laminae_fames.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/laminae_fames.png')
@@ -25,8 +26,9 @@ StartupEvents.registry('item', event => {
     event.create('cosmosstuff:kaminoomamori', 'anim_sword')
         .displayName("kami no Omamori - Seal awakened -")
         .unstackable()
-        .tier('diamond')
-        .attackDamageBaseline(0.0)
+        .tier('iron')
+        .attackDamageBaseline(14.0)
+        .speedBaseline(-0.25)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/lamina_quasaris_tenuis.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/lamina_quasaris_tenuis.png')
@@ -47,4 +49,13 @@ StartupEvents.registry('item', event => {
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/quasaris_tenuis.png')
         })
 })
+    event.create('cosmosstuff:divinamessorem', 'anim_sword')
+        .displayName("Divina Messorem")
+        .unstackable()
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/weapons/divinamessorem.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/weapons/divinamessorem.png')
+        })
+})
+
 

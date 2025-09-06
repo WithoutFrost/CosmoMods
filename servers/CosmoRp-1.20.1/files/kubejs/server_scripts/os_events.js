@@ -6,23 +6,23 @@ ItemEvents.rightClicked(event => {
     const offHandItem = player.offHandItem
 
     // Lógica para DESEMBAINHAR a katana
-    if (isCrouching && offHandItem.id === 'cosmosstuff:sigillata_quasaris_tenuis') {
-        const sanityCost = 5
+    if (isCrouching && offHandItem.id === 'cosmosstuff:kaminoomamori_seal') {
+        const sanityCost = 15
         const currentSanity = player.getSanity()
 
         if (currentSanity >= sanityCost) {
             // Consome sanidade
-            player.addSanity(-5)
+            player.addSanity(-25)
             // --- SISTEMA DE NBT ---
             // Copia o NBT da katana selada para a katana desembainhada
             let nbt = offHandItem.nbt ? offHandItem.nbt.copy() : {}
-            player.setHeldItem('main_hand', Item.of('cosmosstuff:lamina_quasaris_tenuis', nbt))
+            player.setHeldItem('main_hand', Item.of('cosmosstuff:kaminoomamori', nbt))
 
             // A guarda normalmente não precisa de NBT, mas é importante
             // preservar o item, então o código a seguir garante que o NBT
             // da guarda, se houver, seja mantido.
             let guardNbt = mainHandItem.nbt ? mainHandItem.nbt.copy() : {}
-            player.setHeldItem('off_hand', Item.of('cosmosstuff:custodialis_quasaris_tenuis', guardNbt))
+            player.setHeldItem('off_hand', Item.of('cosmosstuff:s_kaminoomamori', guardNbt))
             // --- FIM DO SISTEMA DE NBT ---
 
             event.cancel()
@@ -33,14 +33,14 @@ ItemEvents.rightClicked(event => {
     }
 
     // Lógica para EMBAINHAR a katana
-    if (isCrouching && mainHandItem.id === 'cosmosstuff:lamina_quasaris_tenuis' && offHandItem.id === 'cosmosstuff:custodialis_quasaris_tenuis') {
+    if (isCrouching && mainHandItem.id === 'cosmosstuff:kaminoomamori' && offHandItem.id === 'cosmosstuff:s_kaminoomamori') {
         // --- SISTEMA DE NBT ---
         // Copia o NBT da katana desembainhada para a nova katana selada
         let nbt = mainHandItem.nbt ? mainHandItem.nbt.copy() : {}
         player.setHeldItem('off_hand', Item.of('minecraft:air'))
 
         // Limpa a mão principal (remove a lâmina)
-        player.setHeldItem('main_hand', Item.of('cosmosstuff:sigillata_quasaris_tenuis', nbt))
+        player.setHeldItem('main_hand', Item.of('cosmosstuff:kaminoomamori_seal', nbt))
         // --- FIM DO SISTEMA DE NBT ---
 
         event.cancel()
@@ -52,8 +52,8 @@ EntityEvents.hurt(event => {
     const { entity, source } = event
     let attackingEntity = source.actual
     if (!attackingEntity) return
-    if (attackingEntity.mainHandItem.id != 'cosmosstuff:lamina_quasaris_tenuis') return
-    entity.potionEffects.add("minecraft:weakness", 1000, 2, false, true)
+    if (attackingEntity.mainHandItem.id != 'cosmosstuff:kaminoomamori') return
+    entity.potionEffects.add("minecraft:weakness", 1000, 0, false, true)
 })
 
 //------------------------------------------//

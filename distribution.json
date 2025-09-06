@@ -2116,13 +2116,13 @@
           }
         },
         {
-          "id": "se.mickelus:tetra:6.10.1@jar",
+          "id": "se.mickelus:tetra:6.11.0@jar",
           "name": "Tetra",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3979520,
-            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tetra-1.20.1-6.10.1.jar",
-            "MD5": "870490745fd5c52d68f1d83e4b1fce77"
+            "size": 3909849,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tetra-1.20.1-6.11.0.jar",
+            "MD5": "5eb25fe6996c8cf960c6ca65f110b351"
           }
         },
         {
@@ -2378,6 +2378,17 @@
           }
         },
         {
+          "id": "divinamessorem.geo.json",
+          "name": "divinamessorem.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 117350,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/divinamessorem.geo.json",
+            "MD5": "d5c18131148d6c4654987262d8a7e3c9",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/divinamessorem.geo.json"
+          }
+        },
+        {
           "id": "fames.geo.json",
           "name": "fames.geo.json",
           "type": "File",
@@ -2441,6 +2452,17 @@
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json",
             "MD5": "2598da360dd222b30479806ecf50ff6e",
             "path": "kubejs/assets/cosmosstuff/models/item/custodialis_quasaris_tenuis.json"
+          }
+        },
+        {
+          "id": "divinamessorem.json",
+          "name": "divinamessorem.json",
+          "type": "File",
+          "artifact": {
+            "size": 1929,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/divinamessorem.json",
+            "MD5": "e41cf574d6505db0dc596958cd4124a6",
+            "path": "kubejs/assets/cosmosstuff/models/item/divinamessorem.json"
           }
         },
         {
@@ -2521,6 +2543,17 @@
           }
         },
         {
+          "id": "divinamessorem.png",
+          "name": "divinamessorem.png",
+          "type": "File",
+          "artifact": {
+            "size": 2274,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/divinamessorem.png",
+            "MD5": "a0d34a278e65c89c343d4a1781433df6",
+            "path": "kubejs/assets/cosmosstuff/textures/os/item/divinamessorem.png"
+          }
+        },
+        {
           "id": "lamina_quasaris_tenuis.png",
           "name": "lamina_quasaris_tenuis.png",
           "type": "File",
@@ -2540,6 +2573,17 @@
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png",
             "MD5": "e3d47da20195b8dc2aa7fd111cef27eb",
             "path": "kubejs/assets/cosmosstuff/textures/os/item/quasaris_tenuis.png"
+          }
+        },
+        {
+          "id": "divinamessorem.png",
+          "name": "divinamessorem.png",
+          "type": "File",
+          "artifact": {
+            "size": 2274,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/divinamessorem.png",
+            "MD5": "a0d34a278e65c89c343d4a1781433df6",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/divinamessorem.png"
           }
         },
         {
@@ -2576,6 +2620,17 @@
           }
         },
         {
+          "id": "divine_event.js",
+          "name": "divine_event.js",
+          "type": "File",
+          "artifact": {
+            "size": 1718,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/client_scripts/divine_event.js",
+            "MD5": "6082cbc1015f099ed3ef4456f590060d",
+            "path": "kubejs/client_scripts/divine_event.js"
+          }
+        },
+        {
           "id": "example.js",
           "name": "example.js",
           "type": "File",
@@ -2609,6 +2664,28 @@
           }
         },
         {
+          "id": "kaminoomamori.json",
+          "name": "kaminoomamori.json",
+          "type": "File",
+          "artifact": {
+            "size": 39,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/weapon_attributes/kaminoomamori.json",
+            "MD5": "245a1ed36a8fe7559c7f31f5e1b9e9dd",
+            "path": "kubejs/data/cosmosstuff/weapon_attributes/kaminoomamori.json"
+          }
+        },
+        {
+          "id": "laminae_fames.json",
+          "name": "laminae_fames.json",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/weapon_attributes/laminae_fames.json",
+            "MD5": "e38136d8f722430f218cdeff7ee011af",
+            "path": "kubejs/data/cosmosstuff/weapon_attributes/laminae_fames.json"
+          }
+        },
+        {
           "id": "index.html",
           "name": "index.html",
           "type": "File",
@@ -2620,14 +2697,58 @@
           }
         },
         {
+          "id": "divine_event.js",
+          "name": "divine_event.js",
+          "type": "File",
+          "artifact": {
+            "size": 1718,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/divine_event.js",
+            "MD5": "6082cbc1015f099ed3ef4456f590060d",
+            "path": "kubejs/server_scripts/divine_event.js"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/example.js",
+            "MD5": "96f1e20e0fe5dc7f2aed643bfa3f9a3f",
+            "path": "kubejs/server_scripts/example.js"
+          }
+        },
+        {
+          "id": "macabre.js",
+          "name": "macabre.js",
+          "type": "File",
+          "artifact": {
+            "size": 628,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/macabre.js",
+            "MD5": "f8c64af64c808ec5efc571a85363ac91",
+            "path": "kubejs/server_scripts/macabre.js"
+          }
+        },
+        {
           "id": "os_events.js",
           "name": "os_events.js",
           "type": "File",
           "artifact": {
-            "size": 5081,
+            "size": 5018,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/os_events.js",
-            "MD5": "87807d56c167501ae534bcdafdee2a0c",
+            "MD5": "1e1b70ffbe46e19118705e5efc08d12d",
             "path": "kubejs/server_scripts/os_events.js"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/example.js",
+            "MD5": "ac40b56827e466149303bb91778b90e4",
+            "path": "kubejs/startup_scripts/example.js"
           }
         },
         {
@@ -2635,9 +2756,9 @@
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 2238,
+            "size": 2632,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "7da3bade1976292a4a37291b8a833e38",
+            "MD5": "411cd02b29f1438736040e0a3e79c699",
             "path": "kubejs/startup_scripts/os.js"
           }
         },

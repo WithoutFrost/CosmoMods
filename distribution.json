@@ -2756,9 +2756,9 @@
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 2632,
+            "size": 2627,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "411cd02b29f1438736040e0a3e79c699",
+            "MD5": "b3397b9bd9dd90f1218716b17e1630d2",
             "path": "kubejs/startup_scripts/os.js"
           }
         },

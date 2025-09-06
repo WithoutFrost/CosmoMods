@@ -48,7 +48,6 @@ StartupEvents.registry('item', event => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/sigillata_quasaris_tenuis.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/quasaris_tenuis.png')
         })
-})
     event.create('cosmosstuff:divinamessorem', 'anim_sword')
         .displayName("Divina Messorem")
         .unstackable()
@@ -57,5 +56,3 @@ StartupEvents.registry('item', event => {
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/divinamessorem.png')
         })
 })
-
-

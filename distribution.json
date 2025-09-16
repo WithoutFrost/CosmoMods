@@ -2746,9 +2746,9 @@
           "name": "armor.js",
           "type": "File",
           "artifact": {
-            "size": 1522,
+            "size": 2255,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/armor.js",
-            "MD5": "3d735deab4e95e9b7584a16880b71336",
+            "MD5": "94cea595dd8005eeafcfc16a0f7826ec",
             "path": "kubejs/startup_scripts/armor.js"
           }
         },

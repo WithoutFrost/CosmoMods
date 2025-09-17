@@ -51,8 +51,13 @@ StartupEvents.registry('item', event => {
     event.create('cosmosstuff:divinamessorem', 'anim_sword')
         .displayName("Divina Messorem")
         .unstackable()
+        .tier('iron')
+        .attackDamageBaseline(16.0)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/divinamessorem.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/divinamessorem.png')
         })
 })
+
+
+

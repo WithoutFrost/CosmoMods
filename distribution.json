@@ -2357,6 +2357,105 @@
           }
         },
         {
+          "id": "biluwithered.geo.json",
+          "name": "biluwithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 102902,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/biluwithered.geo.json",
+            "MD5": "ef457b4d397e7ac60cfd6bf617bed049",
+            "path": "kubejs/assets/cosmosstuff/geo/block/biluwithered.geo.json"
+          }
+        },
+        {
+          "id": "gochiwithered.geo.json",
+          "name": "gochiwithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 89428,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/gochiwithered.geo.json",
+            "MD5": "e00a1d6576b07dcf990e7f8cdbe85e7e",
+            "path": "kubejs/assets/cosmosstuff/geo/block/gochiwithered.geo.json"
+          }
+        },
+        {
+          "id": "lumenlegs.geo.json",
+          "name": "lumenlegs.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 9706,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/lumenlegs.geo.json",
+            "MD5": "cd30c49f9163a35e5797ac0f69c959ca",
+            "path": "kubejs/assets/cosmosstuff/geo/block/lumenlegs.geo.json"
+          }
+        },
+        {
+          "id": "lumenwithered.geo.json",
+          "name": "lumenwithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 56023,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/lumenwithered.geo.json",
+            "MD5": "7e41d4cec0607a1e812db865def3c548",
+            "path": "kubejs/assets/cosmosstuff/geo/block/lumenwithered.geo.json"
+          }
+        },
+        {
+          "id": "melissa2withered.geo.json",
+          "name": "melissa2withered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 30052,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/melissa2withered.geo.json",
+            "MD5": "021367412595255a29d43726a3c24058",
+            "path": "kubejs/assets/cosmosstuff/geo/block/melissa2withered.geo.json"
+          }
+        },
+        {
+          "id": "melissawithered.geo.json",
+          "name": "melissawithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 29791,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/melissawithered.geo.json",
+            "MD5": "9f8feb5c1ff49c67a9590fcb44185873",
+            "path": "kubejs/assets/cosmosstuff/geo/block/melissawithered.geo.json"
+          }
+        },
+        {
+          "id": "sayruswithered.geo.json",
+          "name": "sayruswithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 66725,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/sayruswithered.geo.json",
+            "MD5": "e438404ee8be7d3ca78eb102e32ecba1",
+            "path": "kubejs/assets/cosmosstuff/geo/block/sayruswithered.geo.json"
+          }
+        },
+        {
+          "id": "stellarwithered.geo.json",
+          "name": "stellarwithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 60825,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/stellarwithered.geo.json",
+            "MD5": "d19485eb6c310f6865a2138712d2bab6",
+            "path": "kubejs/assets/cosmosstuff/geo/block/stellarwithered.geo.json"
+          }
+        },
+        {
+          "id": "sunnywithered.geo.json",
+          "name": "sunnywithered.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 59709,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/block/sunnywithered.geo.json",
+            "MD5": "baf622577482ac2705e389cf9482a405",
+            "path": "kubejs/assets/cosmosstuff/geo/block/sunnywithered.geo.json"
+          }
+        },
+        {
           "id": "custodialis_quasaris_tenuis.geo.json",
           "name": "custodialis_quasaris_tenuis.geo.json",
           "type": "File",
@@ -2533,6 +2632,116 @@
           }
         },
         {
+          "id": "biluwithered.png",
+          "name": "biluwithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 21453,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/biluwithered.png",
+            "MD5": "a43bd4e999598302cb936ac87e8b88dc",
+            "path": "kubejs/assets/cosmosstuff/textures/block/biluwithered.png"
+          }
+        },
+        {
+          "id": "gochiwithered.png",
+          "name": "gochiwithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 26968,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/gochiwithered.png",
+            "MD5": "d5414b3d56a5f4bf613583a9d613d702",
+            "path": "kubejs/assets/cosmosstuff/textures/block/gochiwithered.png"
+          }
+        },
+        {
+          "id": "lumenlegs.png",
+          "name": "lumenlegs.png",
+          "type": "File",
+          "artifact": {
+            "size": 19117,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/lumenlegs.png",
+            "MD5": "5f1c0488c6f2f4aea0365c6b4aa2f9d4",
+            "path": "kubejs/assets/cosmosstuff/textures/block/lumenlegs.png"
+          }
+        },
+        {
+          "id": "lumenwithered.png",
+          "name": "lumenwithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 19228,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/lumenwithered.png",
+            "MD5": "5912b890c917c18e2c4d7a951b12c905",
+            "path": "kubejs/assets/cosmosstuff/textures/block/lumenwithered.png"
+          }
+        },
+        {
+          "id": "melissa2withered.png",
+          "name": "melissa2withered.png",
+          "type": "File",
+          "artifact": {
+            "size": 23728,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/melissa2withered.png",
+            "MD5": "64e7079fa60d76711d0b2a2a4f822f93",
+            "path": "kubejs/assets/cosmosstuff/textures/block/melissa2withered.png"
+          }
+        },
+        {
+          "id": "melissawithered.png",
+          "name": "melissawithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 23425,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/melissawithered.png",
+            "MD5": "36e1f7837c032a1140324053cfeaffbc",
+            "path": "kubejs/assets/cosmosstuff/textures/block/melissawithered.png"
+          }
+        },
+        {
+          "id": "sayruswithered.png",
+          "name": "sayruswithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 21204,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/sayruswithered.png",
+            "MD5": "3780c41246ad1aec4d35083696de76d3",
+            "path": "kubejs/assets/cosmosstuff/textures/block/sayruswithered.png"
+          }
+        },
+        {
+          "id": "skin.png",
+          "name": "skin.png",
+          "type": "File",
+          "artifact": {
+            "size": 26968,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/skin.png",
+            "MD5": "d5414b3d56a5f4bf613583a9d613d702",
+            "path": "kubejs/assets/cosmosstuff/textures/block/skin.png"
+          }
+        },
+        {
+          "id": "stellarwithered.png",
+          "name": "stellarwithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 22769,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/stellarwithered.png",
+            "MD5": "539851fdb38aa416ea9d7bf307aae7ab",
+            "path": "kubejs/assets/cosmosstuff/textures/block/stellarwithered.png"
+          }
+        },
+        {
+          "id": "sunnywithered.png",
+          "name": "sunnywithered.png",
+          "type": "File",
+          "artifact": {
+            "size": 20109,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/block/sunnywithered.png",
+            "MD5": "f603c9a90752b9b083cbab13fd7515de",
+            "path": "kubejs/assets/cosmosstuff/textures/block/sunnywithered.png"
+          }
+        },
+        {
           "id": "divinamessorem.png",
           "name": "divinamessorem.png",
           "type": "File",
@@ -2654,6 +2863,17 @@
           }
         },
         {
+          "id": "divinamessorem.json",
+          "name": "divinamessorem.json",
+          "type": "File",
+          "artifact": {
+            "size": 40,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/weapon_attributes/divinamessorem.json",
+            "MD5": "3cfc7f1de8aea833d4600809d3557308",
+            "path": "kubejs/data/cosmosstuff/weapon_attributes/divinamessorem.json"
+          }
+        },
+        {
           "id": "kaminoomamori.json",
           "name": "kaminoomamori.json",
           "type": "File",
@@ -2669,9 +2889,9 @@
           "name": "laminae_fames.json",
           "type": "File",
           "artifact": {
-            "size": 44,
+            "size": 41,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/weapon_attributes/laminae_fames.json",
-            "MD5": "e38136d8f722430f218cdeff7ee011af",
+            "MD5": "5cf4af1247dfdc01d43b5491fe25cbd6",
             "path": "kubejs/data/cosmosstuff/weapon_attributes/laminae_fames.json"
           }
         },
@@ -2746,9 +2966,9 @@
           "name": "armor.js",
           "type": "File",
           "artifact": {
-            "size": 2255,
+            "size": 2273,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/armor.js",
-            "MD5": "94cea595dd8005eeafcfc16a0f7826ec",
+            "MD5": "2f5e86a0b4ec0df6033484e6faeef765",
             "path": "kubejs/startup_scripts/armor.js"
           }
         },
@@ -2764,13 +2984,24 @@
           }
         },
         {
+          "id": "fnat.js",
+          "name": "fnat.js",
+          "type": "File",
+          "artifact": {
+            "size": 1522,
+            "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/fnat.js",
+            "MD5": "29f6edcf691bcb00c20f9cec488420e2",
+            "path": "kubejs/startup_scripts/fnat.js"
+          }
+        },
+        {
           "id": "os.js",
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 2627,
+            "size": 2688,
             "url": "https://frostisnotsafe.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "b3397b9bd9dd90f1218716b17e1630d2",
+            "MD5": "747498450aca428b23f5583c5490e867",
             "path": "kubejs/startup_scripts/os.js"
           }
         }

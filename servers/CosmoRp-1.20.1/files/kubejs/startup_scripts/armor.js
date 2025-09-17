@@ -1,4 +1,4 @@
-// kubejs/server_scripts/macabre_armor.js
+// kubejs/startup_scripts/macabre_armor.js
 
 ItemEvents.modification(event => {
   // ------------------------
@@ -7,25 +7,25 @@ ItemEvents.modification(event => {
   event.modify('macabre:plasma_armor_helmet', item => {
     item.armorProtection = 3
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:plasma_armor_chestplate', item => {
     item.armorProtection = 8
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:plasma_armor_leggings', item => {
     item.armorProtection = 6
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:plasma_armor_boots', item => {
     item.armorProtection = 3
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   // ------------------------
@@ -34,25 +34,25 @@ ItemEvents.modification(event => {
   event.modify('macabre:blood_clot_armor_helmet', item => {
     item.armorProtection = 3
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:blood_clot_armor_chestplate', item => {
     item.armorProtection = 8
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:blood_clot_armor_leggings', item => {
     item.armorProtection = 6
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   event.modify('macabre:blood_clot_armor_boots', item => {
     item.armorProtection = 3
     item.armorToughness = 3
-    item.armorKnockbackResistance = 1
+    item.armorKnockbackResistance = 1.0
   })
 
   // ------------------------

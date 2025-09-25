@@ -13,7 +13,7 @@
       "description": "CosmoRp Running Minecraft 1.20.1 (Forge v47.4.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "151.243.24.168:35565",
+      "address": "151.243.24.182:35565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -438,8 +438,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4648724,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
             "MD5": "9ef0bc4940bf472feff9592f528782ea"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -448,8 +451,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26350793,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/alexsmobs-1.22.9.jar",
             "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -458,8 +464,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15906,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/almanac-1.20.x-forge-1.0.2.jar",
             "MD5": "20f9b054f4caceebda02847c149901af"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -468,8 +477,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 216941,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.10.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/almostunified-forge-1.20.1-0.10.0.jar",
             "MD5": "b3d17c8ba378ae60bcb95e2eb9265304"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -478,8 +490,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15070673,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/annihilation-recreated-r1.1.1_mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/annihilation-recreated-r1.1.1_mc1.20.1.jar",
             "MD5": "fe3dead6670f7d4532070f69fcaf0e57"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -488,8 +503,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227511,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ApothicAttributes-1.20.1-1.3.7.jar",
             "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -498,8 +516,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -508,8 +529,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -518,8 +542,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3565266,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-2.1.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/armourersworkshop-forge-1.20.1-2.1.4.jar",
             "MD5": "3d720853815f7ed3c77e6bdab1e9e250"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -528,8 +555,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91808,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/athena-forge-1.20.1-3.1.2.jar",
             "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -538,8 +568,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19471,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -548,8 +581,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1585834,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Aurora's-Arsenal-1.0.0-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Aurora's-Arsenal-1.0.0-1.20.1.jar",
             "MD5": "a3b29fc86bbb9257ff19028563d7308e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -558,8 +594,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 73258,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/AutoLeveling-1.20-1.19b.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/AutoLeveling-1.20-1.19b.jar",
             "MD5": "111b26c9b9bf8142d1347cd881626647"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -568,8 +607,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1252958,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/azurelib-neo-1.20.1-3.0.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/azurelib-neo-1.20.1-3.0.9.jar",
             "MD5": "d6c21b91c1f45326ab6af16d02384144"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -578,8 +620,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27919,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/badpackets-forge-0.4.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/badpackets-forge-0.4.3.jar",
             "MD5": "4ac6c52d62eadf03c64df02ee74f42b5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -588,8 +633,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 594928,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.31-all.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/balm-forge-1.20.1-7.3.31-all.jar",
             "MD5": "07fcc1940d31dd3e83d475118ff41a1e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -598,8 +646,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 122787,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/berezka_api-1.0.14-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/berezka_api-1.0.14-forge-1.20.1.jar",
             "MD5": "a5ff15e376e872d1681bee1c9687ab05"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -608,8 +659,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1050118,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/bettercombat-forge-1.8.6+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/bettercombat-forge-1.8.6+1.20.1.jar",
             "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -618,8 +672,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4845391,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/biomancy-forge-1.20.1-2.8.19.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/biomancy-forge-1.20.1-2.8.19.0.jar",
             "MD5": "8a58ce83a6a4e04148e8727682a52d55"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -628,8 +685,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21800460,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/BiomesOPlenty-1.20.1-18.0.0.592.jar",
             "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.dannbrown.braziliandelight.platform:braziliandelight:2.0.3@jar",
+          "name": "Brazilian Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2813612,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/braziliandelight-forge-2.0.3+1.20.1.jar",
+            "MD5": "32784010d8a9fef98e1d20b76b498172"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -638,8 +711,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299726,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/camera-forge-1.20.1-1.0.20.jar",
             "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -648,8 +724,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 439457,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -658,8 +737,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3073160,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.116.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/cc-tweaked-1.20.1-forge-1.116.0.jar",
             "MD5": "9abec62291ebf698bd4ef50b8e4a2746"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -668,8 +750,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15060263,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/chipped-forge-1.20.1-3.0.7.jar",
             "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -678,8 +763,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 944500,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/chloride-FORGE-mc1.20.1-v1.7.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/chloride-FORGE-mc1.20.1-v1.7.2.jar",
             "MD5": "a50f626acc0ade9c250df4cd16ec960d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -688,8 +776,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 706357,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/chovys_apocalypse_mod-1.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/chovys_apocalypse_mod-1.9.jar",
             "MD5": "c0d98fd6c1d780d353b3856fbef5f793"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -698,8 +789,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3173637,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/citadel-2.6.1-1.20.1.jar",
             "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -708,8 +802,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 352900,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/clockworklib-1.20.1-1.0.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/clockworklib-1.20.1-1.0.0.jar",
             "MD5": "f95e0be72163dfc4bbe28581cf18aa74"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -718,8 +815,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -728,8 +828,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20299,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -738,8 +841,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 873714,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/connectedglass-1.1.14-forge-mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/connectedglass-1.1.14-forge-mc1.20.1.jar",
             "MD5": "7b7a482c48dc0e76120f0bd91af1e01a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -748,8 +854,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 112550,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/connectivity-1.20.1-7.1.jar",
             "MD5": "a4e4e9823e1df967bee1d62e6a505e8f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -758,8 +867,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 210312,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/constructionwand-1.20.1-2.11.jar",
             "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -768,8 +880,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1988341,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/copycats-3.0.2+mc.1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/copycats-3.0.2+mc.1.20.1-forge.jar",
             "MD5": "b0cf6993f60b27183e72800454e26218"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -778,8 +893,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360700,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Corgilib-Forge-1.20.1-4.0.3.4.jar",
             "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -788,8 +906,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 245618,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.21.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/corpse-forge-1.20.1-1.0.21.jar",
             "MD5": "346a9e592558c1fde772b39c10be4cdf"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -798,8 +919,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 149934,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/cosmosshop-1.0.2-client.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/cosmosshop-1.0.2-client.jar",
             "MD5": "65f2a5c6a1feb6a4003292c8a12a2c82"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -808,8 +932,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 159585,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/cosmosshop-1.0.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/cosmosshop-1.0.2.jar",
             "MD5": "8961a774a47b5f47251632e6816b923e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -818,8 +945,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3267904,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/CraftTweaker-forge-1.20.1-14.0.57.jar",
             "MD5": "dd01e03d08b681dff3f7c1991cbc82a6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -828,8 +958,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17443,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/crawlondemand-1.20.x-1.0.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/crawlondemand-1.20.x-1.0.0.jar",
             "MD5": "a87fad12265b734155e92ab1259a6a34"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -838,8 +971,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6564769,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create_connected-1.1.7-mc1.20.1-all.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create_connected-1.1.7-mc1.20.1-all.jar",
             "MD5": "e93f6fb95b0ff356b5f7af4ddd15b828"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -848,8 +984,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 148662,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create_heat_js-1.20.1-0.0.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create_heat_js-1.20.1-0.0.3.jar",
             "MD5": "4a5426e0aa12c2e072066844802d59c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -858,8 +997,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28927,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create_netherless-1.20.1-1.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create_netherless-1.20.1-1.3.jar",
             "MD5": "b2162e3e4e204e1ffa8555f78d74ecbd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -868,8 +1010,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1400466,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create_structures_arise-160.33.32-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create_structures_arise-160.33.32-forge-1.20.1.jar",
             "MD5": "c92fcb1f5a4ad147eb8a2beba6fb7a88"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -878,8 +1023,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18764522,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -888,8 +1036,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2123089,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/create-confectionery1.20.1_v1.1.0.jar",
             "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -898,8 +1049,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1547196,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/createaddition-1.20.1-1.3.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/createaddition-1.20.1-1.3.1.jar",
             "MD5": "0abfc0f6db9558cba6eaee44266a4447"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -908,8 +1062,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1158417,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
             "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -918,8 +1075,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2099945,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Croptopia-1.20.1-FORGE-3.0.4.jar",
             "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -928,8 +1088,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 346886,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/csgobox-2.0.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/csgobox-2.0.1.jar",
             "MD5": "55d7a1558c217100a902d87e15098949"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -938,8 +1101,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 854729,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Cuffed-1.20.1-1.3.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Cuffed-1.20.1-1.3.9.jar",
             "MD5": "47c66227b88df7448f516106dd257d64"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -948,8 +1114,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25983,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/cupboard-1.20.1-2.7.jar",
             "MD5": "3620912474f47bf58d1fe5bfe133763a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -958,8 +1127,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -968,8 +1140,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2778416,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.22a.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/CustomPlayerModels-1.20-0.6.22a.jar",
             "MD5": "6bd8e8096a79799f4b412e57d2934da9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.dannbrown.deltaboxlib.platform:deltaboxlib:2.2.0@jar",
+          "name": "Deltabox Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 804529,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/deltaboxlib-forge-2.2.0+1.20.1.jar",
+            "MD5": "0b99cd9f14b23e69f1427e34bd211702"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -978,8 +1166,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8855491,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/doomsday_decoration-1.1.2-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/doomsday_decoration-1.1.2-forge-1.20.1.jar",
             "MD5": "e8c01d251e4f5395993d89d29a22a119"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -988,8 +1179,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540838,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/duckyperiphs-1.20.1-1.3.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/duckyperiphs-1.20.1-1.3.1-forge.jar",
             "MD5": "0ddca1e436373d7992e37ea8b7cb2402"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -998,8 +1192,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 363029,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.7.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/dummmmmmy-1.20-2.0.7.jar",
             "MD5": "64857b666f73d6226d66fb145539bd6c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1008,8 +1205,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8762342,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/DungeonsArise-1.20.x-2.1.58-release.jar",
             "MD5": "6ac48d0cf2ce763824f96f6d26963219"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1018,8 +1218,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1612566,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/easy_npc-forge-1.20.1-5.9.2.jar",
             "MD5": "69780cf62482602b3457bcf2e0656c9b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1028,8 +1231,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 187868,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/elevatorid-1.20.1-1.9.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/elevatorid-1.20.1-1.9.1-forge.jar",
             "MD5": "b4784b8ae695f179d0aefaaa82018968"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1038,8 +1244,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1048,8 +1257,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 262412,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Emojiful-Forge-1.20.1-4.2.0.jar",
             "MD5": "0ba360de4747e64c6325b74c0055479a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1058,8 +1270,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1068,8 +1283,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2275493,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/entityjs-0.5.9-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/entityjs-0.5.9-1.20.1.jar",
             "MD5": "75f85291aeb47d8b57dd80e48142260e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1078,8 +1296,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 756864,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/EpheroLib-1.20.1-FORGE-1.2.0.jar",
             "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1088,8 +1309,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 611496,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/etched-3.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/etched-3.0.4.jar",
             "MD5": "a14244fe3a300eb08eed9e99506c3ab1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1098,8 +1322,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 146211,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/exposure_catalog-1.20.1-1.0.3-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/exposure_catalog-1.20.1-1.0.3-forge.jar",
             "MD5": "6336653ecb9597a8bff62a3ada4d3821"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1108,8 +1335,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1360685,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/exposure-1.20.1-1.7.16-forge.jar",
             "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1118,8 +1348,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74447,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fabridge-0.0.4-R-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/fabridge-0.0.4-R-1.20.1.jar",
             "MD5": "e57e6eebaf23148014d5caabe7829783"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1128,8 +1361,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420179,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/FallingTree-1.20.1-4.3.4.jar",
             "MD5": "e9282de446320895a7835ce9efc6d3b7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1138,8 +1374,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3280719,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fancymenu_forge_3.5.2_MC_1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/fancymenu_forge_3.5.2_MC_1.20.1.jar",
             "MD5": "c67bc748e4099f0a9ac24ef90241a02d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1148,8 +1387,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 396086,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fantasy_armor-1.1.1-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/fantasy_armor-1.1.1-1.20.1.jar",
             "MD5": "a3ba6451050e85e7be6800fed497e095"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1158,8 +1400,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2962947,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/FarmersDelight-1.20.1-1.2.8.jar",
             "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1168,8 +1413,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19456161,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fazcraft-4.6.2.9-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/fazcraft-4.6.2.9-forge-1.20.1.jar",
             "MD5": "2795bfb2a8db2bf6d5a26ee70dbedd82"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1178,8 +1426,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1188,8 +1439,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4251277,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/FramedBlocks-9.4.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/FramedBlocks-9.4.2.jar",
             "MD5": "aaf372a3d903d167c138e2eb8110078b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1198,8 +1452,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 309560,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/framework-forge-1.20.1-0.7.15.jar",
             "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1208,8 +1465,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791841,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ftb-library-forge-2001.2.9.jar",
             "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1218,8 +1478,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 248592,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ftb-teams-forge-2001.3.1.jar",
             "MD5": "98efb58ba7cecfb39034544eced0389f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1228,8 +1491,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 542652,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/fusion-1.2.10-forge-mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/fusion-1.2.10-forge-mc1.20.1.jar",
             "MD5": "7eb95405bda76fb35c0e7eb533c9555a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1238,8 +1504,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 153436,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/GeckoJS-2001forge-1.5.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/GeckoJS-2001forge-1.5.2.jar",
             "MD5": "c7d7887320f6e720aa4419a93598c235"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1248,8 +1517,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012610,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.3.jar",
             "MD5": "eccc718f5397b24bd29b9c00b10260a1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1258,8 +1530,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47190,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/hiddennames-1.20.1-1.0.6.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/hiddennames-1.20.1-1.0.6.jar",
             "MD5": "c1b8c0f021acffc102b9a56ada733ab3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1268,8 +1543,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21158234,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/horror_element_mod-1.6.2-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/horror_element_mod-1.6.2-forge-1.20.1.jar",
             "MD5": "cf274a6cf5735639241360ef87cac7ca"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1278,8 +1556,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5517578,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/immersive_melodies-0.6.0+1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/immersive_melodies-0.6.0+1.20.1-forge.jar",
             "MD5": "9b2903b86fbc565a3996b2d1fd78eb0d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1288,8 +1569,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 85516,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/inv_view_forge-2.1.0-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/inv_view_forge-2.1.0-1.20.1.jar",
             "MD5": "9f2da2c9bf14e8b47f182e87e8658cec"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1298,8 +1582,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6585,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/irlandacore-1.0.0-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/irlandacore-1.0.0-forge-1.20.1.jar",
             "MD5": "8d93711c4ae2e27cba1b0c537c086632"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1308,8 +1595,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 609038,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.6.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ironfurnaces-1.20.1-4.1.6.jar",
             "MD5": "db76ec4beef580f5d7b75065ec2adf9d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1318,8 +1608,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1461417,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/iwannaskate-1.2.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/iwannaskate-1.2.0.jar",
             "MD5": "b4bd88188adf5d81e9f6f329c2e0cf4e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1328,8 +1621,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 550551,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Jade-1.20.1-Forge-11.13.1.jar",
             "MD5": "e36b4d172480009220be7eae12490943"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1338,8 +1634,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 191327,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/jamlib-forge-1.3.5+1.20.1.jar",
             "MD5": "c9fd9b6fbf5b73a4dff52ccaceaf485e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1348,8 +1647,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379220,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.106.jar",
             "MD5": "245af433575aef3a47ae73492196018f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1358,8 +1660,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1368,8 +1673,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17565,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/jsconf-1.1.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/jsconf-1.1.1.jar",
             "MD5": "9b12812822abe6e0279f1f8baea16c70"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1378,8 +1686,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9877729,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/JustEnoughGuns-0.13.2-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/JustEnoughGuns-0.13.2-1.20.1.jar",
             "MD5": "41346e02ee9162cc0ec7df69fa575fa1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1388,8 +1699,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1398,8 +1712,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7193768,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1408,8 +1725,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30787,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs_curios_forge_1.20.1-1.0.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kubejs_curios_forge_1.20.1-1.0.3.jar",
             "MD5": "2c9850ea1acf5d7d04eb4d8b350bb9fd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1418,8 +1738,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 42322,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs_curios_forge_1.20.1-1.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kubejs_curios_forge_1.20.1-1.0.4.jar",
             "MD5": "682321afb7a890679293c13cc80cbdc6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1428,8 +1751,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30960,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kubejs-create-forge-2001.3.0-build.8.jar",
             "MD5": "c76f71ba6d16e6fe50e76b1862b58dff"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1438,8 +1764,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1654660,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kubejs-forge-2001.6.5-build.16.jar",
             "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1448,8 +1777,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 321976,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/kubejsadditions-forge-4.3.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/kubejsadditions-forge-4.3.4.jar",
             "MD5": "3fd00cc0a566ed51706fedb677b19217"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1458,8 +1790,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 120029,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Lazr's%20Lib-1.20-1.1.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Lazr's%20Lib-1.20-1.1.1.jar",
             "MD5": "adc32a47cfec91a0d1708d5e28f1e593"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1468,8 +1803,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14789,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letmedespawn-1.20.x-forge-1.5.0.jar",
             "MD5": "0ff799ece663ddafab61ad32704fc51c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1478,8 +1816,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1440591,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-API-forge-1.2.15-forge.jar",
             "MD5": "82d392dd5ef6064d8988592a35b3b403"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1488,8 +1829,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1539376,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-bakery-forge-1.1.15.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-bakery-forge-1.1.15.jar",
             "MD5": "c1ea271f8ea61df80a37010e32d9e08f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1498,8 +1842,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7463421,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-beachparty-forge-2.0.2.jar",
             "MD5": "e547c324ac615f2fe34b742418bf5bd5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1508,8 +1855,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2228646,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-brewery-forge-1.1.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-brewery-forge-1.1.9.jar",
             "MD5": "74574ee4a0d8303f37ced2a8bc846584"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1518,8 +1868,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2618138,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-candlelight-forge-1.2.13.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-candlelight-forge-1.2.13.jar",
             "MD5": "ebc3f53e2e746df436b9ada2f641f685"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1528,8 +1881,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2816299,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-furniture-forge-1.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-furniture-forge-1.0.4.jar",
             "MD5": "5e335eb9a539cb96b9c7a6f26bc752c1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1538,8 +1894,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 735868,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-herbalbrews-forge-1.0.12.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-herbalbrews-forge-1.0.12.jar",
             "MD5": "8260ace33a59f8c85b86945510b07471"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1548,8 +1907,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2035083,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.40.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/letsdo-vinery-forge-1.4.40.jar",
             "MD5": "b260fc4ea29e6092d973b202c591f0d1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1558,28 +1920,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 458532,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/lootr-forge-1.20-0.7.35.91.jar",
             "MD5": "512ee49d21782875b33513fb074eb098"
-          }
-        },
-        {
-          "id": "me.xjqsh.lesraisinsarmor:lrarmor:0.1.4.3@jar",
-          "name": "LesRaisinsArmor",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 887099,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/lrarmor-1.20.1-0.1.4.3.jar",
-            "MD5": "915a633e24714a1dd6dd7f8f81ccd3bd"
-          }
-        },
-        {
-          "id": "me.xjqsh:lrtactical:0.3.0@jar",
-          "name": "LesRaisins Tactical Equipments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5193935,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "73f94347bbc9050c0a28cb9aff3c3d26"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1588,8 +1933,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11217408,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/lukis-grand-capitals-1.1.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/lukis-grand-capitals-1.1.1.jar",
             "MD5": "66bc23f581a5528ab1c0ee488c6b6783"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1598,8 +1946,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2010086,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/M'TEG-1.1.2-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/M'TEG-1.1.2-1.20.1.jar",
             "MD5": "1da49885316d16805ec9eb3e5c8881c4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1608,8 +1959,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25512570,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/macabre-0.8.4-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/macabre-0.8.4-forge-1.20.1.jar",
             "MD5": "38a65bd479cb5137a167d8d5e5f2820d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1618,8 +1972,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 427444,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/MapFrontiers-1.20.1-2.6.0p6-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/MapFrontiers-1.20.1-2.6.0p6-forge.jar",
             "MD5": "59eb29dd0f807793695937ccddc147e5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1628,8 +1985,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1638,8 +1998,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 870276,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/modernfix-forge-5.23.1+mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/modernfix-forge-5.23.1+mc1.20.1.jar",
             "MD5": "c8990d5be5b502ffdcb191dbfdad6ac7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1648,8 +2011,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1270442,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/moonlight-1.20-2.14.11-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/moonlight-1.20-2.14.11-forge.jar",
             "MD5": "ff5ad502d3b76d59eab710c2808eef1b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1658,8 +2024,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 344987,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/MorePeripherals_1.20.1-1.13.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/MorePeripherals_1.20.1-1.13.0.jar",
             "MD5": "e37b9ca13e65141c42c4962bdb27fdc8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1668,8 +2037,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76237,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1678,8 +2050,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 100060,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/mutil-1.20.1-6.2.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/mutil-1.20.1-6.2.0.jar",
             "MD5": "7fe61d6a7730b1b3afa4cd2d5060c237"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1688,8 +2063,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 154065,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/NoSeeNoTick-2.0.0-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/NoSeeNoTick-2.0.0-1.20.1.jar",
             "MD5": "bbf375f1dd4d1cd9bbd387c575bbd56b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1698,8 +2076,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21667,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Not%20Enough%20Recipe%20Book-FORGE-0.4.1+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Not%20Enough%20Recipe%20Book-FORGE-0.4.1+1.20.1.jar",
             "MD5": "fa8240906f36683f66de537b34587643"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1708,8 +2089,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424035,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1718,8 +2102,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1728,8 +2115,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18670406,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.6.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Oh-The-Biomes-Weve-Gone-Forge-1.6.1.jar",
             "MD5": "0f150b96df38b81ee4ea8b5b7dcb3de6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1738,8 +2128,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129454,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.13.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.13.jar",
             "MD5": "2f55a29fe87bef72a491fee14f546578"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1748,8 +2141,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24682,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/packetfixer-forge-2.0.0-1.19-to-1.20.1.jar",
             "MD5": "f1cdfcf43af91d745f3aedb570a15aed"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1758,8 +2154,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 589055,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Paraglider-forge-20.1.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Paraglider-forge-20.1.3.jar",
             "MD5": "35eba1f897eb09eaff91579d65696565"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1768,8 +2167,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1778,8 +2180,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 671605,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "95bdd5558d34044f54aab0ce292e679b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1788,8 +2193,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15240248,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/peripheralworks-forge-1.20.1-1.5.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/peripheralworks-forge-1.20.1-1.5.1.jar",
             "MD5": "7bfb29d1eac4744938a63b9141bdfe0f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1798,8 +2206,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 431585,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/pipez-forge-1.20.1-1.2.21.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/pipez-forge-1.20.1-1.2.21.jar",
             "MD5": "277bb1f28f6752a00ba3f78ddf53367d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1808,8 +2219,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 282474,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Placebo-1.20.1-8.6.3.jar",
             "MD5": "13133ab9989e8474931cd7a86bd19cc5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1818,8 +2232,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1828,8 +2245,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5298162,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
             "MD5": "e07fc42680a0163c99c21cfa9afb9816"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1838,8 +2258,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299601,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/polymorph-forge-0.49.10+1.20.1.jar",
             "MD5": "8e93675b33a89243d27f272f84e88338"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1848,8 +2271,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6658,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/recepie_for_exposure-2.0.0-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/recepie_for_exposure-2.0.0-forge-1.20.1.jar",
             "MD5": "6c0f9c05b518df3ea812529be9f09f92"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1858,8 +2284,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6686700,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.14.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/refurbished_furniture-forge-1.20.1-1.0.14.jar",
             "MD5": "cf49bb5867f7d060b82fc143e2ca0201"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1868,8 +2297,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5726781,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/RegionsUnexploredForge-0.5.6+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/RegionsUnexploredForge-0.5.6+1.20.1.jar",
             "MD5": "82c3073f606044e7b56d432d324ca480"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1878,8 +2310,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432753,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1888,8 +2323,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1798244,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1898,8 +2336,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 288142,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/rightclickharvest-forge-4.5.3+1.20.1.jar",
             "MD5": "2531423ad9a4511da59035912dd73963"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1908,8 +2349,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6052841,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sanitydim-mc1.20-1.1.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sanitydim-mc1.20-1.1.0.jar",
             "MD5": "643c8a765f9db2a6d105592ebfa8dddf"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1918,8 +2362,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 208556,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/SanityJS-1.1.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/SanityJS-1.1.2.jar",
             "MD5": "aae091e9b28bd09edb299d0c91cf02a5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1928,8 +2375,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43265,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ScorchedBrass-0.0.3-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ScorchedBrass-0.0.3-1.20.1.jar",
             "MD5": "c60f6d9e182dbe67c8097292a6c61f11"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1938,8 +2388,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13762739,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/ScorchedGuns-0.4.1-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/ScorchedGuns-0.4.1-1.20.1.jar",
             "MD5": "dd5a577c4f2dfa4b4cdfb3ef059cd86a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1948,8 +2401,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 270676,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Scribble-1.5.1+mc1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Scribble-1.5.1+mc1.20.1-forge.jar",
             "MD5": "05e53557a6e995f25fbdd5bf814b6044"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1958,8 +2414,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 99700,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/SimpleLogin-1.20.1-1.0.2-all.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/SimpleLogin-1.20.1-1.0.2-all.jar",
             "MD5": "e48ba16ac4f6eb6d215d9277110d9df0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1968,8 +2427,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 362338,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/SmartBrainLib-forge-1.20.1-1.15.jar",
             "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1978,8 +2440,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 511601,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
             "MD5": "687c18cefa558ca8101ef97914d9ba6b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1988,8 +2453,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 438540,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sodiumextras-forge-1.0.7-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sodiumextras-forge-1.0.7-1.20.1.jar",
             "MD5": "823adea3bcfd64dbdbaec46950cf4108"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1998,8 +2466,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 443978,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
             "MD5": "75807590ae2648ecdeb855705868ce59"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2008,8 +2479,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181349,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
             "MD5": "3f088a203f8e1531d4b1a497dff5de48"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2018,8 +2492,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10100488,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sons-of-sins-1.20.1-2.1.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sons-of-sins-1.20.1-2.1.9.jar",
             "MD5": "8bf7c3b2ad910fe0ffb89422f9d4ac14"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2028,8 +2505,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 928607,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.19.1263.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sophisticatedbackpacks-1.20.1-3.23.19.1263.jar",
             "MD5": "043925dccea828f03413b0942f564e5f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2038,8 +2518,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1332561,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.71.1022.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sophisticatedcore-1.20.1-1.2.71.1022.jar",
             "MD5": "abcd785dae54fd5c84df5382ed5d3c76"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2048,8 +2531,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1615476,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.51.1182.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sophisticatedstorage-1.20.1-1.3.51.1182.jar",
             "MD5": "a217a11a96693c5c89f4d614c669c39e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2071,8 +2557,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 858581,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/stardew_fishing-3.2-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/stardew_fishing-3.2-1.20.1.jar",
             "MD5": "ce96327e50b9d221eab4735c400d47b0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2081,8 +2570,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 515362,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2091,28 +2583,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1691940,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/survival_instinct-1.0.1-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/survival_instinct-1.0.1-forge-1.20.1.jar",
             "MD5": "54a68ad552f1f5b03dc9b2a6f1b3840d"
-          }
-        },
-        {
-          "id": "net.maxinablender:tacslings:1.0.0@jar",
-          "name": "Tacz Slings",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 38026,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tacslings-1.0.0-forge-1.20.1.jar",
-            "MD5": "fe5555170d4c19cd7f25e617c366478e"
-          }
-        },
-        {
-          "id": "com.tacz.guns:tacz:1.1.6-hotfix@jar",
-          "name": "Timeless & Classics Guns: Zero",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47826468,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
-            "MD5": "51636447584a75f8d2db2fb930d110b1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2121,8 +2596,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61385,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/telluriumforge-1.4.0-1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/telluriumforge-1.4.0-1.20.1-forge.jar",
             "MD5": "4b56d076802b64fbb39fc5adde28c8cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2131,8 +2609,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107532,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/TerraBlender-forge-1.20.1-3.0.1.10.jar",
             "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2141,8 +2622,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4094036,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/the_ravenous-2.0.2-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/the_ravenous-2.0.2-forge-1.20.1.jar",
             "MD5": "428c6d7f4ca27c543e4493871381b31f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2151,8 +2635,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 520148,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/toms_storage-1.20-1.7.1.jar",
             "MD5": "9fac0628fc9767b1bc50dbae38851e11"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2161,8 +2648,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 119348,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/torchmaster-20.1.9.jar",
             "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2171,8 +2661,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 117791,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/trashslot-forge-1.20-15.1.2.jar",
             "MD5": "e1df6b412a4c22894967ba42beb347be"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2181,8 +2674,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 131713,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/turtlechargingstation-1.7.0-1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/turtlechargingstation-1.7.0-1.20.1-forge.jar",
             "MD5": "df036b03b1b391a94fff03792d46ce5c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2191,8 +2687,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14936530,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/turtlematic-forge-1.20.1-1.4.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/turtlematic-forge-1.20.1-1.4.1.jar",
             "MD5": "cc5202c9bcf9dbb76294df81dec7123a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2201,8 +2700,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2894716,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/untamedwilds-1.20.1-4.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/untamedwilds-1.20.1-4.0.4.jar",
             "MD5": "50a2823317a1a4785d5b7d7cfc61657a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2211,8 +2713,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69482,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.18.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/Vanishmod-1.20.1-1.1.18.jar",
             "MD5": "86470d61af07469d2d0cdb5607e230a1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2221,8 +2726,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7750347,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/voicechat-forge-1.20.1-2.5.30.jar",
             "MD5": "76f372cea2c68a63acdb05ec3fbef008"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2231,8 +2739,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 169451,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/walkietalkie-forge-1.20.1-1.3.0.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/walkietalkie-forge-1.20.1-1.3.0.jar",
             "MD5": "232d0951cad33c7cd8a009d09accff1c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2241,8 +2752,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 244993,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
             "MD5": "b7bfa7d0edce34a901c399d5da962704"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2251,8 +2765,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37854061,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/watermedia-2.1.28.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/watermedia-2.1.28.jar",
             "MD5": "302ebe6c26891bdfe996a86cf45a910f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2261,8 +2778,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 518286,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.17.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/waystones-forge-1.20.1-14.1.17.jar",
             "MD5": "c0991381d238b6e1ba9526132b8a9a7c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2271,8 +2791,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xerca.xercapaint:xercapaint:1.20.1-1.0.1@jar",
+          "name": "Joy of Painting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 400817,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/xercapaint-1.20.1-1.0.1.jar",
+            "MD5": "11a97dc9e22c79724b82baf209ba74cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2281,8 +2817,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1105891,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
             "MD5": "2437cb642e24726a83f864e345f24479"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2291,8 +2830,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 370524,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/YungsApi-1.20-Forge-4.0.6.jar",
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2301,8 +2843,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 792381,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
             "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2311,8 +2856,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 492998,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2321,18 +2869,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23411995,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/yuushya-1.20.1-forge-2.2.3.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/yuushya-1.20.1-forge-2.2.3.jar",
             "MD5": "ecb9b749009a34326f3bdbb9b0f64045"
-          }
-        },
-        {
-          "id": "me.dantaeusb:zetter:0.21.5@jar",
-          "name": "Zetter",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1333236,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zetter-1.20.1-0.21.5.jar",
-            "MD5": "b4dd9f0cd8d5ea9a071edca18b00641d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2341,8 +2882,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3251156,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/required/zoe-2.1.0-forge-1.20.1.jar",
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/zoe-2.1.0-forge-1.20.1.jar",
             "MD5": "cab3283a62026776f6fdd2a9ea2625b8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2951,17 +3495,6 @@
           }
         },
         {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 71,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/servers.dat",
-            "MD5": "c89216a807f3c87d9be8fab4838ccf9f",
-            "path": "kubejs/servers.dat"
-          }
-        },
-        {
           "id": "armor.js",
           "name": "armor.js",
           "type": "File",
@@ -3003,6 +3536,17 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
             "MD5": "747498450aca428b23f5583c5490e867",
             "path": "kubejs/startup_scripts/os.js"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/servers.dat",
+            "MD5": "e9ddd71a48b92c39b853957e8ff8886e",
+            "path": "servers.dat"
           }
         }
       ]

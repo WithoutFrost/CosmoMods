@@ -51,13 +51,50 @@ StartupEvents.registry('item', event => {
     event.create('cosmosstuff:divinamessorem', 'anim_sword')
         .displayName("Divina Messorem")
         .unstackable()
-        .tier('iron')
-        .attackDamageBaseline(16.0)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/divinamessorem.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/divinamessorem.png')
         })
+    event.create('cosmosstuff:lux', 'anim_sword')
+        .displayName("Lux")
+        .unstackable()
+        .tier('netherite')
+        .attackDamageBaseline(14.0)
+        .speedBaseline(-0.25)
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/weapons/lux.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/weapons/lux.png')
+        })
+    event.create('cosmosstuff:umbra', 'anim_sword')
+        .displayName("Umbra")
+        .unstackable()
+        .tier('netherite')
+        .attackDamageBaseline(15.0)
+        .speedBaseline(-0.25)
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/weapons/umbra.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/weapons/umbra.png')
+        })
+    event.create('cosmosstuff:rita', 'anim_sword')
+        .displayName("Securi Gabrielis")
+        .unstackable()
+        .tier('netherite')
+        .attackDamageBaseline(20.0)
+        .speedBaseline(-2.0)
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/weapons/rita.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/weapons/rita.png')
+        })
+    event.create('cosmosstuff:cosmosstuff', 'anim_sword')
+        .displayName("Machado De Dor")
+        .unstackable()
+        .tier('netherite')
+        .attackDamageBaseline(20.0)
+        .speedBaseline(-1.0)
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/weapons/cosmosstuff.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/weapons/cosmosstuff.png')
+        })
+        
+    
 })
-
-
-

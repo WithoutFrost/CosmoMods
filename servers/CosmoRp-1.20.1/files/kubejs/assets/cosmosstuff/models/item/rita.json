@@ -1,0 +1,125 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        -22.75,
+        1
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        -22.75,
+        1
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -92,
+        0
+      ],
+      "translation": [
+        1.25,
+        -3.25,
+        2.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        92,
+        0
+      ],
+      "translation": [
+        1.25,
+        -3.25,
+        2.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -8,
+        0
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        -42
+      ],
+      "translation": [
+        -8,
+        -8.75,
+        0
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        0,
+        -25
+      ],
+      "translation": [
+        -9.5,
+        -41.75,
+        4.75
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        50
+      ],
+      "translation": [
+        24.5,
+        -22.75,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cosmosstuff:item/rita"
+  }
+}

@@ -58,6 +58,20 @@ EntityEvents.hurt(event => {
 
 //------------------------------------------//
 // --- EFEITOS DE SANIDADE E FORÇA A CADA TICK ---
+const Fome_Tag = "fome";
+
+PlayerEvents.tick((event)=> {
+    const player  = event.player;
+        const hasLaminaeFames = player.inventory.allItems.some(item =>
+        !item.isEmpty() && item.id === 'cosmosstuff:laminae_fames'
+    )
+        const hasLaminae = player.inventory.allItems.some(item =>
+        !item.isEmpty() && item.id === 'cosmosstuff:fames'
+    )
+        if(!player.getTags().contains(Fome_Tag)&&(hasLaminaeFames||hasLaminae)){
+            player.runCommandSilent('/damage @s 5 minecraft:magic')
+        }
+});
 PlayerEvents.tick(event => {
     const { player } = event
     const server = player.getServer()
@@ -103,6 +117,8 @@ EntityEvents.hurt(event => {
     if (attackingEntity.mainHandItem.id != 'cosmosstuff:laminae_fames') return
     entity.potionEffects.add("minecraft:hunger", 1000, 2, false, true)
 })
+
+
 
 // --- EVENTO DE INTERAÇÃO: TROCAR ITEM COM SHIFT + CLIQUE DIREITO ---
 ItemEvents.rightClicked(event => {

@@ -143,3 +143,5 @@ ItemEvents.rightClicked(event => {
         event.cancel()
     }
 })
+
+// armor

@@ -3011,6 +3011,17 @@
           }
         },
         {
+          "id": "blade_mahoraga.geo.json",
+          "name": "blade_mahoraga.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 2614,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/blade_mahoraga.geo.json",
+            "MD5": "fd268d91bfabc81a84fa6b8855443ff0",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/blade_mahoraga.geo.json"
+          }
+        },
+        {
           "id": "cosmosstuff.geo.json",
           "name": "cosmosstuff.geo.json",
           "type": "File",
@@ -3099,6 +3110,17 @@
           }
         },
         {
+          "id": "ravenous_claws.geo.json",
+          "name": "ravenous_claws.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 11613,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/ravenous_claws.geo.json",
+            "MD5": "0cb343f32c8e43b5e56dbc1942898689",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/ravenous_claws.geo.json"
+          }
+        },
+        {
           "id": "rita.geo.json",
           "name": "rita.geo.json",
           "type": "File",
@@ -3107,6 +3129,17 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/rita.geo.json",
             "MD5": "3a17f12d49ab2899e22a241721aa281c",
             "path": "kubejs/assets/cosmosstuff/geo/os/weapons/rita.geo.json"
+          }
+        },
+        {
+          "id": "riversofblood.geo.json",
+          "name": "riversofblood.geo.json",
+          "type": "File",
+          "artifact": {
+            "size": 14446,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/riversofblood.geo.json",
+            "MD5": "316c01285ef437ea7e20cc7feac4998d",
+            "path": "kubejs/assets/cosmosstuff/geo/os/weapons/riversofblood.geo.json"
           }
         },
         {
@@ -3129,6 +3162,17 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/geo/os/weapons/umbra.geo.json",
             "MD5": "261e786a1dcdb93ab9ca69bf199c3e37",
             "path": "kubejs/assets/cosmosstuff/geo/os/weapons/umbra.geo.json"
+          }
+        },
+        {
+          "id": "blade_mahoraga.json",
+          "name": "blade_mahoraga.json",
+          "type": "File",
+          "artifact": {
+            "size": 1543,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/blade_mahoraga.json",
+            "MD5": "a5d609c406c4f646830481197a3afa27",
+            "path": "kubejs/assets/cosmosstuff/models/item/blade_mahoraga.json"
           }
         },
         {
@@ -3231,6 +3275,17 @@
           }
         },
         {
+          "id": "ravenous_claws.json",
+          "name": "ravenous_claws.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/ravenous_claws.json",
+            "MD5": "34a32c2aaa93610e4dc6efce42cc8555",
+            "path": "kubejs/assets/cosmosstuff/models/item/ravenous_claws.json"
+          }
+        },
+        {
           "id": "rita.json",
           "name": "rita.json",
           "type": "File",
@@ -3239,6 +3294,17 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/rita.json",
             "MD5": "fd2e5883a91b3e0bce1fdcbf16e29ca8",
             "path": "kubejs/assets/cosmosstuff/models/item/rita.json"
+          }
+        },
+        {
+          "id": "riversofblood.json",
+          "name": "riversofblood.json",
+          "type": "File",
+          "artifact": {
+            "size": 1877,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/models/item/riversofblood.json",
+            "MD5": "ee67393721430b2be282f97b4f4be692",
+            "path": "kubejs/assets/cosmosstuff/models/item/riversofblood.json"
           }
         },
         {
@@ -3495,6 +3561,28 @@
           }
         },
         {
+          "id": "ravenous_claws.png",
+          "name": "ravenous_claws.png",
+          "type": "File",
+          "artifact": {
+            "size": 1288,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/ravenous_claws.png",
+            "MD5": "c679c8163539b4f662a212ee36dea616",
+            "path": "kubejs/assets/cosmosstuff/textures/os/item/ravenous_claws.png"
+          }
+        },
+        {
+          "id": "riversofblood.png",
+          "name": "riversofblood.png",
+          "type": "File",
+          "artifact": {
+            "size": 3494,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/item/riversofblood.png",
+            "MD5": "d6afeba07a7f00683f4525bf3eefa1c6",
+            "path": "kubejs/assets/cosmosstuff/textures/os/item/riversofblood.png"
+          }
+        },
+        {
           "id": "umbra.png",
           "name": "umbra.png",
           "type": "File",
@@ -3514,6 +3602,17 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/axbass.png",
             "MD5": "a1fd47f41544370a289b5b2409d88518",
             "path": "kubejs/assets/cosmosstuff/textures/os/weapons/axbass.png"
+          }
+        },
+        {
+          "id": "blade_mahoraga.png",
+          "name": "blade_mahoraga.png",
+          "type": "File",
+          "artifact": {
+            "size": 6451,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/blade_mahoraga.png",
+            "MD5": "7c737124e48eddd4a182e660a398313b",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/blade_mahoraga.png"
           }
         },
         {
@@ -3572,6 +3671,17 @@
           }
         },
         {
+          "id": "ravenous_claws.png",
+          "name": "ravenous_claws.png",
+          "type": "File",
+          "artifact": {
+            "size": 1288,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/ravenous_claws.png",
+            "MD5": "c679c8163539b4f662a212ee36dea616",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/ravenous_claws.png"
+          }
+        },
+        {
           "id": "rita.png",
           "name": "rita.png",
           "type": "File",
@@ -3583,6 +3693,17 @@
           }
         },
         {
+          "id": "riversofblood.png",
+          "name": "riversofblood.png",
+          "type": "File",
+          "artifact": {
+            "size": 3494,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/riversofblood.png",
+            "MD5": "d6afeba07a7f00683f4525bf3eefa1c6",
+            "path": "kubejs/assets/cosmosstuff/textures/os/weapons/riversofblood.png"
+          }
+        },
+        {
           "id": "umbra.png",
           "name": "umbra.png",
           "type": "File",
@@ -3591,17 +3712,6 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/cosmosstuff/textures/os/weapons/umbra.png",
             "MD5": "52311179e2d1f34d097c583c9afcd16e",
             "path": "kubejs/assets/cosmosstuff/textures/os/weapons/umbra.png"
-          }
-        },
-        {
-          "id": "en_us.json",
-          "name": "en_us.json",
-          "type": "File",
-          "artifact": {
-            "size": 2,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/assets/ponderjs_generated/lang/en_us.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "path": "kubejs/assets/ponderjs_generated/lang/en_us.json"
           }
         },
         {
@@ -3627,17 +3737,6 @@
           }
         },
         {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 410,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/client_scripts/jsconfig.json",
-            "MD5": "c0bd08b9baa7b31b19a3a1a7ab26ac26",
-            "path": "kubejs/client_scripts/jsconfig.json"
-          }
-        },
-        {
           "id": "client.properties",
           "name": "client.properties",
           "type": "File",
@@ -3660,25 +3759,25 @@
           }
         },
         {
-          "id": "probe-settings.json",
-          "name": "probe-settings.json",
+          "id": "slash.mcfunction",
+          "name": "slash.mcfunction",
           "type": "File",
           "artifact": {
-            "size": 94,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/probe-settings.json",
-            "MD5": "3903914d2e0ee671081cb13eb97f2a03",
-            "path": "kubejs/config/probe-settings.json"
+            "size": 51370,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/functions/slash.mcfunction",
+            "MD5": "2fd4606d3248b30e73da314e3601b128",
+            "path": "kubejs/data/cosmosstuff/functions/slash.mcfunction"
           }
         },
         {
-          "id": "probejs.json",
-          "name": "probejs.json",
+          "id": "slashult.mcfunction",
+          "name": "slashult.mcfunction",
           "type": "File",
           "artifact": {
-            "size": 1005,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/probejs.json",
-            "MD5": "82bf1f65961b96f8e3dcc60486ca2e18",
-            "path": "kubejs/config/probejs.json"
+            "size": 4828,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/functions/slashult.mcfunction",
+            "MD5": "a70297e5f6042da9a7f8dc55ec688780",
+            "path": "kubejs/data/cosmosstuff/functions/slashult.mcfunction"
           }
         },
         {
@@ -3748,25 +3847,14 @@
           }
         },
         {
-          "id": "index.html",
-          "name": "index.html",
+          "id": "blood.js",
+          "name": "blood.js",
           "type": "File",
           "artifact": {
-            "size": 13388005,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/documentation/index.html",
-            "MD5": "a600fe68df31edf7d113face33197f84",
-            "path": "kubejs/documentation/index.html"
-          }
-        },
-        {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 309,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/jsconfig.json",
-            "MD5": "908354e326663c20f025f65a929c5d9b",
-            "path": "kubejs/jsconfig.json"
+            "size": 10796,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/blood.js",
+            "MD5": "2ca3216a54b6fb96b724878056b27f62",
+            "path": "kubejs/server_scripts/blood.js"
           }
         },
         {
@@ -3807,21 +3895,10 @@
           "name": "gabri_event.js",
           "type": "File",
           "artifact": {
-            "size": 2289,
+            "size": 2596,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/gabri_event.js",
-            "MD5": "a7b043a153a0f796b239f9da03e914d3",
+            "MD5": "04da6493867cbd5dff3758896680f1e1",
             "path": "kubejs/server_scripts/gabri_event.js"
-          }
-        },
-        {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 410,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/jsconfig.json",
-            "MD5": "05a4f1d94770c23f57a73a8a32b21cd2",
-            "path": "kubejs/server_scripts/jsconfig.json"
           }
         },
         {
@@ -3847,24 +3924,13 @@
           }
         },
         {
-          "id": "machado_event.js",
-          "name": "machado_event.js",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/machado_event.js",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "kubejs/server_scripts/machado_event.js"
-          }
-        },
-        {
           "id": "os_events.js",
           "name": "os_events.js",
           "type": "File",
           "artifact": {
-            "size": 5548,
+            "size": 5558,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/os_events.js",
-            "MD5": "ac0f28f60a30c961c9765385ab220a0c",
+            "MD5": "ae2e2cd2a3968333a4e3ffd0b7b29b71",
             "path": "kubejs/server_scripts/os_events.js"
           }
         },
@@ -3873,9 +3939,9 @@
           "name": "pasiva.js",
           "type": "File",
           "artifact": {
-            "size": 0,
+            "size": 2272,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/pasiva.js",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "MD5": "a951c90350c316ee5f3f7adb1d8e197f",
             "path": "kubejs/server_scripts/pasiva.js"
           }
         },
@@ -3895,9 +3961,9 @@
           "name": "armor.js",
           "type": "File",
           "artifact": {
-            "size": 1522,
+            "size": 3911,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/armor.js",
-            "MD5": "3d735deab4e95e9b7584a16880b71336",
+            "MD5": "b8f3c5dc3689a85e1efff25e62ce0943",
             "path": "kubejs/startup_scripts/armor.js"
           }
         },
@@ -3924,24 +3990,13 @@
           }
         },
         {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 412,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/jsconfig.json",
-            "MD5": "fad954cc301affd70fa1e4cc830fe2fa",
-            "path": "kubejs/startup_scripts/jsconfig.json"
-          }
-        },
-        {
           "id": "os.js",
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 4226,
+            "size": 5491,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "c10817649493ee85d861a043edc9a7c2",
+            "MD5": "03499be2b835e652001a3aa55166dcd0",
             "path": "kubejs/startup_scripts/os.js"
           }
         },

@@ -1,0 +1,68 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    64,
+    64
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        89.77,
+        1.98,
+        -88.5
+      ],
+      "translation": [
+        -2.25,
+        -2.25,
+        1.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90.23,
+        1.98,
+        -88.5
+      ],
+      "translation": [
+        -2.25,
+        -2.25,
+        1.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -129,
+        83.75,
+        -180
+      ],
+      "translation": [
+        8.75,
+        -6.25,
+        -14
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -129,
+        -98,
+        -180
+      ],
+      "translation": [
+        8.75,
+        -6.25,
+        -14
+      ]
+    },
+    "gui": {
+      "rotation": [
+        52.23000000000002,
+        26.65000000000009,
+        16.329999999999927
+      ]
+    }
+  },
+  "textures": {
+    "particle": "cosmosstuff:item/ravenous_claws"
+  }
+}

@@ -1,19 +1,19 @@
 ItemEvents.rightClicked(event => {
-    let { player, item, item: { id } } = event;
+    let { player, level } = event;
     const mainHandItem = player.mainHandItem
-    const offHandItem = player.offHandItem
     if (mainHandItem.id === 'cosmosstuff:rita'){
-    player.addItemCooldown(mainHandItem, 6000)
-    player.runCommandSilent('/playsound minecraft:entity.elder_guardian.ambient ambient @a ~ ~ ~')
-    player.runCommandSilent('/execute at @s as @e[distance=..7] run effect give @s minecraft:resistance 60 1 true')
-    player.runCommandSilent('/execute at @s as @e[distance=..7] run effect give @s minecraft:regeneration 60 1 true')
-    player.runCommandSilent('/execute at @s as @e[distance=..7] run effect give @s minecraft:haste 60 1 true')
-    player.runCommandSilent('/execute at @s as @e[distance=..7] run effect give @s minecraft:absorption 60 3 true')
-    player.runCommandSilent('/particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
-    player.runCommandSilent('/particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
-    player.runCommandSilent('/particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
-    player.runCommandSilent('/particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
-
+        player.addItemCooldown(mainHandItem, 6000)
+        
+        // Usar level.runCommand() em vez de player.runCommandSilent()
+        level.runCommand('execute at ' + player.uuid + ' run playsound minecraft:entity.elder_guardian.ambient ambient @a ~ ~ ~')
+        level.runCommand('execute at ' + player.uuid + ' as @e[distance=..7] run effect give @s minecraft:resistance 60 1 true')
+        level.runCommand('execute at ' + player.uuid + ' as @e[distance=..7] run effect give @s minecraft:regeneration 60 1 true')
+        level.runCommand('execute at ' + player.uuid + ' as @e[distance=..7] run effect give @s minecraft:haste 60 1 true')
+        level.runCommand('execute at ' + player.uuid + ' as @e[distance=..7] run effect give @s minecraft:absorption 60 3 true')
+        level.runCommand('execute at ' + player.uuid + ' run particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
+        level.runCommand('execute at ' + player.uuid + ' run particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
+        level.runCommand('execute at ' + player.uuid + ' run particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
+        level.runCommand('execute at ' + player.uuid + ' run particle minecraft:end_rod ~ ~ ~ 3.125 3.125 3.125 0.125 100')
    }    
 });
 
@@ -36,13 +36,14 @@ EntityEvents.hurt(event => {
 const Diva_Tag = "santo";
 
 PlayerEvents.tick((event)=> {
-    const player  = event.player;
-        const hasrita = player.inventory.allItems.some(item =>
+    const player = event.player;
+    const hasrita = player.inventory.allItems.some(item =>
         !item.isEmpty() && item.id === 'cosmosstuff:rita'
     )
-        if(!player.getTags().contains(Diva_Tag)&&hasrita){
-            player.runCommandSilent('/damage @s 5 minecraft:magic')
-            player.runCommandSilent('/effect give @s minecraft:slowness 5 6 true')
-        }
+    
+    if(!player.getTags().contains(Diva_Tag) && hasrita){
+        // Usar level.runCommand() em vez de player.runCommandSilent()
+        level.runCommand('damage ' + player.uuid + ' 5 minecraft:magic')
+        level.runCommand('effect give ' + player.uuid + ' minecraft:slowness 5 6 true')
+    }
 });
-

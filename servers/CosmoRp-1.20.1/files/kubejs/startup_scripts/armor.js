@@ -55,3 +55,59 @@ ItemEvents.modification(event => {
     item.armorKnockbackResistance = 1
   })
 })
+
+StartupEvents.registry("item", event => {
+    event.create("cosmosstuff:bellumarmis_chestplate", "anim_chestplate")
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/armor/bellumarmis.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/armor/bellumarmis.png')
+        })
+        .boneVisibility((renderer, slot) => {
+            renderer.setAllVisible(false);
+
+            if (slot == "chest") {
+                renderer.setBoneVisible(renderer.getBodyBone(), true);
+                renderer.setBoneVisible(renderer.getRightArmBone(), true);
+                renderer.setBoneVisible(renderer.getLeftArmBone(), true);
+            }
+        })
+    event.create("cosmosstuff:bellumarmis_boots", "anim_boots")
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/armor/bellumarmis.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/armor/bellumarmis.png')
+        })
+        .boneVisibility((renderer, slot) => {
+            renderer.setAllVisible(false);
+
+            if (slot == "feet") {
+                renderer.setBoneVisible(renderer.getRightBootBone(), true);
+                renderer.setBoneVisible(renderer.getLeftBootBone(), true);
+            }
+        })
+        event.create("cosmosstuff:bellumarmis_leggings", "anim_leggings")
+        .texture("cosmosstuff:textures/os/item/bellumarmis_leggings.png")
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/armor/bellumarmis.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/armor/bellumarmis.png')
+        })
+        .boneVisibility((renderer, slot) => {
+            renderer.setAllVisible(false);
+
+            if (slot == "legs") {
+                renderer.setBoneVisible(renderer.getRightLegBone(), true);
+                renderer.setBoneVisible(renderer.getLeftLegBone(), true);
+            }
+        })
+        event.create("cosmosstuff:bellumarmis_helmet", "anim_helmet")
+        .geoModel(geo => {
+            geo.setSimpleModel('cosmosstuff:geo/os/armor/bellumarmis.geo.json')
+            geo.setSimpleTexture('cosmosstuff:textures/os/armor/bellumarmis.png')
+        })
+        .boneVisibility((renderer, slot) => {
+            renderer.setAllVisible(false);
+
+            if (slot == "head") {
+                renderer.setBoneVisible(renderer.getHeadBone(), true);
+            }
+        })
+})

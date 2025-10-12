@@ -641,6 +641,19 @@
           }
         },
         {
+          "id": "com.nyfaria:batsgalore:1.2.3@jar",
+          "name": "Bats Galore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 686398,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/batsgalore-forge-1.20.1-1.2.3.jar",
+            "MD5": "3555803dd8ff880ff2f19878946f7438"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator.berezkaapi:berezka_api:1.0.14@jar",
           "name": "Berezka_api",
           "type": "ForgeMod",
@@ -2416,6 +2429,19 @@
             "size": 99700,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/SimpleLogin-1.20.1-1.0.2-all.jar",
             "MD5": "e48ba16ac4f6eb6d215d9277110d9df0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.satisfy:sleepy_hollows:1.0.2@jar",
+          "name": "Sleepy Hollows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2279076,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/forgemods/optionalon/sleepy_hollows-forge-1.0.2.jar",
+            "MD5": "18e38162ee117431fce149d1a07e42ef"
           },
           "required": {
             "value": false

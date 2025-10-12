@@ -4027,6 +4027,17 @@
           }
         },
         {
+          "id": "maconha.txt",
+          "name": "maconha.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/maconha.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "maconha.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",

@@ -3864,17 +3864,6 @@
           }
         },
         {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 410,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/client_scripts/jsconfig.json",
-            "MD5": "c0bd08b9baa7b31b19a3a1a7ab26ac26",
-            "path": "kubejs/client_scripts/jsconfig.json"
-          }
-        },
-        {
           "id": "client.properties",
           "name": "client.properties",
           "type": "File",
@@ -3894,28 +3883,6 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/common.properties",
             "MD5": "8a043679c611b715de407c7f30d89998",
             "path": "kubejs/config/common.properties"
-          }
-        },
-        {
-          "id": "probe-settings.json",
-          "name": "probe-settings.json",
-          "type": "File",
-          "artifact": {
-            "size": 95,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/probe-settings.json",
-            "MD5": "0c0f0bbcf6a12f1870f034bfdf30e978",
-            "path": "kubejs/config/probe-settings.json"
-          }
-        },
-        {
-          "id": "probejs.json",
-          "name": "probejs.json",
-          "type": "File",
-          "artifact": {
-            "size": 1005,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/config/probejs.json",
-            "MD5": "82bf1f65961b96f8e3dcc60486ca2e18",
-            "path": "kubejs/config/probejs.json"
           }
         },
         {
@@ -4037,17 +4004,6 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/data/cosmosstuff/weapon_attributes/umbra.json",
             "MD5": "e8f59c850c71c6b3460868101ad53585",
             "path": "kubejs/data/cosmosstuff/weapon_attributes/umbra.json"
-          }
-        },
-        {
-          "id": ".blood.js.kate-swp",
-          "name": ".blood.js.kate-swp",
-          "type": "File",
-          "artifact": {
-            "size": 62,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/.blood.js.kate-swp",
-            "MD5": "3532280b2f1f959f56d18100eaa711b5",
-            "path": "kubejs/server_scripts/.blood.js.kate-swp"
           }
         },
         {
@@ -4224,17 +4180,6 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
             "MD5": "2f2d0dead7ea35003b3a1138bdb1adc4",
             "path": "kubejs/startup_scripts/os.js"
-          }
-        },
-        {
-          "id": "maconha.txt",
-          "name": "maconha.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/maconha.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "maconha.txt"
           }
         },
         {

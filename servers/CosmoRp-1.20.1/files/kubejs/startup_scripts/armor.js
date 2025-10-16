@@ -54,6 +54,32 @@ ItemEvents.modification(event => {
     item.armorToughness = 3
     item.armorKnockbackResistance = 1
   })
+   // ------------------------
+  // cosmos
+  // ------------------------
+  event.modify('cosmosstuff:bellumarmis_helmet', item => {
+    item.armorProtection = 3
+    item.armorToughness = 3
+    item.armorKnockbackResistance = 1
+  })
+
+  event.modify('cosmosstuff:bellumarmis_chestplate', item => {
+    item.armorProtection = 8
+    item.armorToughness = 3
+    item.armorKnockbackResistance = 1
+  })
+
+  event.modify('cosmosstuff:bellumarmis_leggings', item => {
+    item.armorProtection = 6
+    item.armorToughness = 3
+    item.armorKnockbackResistance = 1
+  })
+
+  event.modify('cosmosstuff:bellumarmis_boots', item => {
+    item.armorProtection = 3
+    item.armorToughness = 3
+    item.armorKnockbackResistance = 1
+  })
 })
 
 StartupEvents.registry("item", event => {

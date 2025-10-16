@@ -24,7 +24,6 @@ ServerEvents.tick(event => {
                     player.potionEffects.add('minecraft:resistance', 21, 1, true, false) // Resistência 2 (mais forte)
                     player.potionEffects.add('minecraft:regeneration', 21, 1, true, false) // Regeneração 2
                     player.potionEffects.add('minecraft:speed', 21, 1, true, false) // Velocidade 2
-                    player.runCommandSilent('function cosmosstuff:slash')
                 }
             }
         })

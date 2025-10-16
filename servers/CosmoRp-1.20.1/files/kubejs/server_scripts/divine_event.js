@@ -18,6 +18,14 @@ ItemEvents.rightClicked(event => {
     let motionVec3 = new Vec3(motionX, motionY, motionZ);
     player.setDeltaMovement(motionVec3);
 });
+// APLICA FRAQUESA SE O JOGADOR BATER EM ALGUMA ENTIDADE
+EntityEvents.hurt(event => {
+    const { entity, source } = event
+    let attackingEntity = source.actual
+    if (!attackingEntity) return
+    if (attackingEntity.mainHandItem.id != 'cosmosstuff:divinamessorem') return
+    entity.potionEffects.add("minecraft:weakness", 1000, 1, false, true)
+})
 PlayerEvents.tick(event => {
     const { player } = event
 
@@ -27,6 +35,9 @@ PlayerEvents.tick(event => {
     // APLICA FORÇA SE O JOGADOR ESTIVER SEGURANDO A ESPADA
     if (!mainHandItem.isEmpty() && mainHandItem.id === 'cosmosstuff:divinamessorem') {
         player.potionEffects.add('minecraft:strength', 40, 0, false, false)
+    // APLICA REGEN SE O JOGADOR ESTIVER SEGURANDO A ESPADA    
+    if (!mainHandItem.isEmpty() && mainHandItem.id === 'cosmosstuff:divinamessorem') {
+        player.potionEffects.add('minecraft:regeneration', 40, 0, false, false)
 
         // Slow Falling enquanto estiver no ar
         const blockBelow = player.level.getBlock(player.x, player.y - 3, player.z)
@@ -34,5 +45,5 @@ PlayerEvents.tick(event => {
             player.potionEffects.add('minecraft:slow_falling', 3, 0, false, false)
         }
     }
-    
+}    
 });

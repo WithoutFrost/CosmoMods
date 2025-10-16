@@ -51,6 +51,7 @@ StartupEvents.registry('item', event => {
     event.create('cosmosstuff:divinamessorem', 'anim_sword')
         .displayName("Divina Messorem")
         .unstackable()
+        .attackDamageBaseline(30.0)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/divinamessorem.geo.json')
             geo.setSimpleTexture('cosmosstuff:textures/os/weapons/divinamessorem.png')
@@ -59,7 +60,6 @@ StartupEvents.registry('item', event => {
         .displayName("Lux")
         .unstackable()
         .tier('netherite')
-        .attackDamageBaseline(14.0)
         .speedBaseline(-0.25)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/lux.geo.json')

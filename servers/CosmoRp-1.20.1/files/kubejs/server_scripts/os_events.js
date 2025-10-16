@@ -55,6 +55,13 @@ EntityEvents.hurt(event => {
     if (attackingEntity.mainHandItem.id != 'cosmosstuff:kaminoomamori') return
     entity.potionEffects.add("minecraft:weakness", 1000, 0, false, true)
 })
+EntityEvents.hurt(event => {
+    const { entity, source } = event
+    let attackingEntity = source.actual
+    if (!attackingEntity) return
+    if (attackingEntity.mainHandItem.id != 'cosmosstuff:blade_mahoraga') return
+    entity.potionEffects.add("minecraft:slowness", 1000, 99, false, true)
+})
 
 //------------------------------------------//
 // --- EFEITOS DE SANIDADE E FORÇA A CADA TICK ---

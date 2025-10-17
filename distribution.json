@@ -4062,17 +4062,6 @@
           }
         },
         {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 410,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/server_scripts/jsconfig.json",
-            "MD5": "05a4f1d94770c23f57a73a8a32b21cd2",
-            "path": "kubejs/server_scripts/jsconfig.json"
-          }
-        },
-        {
           "id": "kirito_event.js",
           "name": "kirito_event.js",
           "type": "File",
@@ -4158,17 +4147,6 @@
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/fnat.js",
             "MD5": "29f6edcf691bcb00c20f9cec488420e2",
             "path": "kubejs/startup_scripts/fnat.js"
-          }
-        },
-        {
-          "id": "jsconfig.json",
-          "name": "jsconfig.json",
-          "type": "File",
-          "artifact": {
-            "size": 412,
-            "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/jsconfig.json",
-            "MD5": "fad954cc301affd70fa1e4cc830fe2fa",
-            "path": "kubejs/startup_scripts/jsconfig.json"
           }
         },
         {

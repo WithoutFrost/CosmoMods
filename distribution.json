@@ -4121,9 +4121,9 @@
           "name": "armor.js",
           "type": "File",
           "artifact": {
-            "size": 4628,
+            "size": 6497,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/armor.js",
-            "MD5": "5d3ebe6df7930a03c27b1e99440ab26b",
+            "MD5": "7f54e297831d43262ba76ddf59ea1797",
             "path": "kubejs/startup_scripts/armor.js"
           }
         },

@@ -4154,9 +4154,9 @@
           "name": "os.js",
           "type": "File",
           "artifact": {
-            "size": 5491,
+            "size": 5492,
             "url": "https://withoutfrost.github.io/CosmoMods/servers/CosmoRp-1.20.1/files/kubejs/startup_scripts/os.js",
-            "MD5": "2f2d0dead7ea35003b3a1138bdb1adc4",
+            "MD5": "7891a2d99c044b868a61c147120064b1",
             "path": "kubejs/startup_scripts/os.js"
           }
         },

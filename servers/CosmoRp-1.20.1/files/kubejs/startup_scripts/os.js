@@ -119,7 +119,7 @@ StartupEvents.registry('item', event => {
         .displayName("Rivers of Blood")
         .unstackable()
         .tier('netherite')
-        .attackDamageBaseline(5.0)
+        .attackDamageBaseline(14.0)
         .speedBaseline(-1.0)
         .geoModel(geo => {
             geo.setSimpleModel('cosmosstuff:geo/os/weapons/riversofblood.geo.json')
